@@ -1,0 +1,200 @@
+device: cuda | n_gpu: 1
+Total # of train/dev/test points: 1504/175/236
+Epoch: 0
+Train loss: 0.7449060275138896
+gold_sens: prior
+pred_sens: prior
+The performance on dev set: 
+ Accuracy: 68.6877%
+Precision: 73.0243%
+   Recall: 40.0000%
+       F1: 49.3285%
+              precision    recall  f1-score   support
+
+       prior       0.85      0.97      0.90       273
+      create       0.77      0.69      0.73        85
+       exist       0.64      0.71      0.67       451
+        move       0.77      0.25      0.38       157
+     destroy       0.60      0.37      0.45        68
+        post       0.55      0.71      0.62       170
+
+    accuracy                           0.69      1204
+   macro avg       0.69      0.62      0.63      1204
+weighted avg       0.70      0.69      0.67      1204
+
+Saved checkpoint at: ./logs/propara/train/state/ckpts/best.ckpt
+gold_sens: exist
+pred_sens: prior
+The performance on test set: 
+ Accuracy: 68.817%
+Precision: 69.275%
+   Recall: 40.898%
+       F1: 47.929%
+              precision    recall  f1-score   support
+
+       prior       0.79      0.94      0.86       412
+      create       0.77      0.72      0.74       128
+       exist       0.63      0.65      0.64       513
+        move       0.71      0.16      0.27       152
+     destroy       0.59      0.39      0.47       121
+        post       0.63      0.77      0.69       348
+
+    accuracy                           0.69      1674
+   macro avg       0.69      0.61      0.61      1674
+weighted avg       0.69      0.69      0.67      1674
+
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 16, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/propara/train/state', 'random_seed': 1234, 'learning_rate': 0.0001, 'accuracy_dev': 0.6868770764119602, 'precision_dev': 0.7302428754041658, 'recall_dev': 0.4, 'f1_dev': 0.4932850481803509, 'accuracy_test': 0.6881720430107527, 'precision_test': 0.6927487828048926, 'recall_test': 0.4089775561097257, 'f1_test': 0.4792930619502427, 'best_epoch': 0}
+Epoch: 1
+Train loss: 0.2885736832280218
+gold_sens: prior
+pred_sens: prior
+The performance on dev set: 
+ Accuracy: 75.1661%
+Precision: 75.5422%
+   Recall: 50.0000%
+       F1: 59.0482%
+              precision    recall  f1-score   support
+
+       prior       0.87      0.95      0.91       273
+      create       0.76      0.74      0.75        85
+       exist       0.70      0.79      0.74       451
+        move       0.76      0.41      0.53       157
+     destroy       0.75      0.40      0.52        68
+        post       0.71      0.81      0.75       170
+
+    accuracy                           0.75      1204
+   macro avg       0.76      0.68      0.70      1204
+weighted avg       0.75      0.75      0.74      1204
+
+Saved checkpoint at: ./logs/propara/train/state/ckpts/best.ckpt
+gold_sens: exist
+pred_sens: prior
+The performance on test set: 
+ Accuracy: 71.625%
+Precision: 72.826%
+   Recall: 44.638%
+       F1: 53.911%
+              precision    recall  f1-score   support
+
+       prior       0.84      0.94      0.89       412
+      create       0.80      0.72      0.76       128
+       exist       0.62      0.73      0.67       513
+        move       0.65      0.29      0.40       152
+     destroy       0.75      0.36      0.48       121
+        post       0.71      0.74      0.72       348
+
+    accuracy                           0.72      1674
+   macro avg       0.73      0.63      0.65      1674
+weighted avg       0.72      0.72      0.70      1674
+
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 16, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/propara/train/state', 'random_seed': 1234, 'learning_rate': 0.0001, 'accuracy_dev': 0.7516611295681063, 'precision_dev': 0.7554221386671969, 'recall_dev': 0.5, 'f1_dev': 0.5904821350161852, 'accuracy_test': 0.7162485065710872, 'precision_test': 0.728263448705378, 'recall_test': 0.4463840399002494, 'f1_test': 0.5391084410396306, 'best_epoch': 1}
+Epoch: 2
+Train loss: 0.1885387981209881
+gold_sens: prior
+pred_sens: prior
+The performance on dev set: 
+ Accuracy: 72.7575%
+Precision: 61.0538%
+   Recall: 58.7097%
+       F1: 59.4634%
+              precision    recall  f1-score   support
+
+       prior       0.90      0.92      0.91       273
+      create       0.71      0.79      0.75        85
+       exist       0.69      0.74      0.71       451
+        move       0.61      0.50      0.55       157
+     destroy       0.47      0.54      0.51        68
+        post       0.77      0.64      0.70       170
+
+    accuracy                           0.73      1204
+   macro avg       0.69      0.69      0.69      1204
+weighted avg       0.73      0.73      0.73      1204
+
+Saved checkpoint at: ./logs/propara/train/state/ckpts/best.ckpt
+gold_sens: exist
+pred_sens: prior
+The performance on test set: 
+ Accuracy: 70.789%
+Precision: 60.236%
+   Recall: 55.860%
+       F1: 57.274%
+              precision    recall  f1-score   support
+
+       prior       0.82      0.91      0.87       412
+      create       0.74      0.73      0.74       128
+       exist       0.63      0.70      0.66       513
+        move       0.57      0.39      0.46       152
+     destroy       0.50      0.60      0.54       121
+        post       0.84      0.65      0.73       348
+
+    accuracy                           0.71      1674
+   macro avg       0.68      0.66      0.67      1674
+weighted avg       0.71      0.71      0.70      1674
+
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 16, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/propara/train/state', 'random_seed': 1234, 'learning_rate': 0.0001, 'accuracy_dev': 0.7275747508305648, 'precision_dev': 0.6105377854509119, 'recall_dev': 0.5870967741935483, 'f1_dev': 0.5946337901954095, 'accuracy_test': 0.7078853046594982, 'precision_test': 0.6023579248166057, 'recall_test': 0.5586034912718204, 'f1_test': 0.572740713708018, 'best_epoch': 2}
+Epoch: 3
+Train loss: 0.13612874261934288
+gold_sens: prior
+pred_sens: prior
+The performance on dev set: 
+ Accuracy: 72.9236%
+Precision: 59.6388%
+   Recall: 66.4516%
+       F1: 62.8408%
+              precision    recall  f1-score   support
+
+       prior       0.93      0.88      0.90       273
+      create       0.73      0.78      0.75        85
+       exist       0.72      0.68      0.70       451
+        move       0.56      0.64      0.59       157
+     destroy       0.52      0.59      0.55        68
+        post       0.73      0.74      0.73       170
+
+    accuracy                           0.73      1204
+   macro avg       0.70      0.72      0.71      1204
+weighted avg       0.74      0.73      0.73      1204
+
+Saved checkpoint at: ./logs/propara/train/state/ckpts/best.ckpt
+gold_sens: exist
+pred_sens: exist
+The performance on test set: 
+ Accuracy: 71.685%
+Precision: 56.702%
+   Recall: 62.594%
+       F1: 59.436%
+              precision    recall  f1-score   support
+
+       prior       0.86      0.88      0.87       412
+      create       0.73      0.77      0.75       128
+       exist       0.68      0.64      0.66       513
+        move       0.45      0.48      0.47       152
+     destroy       0.53      0.65      0.59       121
+        post       0.78      0.74      0.76       348
+
+    accuracy                           0.72      1674
+   macro avg       0.67      0.69      0.68      1674
+weighted avg       0.72      0.72      0.72      1674
+
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 16, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/propara/train/state', 'random_seed': 1234, 'learning_rate': 0.0001, 'accuracy_dev': 0.729235880398671, 'precision_dev': 0.5963878415491318, 'recall_dev': 0.6645161290322581, 'f1_dev': 0.6284083912179752, 'accuracy_test': 0.7168458781362007, 'precision_test': 0.5670168557678045, 'recall_test': 0.6259351620947631, 'f1_test': 0.5943556345339669, 'best_epoch': 3}
+Epoch: 4
+Train loss: 0.10663572208557773
+gold_sens: prior
+pred_sens: prior
+The performance on dev set: 
+ Accuracy: 73.7542%
+Precision: 66.4357%
+   Recall: 59.0323%
+       F1: 62.5030%
+              precision    recall  f1-score   support
+
+       prior       0.94      0.90      0.92       273
+      create       0.80      0.71      0.75        85
+       exist       0.70      0.73      0.71       451
+        move       0.64      0.55      0.59       157
+     destroy       0.56      0.53      0.55        68
+        post       0.66      0.76      0.71       170
+
+    accuracy                           0.74      1204
+   macro avg       0.72      0.70      0.71      1204
+weighted avg       0.74      0.74      0.74      1204
+

@@ -1,0 +1,1674 @@
+37	1	plant; animal	No-State	?	-
+37	2	plant; animal	No-State	-	-
+37	3	plant; animal	No-State	-	-
+37	4	plant; animal	No-State	-	-
+37	5	plant; animal	No-State	-	-
+37	6	plant; animal	No-State	-	-
+37	1	soft tissues	No-State	plant or animal	mud and silt
+37	2	soft tissues	No-State	mud and silt	mud and silt
+37	3	soft tissues	No-State	mud and silt	-
+37	4	soft tissues	No-State	-	-
+37	5	soft tissues	No-State	-	-
+37	6	soft tissues	No-State	-	-
+37	1	bones	No-State	-	-
+37	2	bones	No-State	-	-
+37	3	bones	No-State	-	water environment
+37	4	bones	No-State	water environment	water
+37	5	bones	No-State	water	watery environment
+37	6	bones	No-State	watery environment	watery environment
+37	1	mineral	No-State	-	-
+37	2	mineral	No-State	-	-
+37	3	mineral	No-State	-	-
+37	4	mineral	No-State	-	-
+37	5	mineral	No-State	-	rock
+37	6	mineral	No-State	rock	rock
+37	1	fossils	No-State	-	-
+37	2	fossils	No-State	-	-
+37	3	fossils	No-State	-	-
+37	4	fossils	No-State	-	-
+37	5	fossils	No-State	-	-
+37	6	fossils	No-State	-	watery environment
+38	1	animal; body	No-State	?	-
+38	2	animal; body	No-State	-	-
+38	3	animal; body	No-State	-	sandy or wet place
+38	4	animal; body	No-State	sandy or wet place	-
+38	5	animal; body	No-State	-	-
+38	6	animal; body	No-State	-	-
+38	7	animal; body	No-State	-	-
+38	1	soil	No-State	-	-
+38	2	soil	No-State	-	-
+38	3	soil	No-State	-	-
+38	4	soil	No-State	-	around the body
+38	5	soil	No-State	around the body	around the body
+38	6	soil	No-State	around the body	?
+38	7	soil	No-State	?	?
+38	1	rock	No-State	-	-
+38	2	rock	No-State	-	-
+38	3	rock	No-State	-	-
+38	4	rock	No-State	-	-
+38	5	rock	No-State	-	sandy or wet place
+38	6	rock	No-State	sandy or wet place	?
+38	7	rock	No-State	?	sandy or wet place
+38	1	fossil	No-State	-	-
+38	2	fossil	No-State	-	-
+38	3	fossil	No-State	-	-
+38	4	fossil	No-State	-	-
+38	5	fossil	No-State	-	-
+38	6	fossil	No-State	-	?
+38	7	fossil	No-State	?	?
+67	1	plants; dead plants	No-State	?	?
+67	2	plants; dead plants	No-State	?	swamp
+67	3	plants; dead plants	No-State	swamp	bottom of the swamp
+67	4	plants; dead plants	No-State	bottom of the swamp	bottom of the swamp
+67	5	plants; dead plants	No-State	bottom of the swamp	-
+67	6	plants; dead plants	No-State	-	-
+67	7	plants; dead plants	No-State	-	-
+67	8	plants; dead plants	No-State	-	-
+67	9	plants; dead plants	No-State	-	-
+67	1	peat	No-State	-	-
+67	2	peat	No-State	-	-
+67	3	peat	No-State	-	-
+67	4	peat	No-State	-	-
+67	5	peat	No-State	-	swamp
+67	6	peat	No-State	swamp	bottom of the swamp
+67	7	peat	No-State	bottom of the swamp	bottom of the swamp
+67	8	peat	No-State	bottom of the swamp	bottom of the swamp
+67	9	peat	No-State	bottom of the swamp	-
+67	1	coal	No-State	-	-
+67	2	coal	No-State	-	-
+67	3	coal	No-State	-	-
+67	4	coal	No-State	-	-
+67	5	coal	No-State	-	-
+67	6	coal	No-State	-	-
+67	7	coal	No-State	-	-
+67	8	coal	No-State	-	-
+67	9	coal	No-State	-	bottom of the swamp
+68	1	plants; trees	No-State	?	-
+68	2	plants; trees	No-State	-	-
+68	3	plants; trees	No-State	-	-
+68	4	plants; trees	No-State	-	-
+68	5	plants; trees	No-State	-	-
+68	6	plants; trees	No-State	-	-
+68	7	plants; trees	No-State	-	-
+68	1	plant and tree remains	No-State	?	?
+68	2	plant and tree remains	No-State	?	bottom of steamy, swampy area
+68	3	plant and tree remains	No-State	bottom of steamy, swampy area	bottom of steamy, swampy area
+68	4	plant and tree remains	No-State	bottom of steamy, swampy area	-
+68	5	plant and tree remains	No-State	-	-
+68	6	plant and tree remains	No-State	-	-
+68	7	plant and tree remains	No-State	-	-
+68	1	peat; burial peat	No-State	-	-
+68	2	peat; burial peat	No-State	-	-
+68	3	peat; burial peat	No-State	-	-
+68	4	peat; burial peat	No-State	-	bottom of steamy, swampy area
+68	5	peat; burial peat	No-State	bottom of steamy, swampy area	bottom of steamy, swampy area
+68	6	peat; burial peat	No-State	bottom of steamy, swampy area	bottom of steamy, swampy area
+68	7	peat; burial peat	No-State	bottom of steamy, swampy area	-
+68	1	water	No-State	?	?
+68	2	water	No-State	?	?
+68	3	water	No-State	?	peat
+68	4	water	No-State	peat	peat
+68	5	water	No-State	peat	peat
+68	6	water	No-State	peat	?
+68	7	water	No-State	?	?
+68	1	heat	No-State	-	-
+68	2	heat	No-State	-	-
+68	3	heat	No-State	-	-
+68	4	heat	No-State	-	-
+68	5	heat	No-State	-	-
+68	6	heat	No-State	-	-
+68	7	heat	No-State	-	-
+68	1	coal	No-State	-	-
+68	2	coal	No-State	-	-
+68	3	coal	No-State	-	-
+68	4	coal	No-State	-	-
+68	5	coal	No-State	-	-
+68	6	coal	No-State	-	-
+68	7	coal	No-State	-	bottom of steamy, swampy area
+69	1	plants;trees	No-State	?	-
+69	2	plants;trees	No-State	-	-
+69	3	plants;trees	No-State	-	-
+69	4	plants;trees	No-State	-	-
+69	5	plants;trees	No-State	-	-
+69	6	plants;trees	No-State	-	-
+69	7	plants;trees	No-State	-	-
+69	1	peat	No-State	-	-
+69	2	peat	No-State	-	-
+69	3	peat	No-State	-	bottom of swamp
+69	4	peat	No-State	bottom of swamp	bottom of swamp
+69	5	peat	No-State	bottom of swamp	-
+69	6	peat	No-State	-	-
+69	7	peat	No-State	-	-
+69	1	sand	No-State	-	-
+69	2	sand	No-State	-	-
+69	3	sand	No-State	-	-
+69	4	sand	No-State	-	peat
+69	5	sand	No-State	peat	-
+69	6	sand	No-State	-	-
+69	7	sand	No-State	-	-
+69	1	clay	No-State	?	?
+69	2	clay	No-State	?	?
+69	3	clay	No-State	?	swamp
+69	4	clay	No-State	swamp	peat
+69	5	clay	No-State	peat	-
+69	6	clay	No-State	-	-
+69	7	clay	No-State	-	-
+69	1	sedimentary rocks	No-State	-	-
+69	2	sedimentary rocks	No-State	-	-
+69	3	sedimentary rocks	No-State	-	-
+69	4	sedimentary rocks	No-State	-	-
+69	5	sedimentary rocks	No-State	-	bottom of swamp
+69	6	sedimentary rocks	No-State	bottom of swamp	bottom of swamp
+69	7	sedimentary rocks	No-State	bottom of swamp	-
+69	1	pressure	No-State	-	-
+69	2	pressure	No-State	-	-
+69	3	pressure	No-State	-	-
+69	4	pressure	No-State	-	-
+69	5	pressure	No-State	-	-
+69	6	pressure	No-State	-	sedimentary rock
+69	7	pressure	No-State	sedimentary rock	-
+69	1	water	No-State	?	?
+69	2	water	No-State	?	swamp
+69	3	water	No-State	swamp	peat
+69	4	water	No-State	peat	peat
+69	5	water	No-State	peat	peat
+69	6	water	No-State	peat	?
+69	7	water	No-State	?	?
+69	1	coal	No-State	-	-
+69	2	coal	No-State	-	-
+69	3	coal	No-State	-	-
+69	4	coal	No-State	-	-
+69	5	coal	No-State	-	-
+69	6	coal	No-State	-	-
+69	7	coal	No-State	-	bottom of swamp
+70	1	rain	No-State	?	-
+70	2	rain	No-State	-	-
+70	3	rain	No-State	-	-
+70	4	rain	No-State	-	-
+70	5	rain	No-State	-	-
+70	6	rain	No-State	-	-
+70	7	rain	No-State	-	-
+70	8	rain	No-State	-	-
+70	1	water	No-State	?	river or lake
+70	2	water	No-State	river or lake	river or lake
+70	3	water	No-State	river or lake	ground
+70	4	water	No-State	ground	street
+70	5	water	No-State	street	house
+70	6	water	No-State	house	house
+70	7	water	No-State	house	stream
+70	8	water	No-State	stream	?
+70	1	streams	No-State	?	-
+70	2	streams	No-State	-	-
+70	3	streams	No-State	-	-
+70	4	streams	No-State	-	-
+70	5	streams	No-State	-	?
+70	6	streams	No-State	?	?
+70	7	streams	No-State	?	?
+70	8	streams	No-State	?	?
+70	1	water levels	No-State	river or lake	river or lake
+70	2	water levels	No-State	river or lake	river or lake
+70	3	water levels	No-State	river or lake	ground
+70	4	water levels	No-State	ground	river or lake
+70	5	water levels	No-State	river or lake	house
+70	6	water levels	No-State	house	river or lake
+70	7	water levels	No-State	river or lake	stream
+70	8	water levels	No-State	stream	?
+99	1	rain clouds	No-State	sky	sky
+99	2	rain clouds	No-State	sky	sky
+99	3	rain clouds	No-State	sky	sky
+99	4	rain clouds	No-State	sky	-
+99	5	rain clouds	No-State	-	-
+99	6	rain clouds	No-State	-	-
+99	7	rain clouds	No-State	-	-
+99	1	rain	No-State	-	-
+99	2	rain	No-State	-	-
+99	3	rain	No-State	-	cloud
+99	4	rain	No-State	cloud	mountain or wind
+99	5	rain	No-State	mountain or wind	-
+99	6	rain	No-State	-	-
+99	7	rain	No-State	-	-
+99	1	clouds	No-State	sky	sky
+99	2	clouds	No-State	sky	sky
+99	3	clouds	No-State	sky	sky
+99	4	clouds	No-State	sky	-
+99	5	clouds	No-State	-	-
+99	6	clouds	No-State	-	-
+99	7	clouds	No-State	-	-
+99	1	a very different ecosystem	No-State	-	-
+99	2	a very different ecosystem	No-State	-	-
+99	3	a very different ecosystem	No-State	-	-
+99	4	a very different ecosystem	No-State	-	-
+99	5	a very different ecosystem	No-State	-	-
+99	6	a very different ecosystem	No-State	-	area that receives little rain
+99	7	a very different ecosystem	No-State	area that receives little rain	-
+99	1	desert	No-State	-	-
+99	2	desert	No-State	-	-
+99	3	desert	No-State	-	-
+99	4	desert	No-State	-	-
+99	5	desert	No-State	-	-
+99	6	desert	No-State	-	-
+99	7	desert	No-State	-	area that receive little rain
+152	1	water vapor ; lifted vapor ; vapor	No-State	atmosphere	atmosphere
+152	2	water vapor ; lifted vapor ; vapor	No-State	atmosphere	atmosphere
+152	3	water vapor ; lifted vapor ; vapor	No-State	atmosphere	atmosphere
+152	4	water vapor ; lifted vapor ; vapor	No-State	atmosphere	-
+152	5	water vapor ; lifted vapor ; vapor	No-State	-	-
+152	6	water vapor ; lifted vapor ; vapor	No-State	-	-
+152	1	solid ; cloud droplets	No-State	-	-
+152	2	solid ; cloud droplets	No-State	-	-
+152	3	solid ; cloud droplets	No-State	-	-
+152	4	solid ; cloud droplets	No-State	-	atmosphere
+152	5	solid ; cloud droplets	No-State	atmosphere	-
+152	6	solid ; cloud droplets	No-State	-	-
+249	1	rocks ; smaller pieces	No-State	-	-
+249	2	rocks ; smaller pieces	No-State	-	-
+249	3	rocks ; smaller pieces	No-State	-	?
+249	4	rocks ; smaller pieces	No-State	?	?
+249	5	rocks ; smaller pieces	No-State	?	?
+249	6	rocks ; smaller pieces	No-State	?	?
+249	7	rocks ; smaller pieces	No-State	?	-
+249	8	rocks ; smaller pieces	No-State	-	?
+249	1	oxygen	No-State	?	?
+249	2	oxygen	No-State	?	?
+249	3	oxygen	No-State	?	rock
+249	4	oxygen	No-State	rock	-
+249	5	oxygen	No-State	-	-
+249	6	oxygen	No-State	-	-
+249	7	oxygen	No-State	-	-
+249	8	oxygen	No-State	-	-
+249	1	new types of rocks ; new substance ; certain types of rocks	No-State	-	-
+249	2	new types of rocks ; new substance ; certain types of rocks	No-State	-	-
+249	3	new types of rocks ; new substance ; certain types of rocks	No-State	-	-
+249	4	new types of rocks ; new substance ; certain types of rocks	No-State	-	-
+249	5	new types of rocks ; new substance ; certain types of rocks	No-State	-	?
+249	6	new types of rocks ; new substance ; certain types of rocks	No-State	?	?
+249	7	new types of rocks ; new substance ; certain types of rocks	No-State	?	?
+249	8	new types of rocks ; new substance ; certain types of rocks	No-State	?	-
+310	1	blood	No-State	?	right side of your heart
+310	2	blood	No-State	right side of your heart	lung
+310	3	blood	No-State	lung	lung
+310	4	blood	No-State	lung	lung
+310	5	blood	No-State	lung	left side of your heart
+310	6	blood	No-State	left side of your heart	body
+310	1	carbon dioxide	No-State	blood	blood
+310	2	carbon dioxide	No-State	blood	blood
+310	3	carbon dioxide	No-State	blood	?
+310	4	carbon dioxide	No-State	?	?
+310	5	carbon dioxide	No-State	?	?
+310	6	carbon dioxide	No-State	?	?
+310	1	oxygen	No-State	?	?
+310	2	oxygen	No-State	?	-
+310	3	oxygen	No-State	-	?
+310	4	oxygen	No-State	?	blood
+310	5	oxygen	No-State	blood	blood
+310	6	oxygen	No-State	blood	blood
+400	1	energy	No-State	-	-
+400	2	energy	No-State	-	-
+400	3	energy	No-State	-	-
+400	4	energy	No-State	-	element
+400	5	energy	No-State	element	-
+400	1	electricity	No-State	-	-
+400	2	electricity	No-State	-	-
+400	3	electricity	No-State	-	-
+400	4	electricity	No-State	-	-
+400	5	electricity	No-State	-	?
+401	1	sunlight	No-State	?	?
+401	2	sunlight	No-State	?	solar panel
+401	3	sunlight	No-State	solar panel	top half of the solar panel
+401	4	sunlight	No-State	top half of the solar panel	bottom half of the solar panel
+401	5	sunlight	No-State	bottom half of the solar panel	-
+401	6	sunlight	No-State	-	-
+401	7	sunlight	No-State	-	-
+401	1	direct current	No-State	-	-
+401	2	direct current	No-State	-	-
+401	3	direct current	No-State	-	-
+401	4	direct current	No-State	-	-
+401	5	direct current	No-State	-	bottom half of the solar panel
+401	6	direct current	No-State	bottom half of the solar panel	-
+401	7	direct current	No-State	-	-
+401	1	alternating current	No-State	-	-
+401	2	alternating current	No-State	-	-
+401	3	alternating current	No-State	-	-
+401	4	alternating current	No-State	-	-
+401	5	alternating current	No-State	-	-
+401	6	alternating current	No-State	-	inverter
+401	7	alternating current	No-State	inverter	house
+409	1	image	No-State	?	-
+409	2	image	No-State	-	-
+409	3	image	No-State	-	eye's internal lens
+409	4	image	No-State	eye's internal lens	retina
+409	5	image	No-State	retina	-
+409	6	image	No-State	-	-
+409	7	image	No-State	-	-
+409	1	electrical impulses	No-State	-	-
+409	2	electrical impulses	No-State	-	-
+409	3	electrical impulses	No-State	-	-
+409	4	electrical impulses	No-State	-	-
+409	5	electrical impulses	No-State	-	retina
+409	6	electrical impulses	No-State	retina	brain
+409	7	electrical impulses	No-State	brain	brain
+410	1	electric signal	No-State	-	-
+410	2	electric signal	No-State	-	-
+410	3	electric signal	No-State	-	-
+410	4	electric signal	No-State	-	retina
+410	5	electric signal	No-State	retina	brain
+410	6	electric signal	No-State	brain	-
+410	1	light	No-State	?	cornea
+410	2	light	No-State	cornea	iris
+410	3	light	No-State	iris	eye
+410	4	light	No-State	eye	-
+410	5	light	No-State	-	-
+410	6	light	No-State	-	-
+411	1	electrochemical signals	No-State	-	-
+411	2	electrochemical signals	No-State	-	photoreceptor cell
+411	3	electrochemical signals	No-State	photoreceptor cell	photoreceptor cell
+411	4	electrochemical signals	No-State	photoreceptor cell	?
+411	5	electrochemical signals	No-State	?	?
+411	6	electrochemical signals	No-State	?	?
+411	7	electrochemical signals	No-State	?	?
+411	8	electrochemical signals	No-State	?	?
+411	1	light	No-State	eye	photoreceptor cell
+411	2	light	No-State	photoreceptor cell	-
+411	3	light	No-State	-	-
+411	4	light	No-State	-	-
+411	5	light	No-State	-	-
+411	6	light	No-State	-	-
+411	7	light	No-State	-	-
+411	8	light	No-State	-	-
+429	1	nitrogen	No-State	atmosphere	atmosphere
+429	2	nitrogen	No-State	atmosphere	soil
+429	3	nitrogen	No-State	soil	living thing
+429	4	nitrogen	No-State	living thing	plant
+429	5	nitrogen	No-State	plant	animal
+429	6	nitrogen	No-State	animal	soil
+429	7	nitrogen	No-State	soil	soil
+429	8	nitrogen	No-State	soil	soil
+429	9	nitrogen	No-State	soil	-
+429	10	nitrogen	No-State	-	-
+429	1	fixed nitrogen; usable nitrogen	No-State	-	-
+429	2	fixed nitrogen; usable nitrogen	No-State	-	soil
+429	3	fixed nitrogen; usable nitrogen	No-State	soil	soil
+429	4	fixed nitrogen; usable nitrogen	No-State	soil	plant
+429	5	fixed nitrogen; usable nitrogen	No-State	plant	-
+429	6	fixed nitrogen; usable nitrogen	No-State	-	-
+429	7	fixed nitrogen; usable nitrogen	No-State	-	-
+429	8	fixed nitrogen; usable nitrogen	No-State	-	soil
+429	9	fixed nitrogen; usable nitrogen	No-State	soil	-
+429	10	fixed nitrogen; usable nitrogen	No-State	-	-
+429	1	plants	No-State	?	?
+429	2	plants	No-State	?	?
+429	3	plants	No-State	?	soil
+429	4	plants	No-State	soil	soil
+429	5	plants	No-State	soil	soil
+429	6	plants	No-State	soil	soil
+429	7	plants	No-State	soil	-
+429	8	plants	No-State	-	-
+429	9	plants	No-State	-	-
+429	10	plants	No-State	-	-
+429	1	waste	No-State	-	-
+429	2	waste	No-State	-	-
+429	3	waste	No-State	-	-
+429	4	waste	No-State	-	-
+429	5	waste	No-State	-	-
+429	6	waste	No-State	-	soil
+429	7	waste	No-State	soil	soil
+429	8	waste	No-State	soil	soil
+429	9	waste	No-State	soil	soil
+429	10	waste	No-State	soil	soil
+429	1	gas-based form	No-State	-	-
+429	2	gas-based form	No-State	-	-
+429	3	gas-based form	No-State	-	-
+429	4	gas-based form	No-State	-	-
+429	5	gas-based form	No-State	-	-
+429	6	gas-based form	No-State	-	-
+429	7	gas-based form	No-State	-	-
+429	8	gas-based form	No-State	-	-
+429	9	gas-based form	No-State	-	soil
+429	10	gas-based form	No-State	soil	atmosphere
+460	1	living things ; remains of living things	No-State	?	?
+460	2	living things ; remains of living things	No-State	?	-
+460	3	living things ; remains of living things	No-State	-	underground
+460	4	living things ; remains of living things	No-State	underground	-
+460	5	living things ; remains of living things	No-State	-	-
+460	6	living things ; remains of living things	No-State	-	-
+460	7	living things ; remains of living things	No-State	-	-
+460	8	living things ; remains of living things	No-State	-	-
+460	9	living things ; remains of living things	No-State	-	-
+460	10	living things ; remains of living things	No-State	-	-
+460	1	carbon	No-State	living thing	living thing
+460	2	carbon	No-State	living thing	living thing
+460	3	carbon	No-State	living thing	?
+460	4	carbon	No-State	?	?
+460	5	carbon	No-State	?	underground
+460	6	carbon	No-State	underground	?
+460	7	carbon	No-State	?	earth's surface
+460	8	carbon	No-State	earth's surface	-
+460	9	carbon	No-State	-	-
+460	10	carbon	No-State	-	-
+460	1	carbon-based mixture	No-State	-	living thing
+460	2	carbon-based mixture	No-State	living thing	?
+460	3	carbon-based mixture	No-State	?	underground
+460	4	carbon-based mixture	No-State	underground	underground
+460	5	carbon-based mixture	No-State	underground	underground
+460	6	carbon-based mixture	No-State	underground	?
+460	7	carbon-based mixture	No-State	?	earth's surface
+460	8	carbon-based mixture	No-State	earth's surface	-
+460	9	carbon-based mixture	No-State	-	-
+460	10	carbon-based mixture	No-State	-	-
+460	1	fossil fuel	No-State	?	?
+460	2	fossil fuel	No-State	?	?
+460	3	fossil fuel	No-State	?	?
+460	4	fossil fuel	No-State	?	?
+460	5	fossil fuel	No-State	?	?
+460	6	fossil fuel	No-State	?	?
+460	7	fossil fuel	No-State	?	earth's surface
+460	8	fossil fuel	No-State	earth's surface	-
+460	9	fossil fuel	No-State	-	-
+460	10	fossil fuel	No-State	-	-
+460	1	energy	No-State	-	-
+460	2	energy	No-State	-	-
+460	3	energy	No-State	-	-
+460	4	energy	No-State	-	-
+460	5	energy	No-State	-	-
+460	6	energy	No-State	-	-
+460	7	energy	No-State	-	-
+460	8	energy	No-State	-	-
+460	9	energy	No-State	-	?
+460	10	energy	No-State	?	-
+460	1	power	No-State	-	-
+460	2	power	No-State	-	-
+460	3	power	No-State	-	-
+460	4	power	No-State	-	-
+460	5	power	No-State	-	-
+460	6	power	No-State	-	-
+460	7	power	No-State	-	-
+460	8	power	No-State	-	-
+460	9	power	No-State	-	-
+460	10	power	No-State	-	earth's surface
+463	1	raindrops	No-State	?	thunderstorm
+463	2	raindrops	No-State	thunderstorm	dust or other small parti
+463	3	raindrops	No-State	dust or other small parti	-
+463	4	raindrops	No-State	-	-
+463	5	raindrops	No-State	-	-
+463	1	ice particle	No-State	surface	?
+463	2	ice particle	No-State	?	-
+463	3	ice particle	No-State	-	condensation nucleus
+463	4	ice particle	No-State	condensation nucleus	surface
+463	5	ice particle	No-State	surface	surface
+463	1	hailstone	No-State	?	?
+463	2	hailstone	No-State	?	?
+463	3	hailstone	No-State	?	?
+463	4	hailstone	No-State	?	surface
+463	5	hailstone	No-State	surface	earth
+465	1	water	No-State	?	wind
+465	2	water	No-State	wind	?
+465	3	water	No-State	?	?
+465	4	water	No-State	?	?
+465	5	water	No-State	?	-
+465	6	water	No-State	-	-
+465	7	water	No-State	-	-
+465	1	hail	No-State	-	-
+465	2	hail	No-State	-	-
+465	3	hail	No-State	-	?
+465	4	hail	No-State	?	?
+465	5	hail	No-State	?	earth
+465	6	hail	No-State	earth	wind
+465	7	hail	No-State	wind	ground
+502	1	diesel	No-State	?	-
+502	2	diesel	No-State	-	-
+502	3	diesel	No-State	-	-
+502	4	diesel	No-State	-	-
+502	5	diesel	No-State	-	-
+502	1	petrol	No-State	?	-
+502	2	petrol	No-State	-	-
+502	3	petrol	No-State	-	-
+502	4	petrol	No-State	-	-
+502	5	petrol	No-State	-	-
+502	1	energy	No-State	-	combustion chamber
+502	2	energy	No-State	combustion chamber	piston
+502	3	energy	No-State	piston	?
+502	4	energy	No-State	?	?
+502	5	energy	No-State	?	?
+502	1	pistons	No-State	?	combustion chamber
+502	2	pistons	No-State	combustion chamber	combustion chamber
+502	3	pistons	No-State	combustion chamber	-
+502	4	pistons	No-State	-	-
+502	5	pistons	No-State	-	-
+502	1	piston motion	No-State	?	?
+502	2	piston motion	No-State	?	combustion chamber
+502	3	piston motion	No-State	combustion chamber	-
+502	4	piston motion	No-State	-	-
+502	5	piston motion	No-State	-	-
+502	1	rotary motion	No-State	-	-
+502	2	rotary motion	No-State	-	-
+502	3	rotary motion	No-State	-	crankshaft and axle
+502	4	rotary motion	No-State	crankshaft and axle	?
+502	5	rotary motion	No-State	?	?
+502	1	car	No-State	?	?
+502	2	car	No-State	?	?
+502	3	car	No-State	?	?
+502	4	car	No-State	?	?
+502	5	car	No-State	?	?
+503	1	car	No-State	?	?
+503	2	car	No-State	?	?
+503	3	car	No-State	?	?
+503	4	car	No-State	?	?
+503	5	car	No-State	?	?
+503	6	car	No-State	?	?
+503	7	car	No-State	?	?
+503	8	car	No-State	?	?
+503	9	car	No-State	?	?
+503	1	gasoline;gas	No-State	?	car
+503	2	gasoline;gas	No-State	car	car
+503	3	gasoline;gas	No-State	car	car
+503	4	gasoline;gas	No-State	car	car
+503	5	gasoline;gas	No-State	car	air
+503	6	gasoline;gas	No-State	air	?
+503	7	gasoline;gas	No-State	?	?
+503	8	gasoline;gas	No-State	?	?
+503	9	gasoline;gas	No-State	?	?
+503	1	battery	No-State	?	?
+503	2	battery	No-State	?	car
+503	3	battery	No-State	car	car
+503	4	battery	No-State	car	car
+503	5	battery	No-State	car	car
+503	6	battery	No-State	car	car
+503	7	battery	No-State	car	car
+503	8	battery	No-State	car	car
+503	9	battery	No-State	car	?
+503	1	spark	No-State	-	-
+503	2	spark	No-State	-	-
+503	3	spark	No-State	-	battery
+503	4	spark	No-State	battery	car's battery
+503	5	spark	No-State	car's battery	car
+503	6	spark	No-State	car	car
+503	7	spark	No-State	car	?
+503	8	spark	No-State	?	?
+503	9	spark	No-State	?	?
+503	1	piston	No-State	?	?
+503	2	piston	No-State	?	?
+503	3	piston	No-State	?	?
+503	4	piston	No-State	?	?
+503	5	piston	No-State	?	?
+503	6	piston	No-State	?	?
+503	7	piston	No-State	?	?
+503	8	piston	No-State	?	?
+503	9	piston	No-State	?	?
+503	1	crankshaft	No-State	?	?
+503	2	crankshaft	No-State	?	?
+503	3	crankshaft	No-State	?	?
+503	4	crankshaft	No-State	?	?
+503	5	crankshaft	No-State	?	?
+503	6	crankshaft	No-State	?	car
+503	7	crankshaft	No-State	car	car
+503	8	crankshaft	No-State	car	car
+503	9	crankshaft	No-State	car	?
+503	1	wheel	No-State	?	?
+503	2	wheel	No-State	?	?
+503	3	wheel	No-State	?	?
+503	4	wheel	No-State	?	?
+503	5	wheel	No-State	?	?
+503	6	wheel	No-State	?	?
+503	7	wheel	No-State	?	?
+503	8	wheel	No-State	?	car
+503	9	wheel	No-State	car	car's body
+533	1	seed	No-State	adult tree	soil
+533	2	seed	No-State	soil	-
+533	3	seed	No-State	-	-
+533	4	seed	No-State	-	-
+533	5	seed	No-State	-	-
+533	6	seed	No-State	-	-
+533	7	seed	No-State	-	-
+533	1	sprouts	No-State	-	-
+533	2	sprouts	No-State	-	soil
+533	3	sprouts	No-State	soil	soil
+533	4	sprouts	No-State	soil	soil
+533	5	sprouts	No-State	soil	?
+533	6	sprouts	No-State	?	?
+533	7	sprouts	No-State	?	-
+533	1	seedling	No-State	-	-
+533	2	seedling	No-State	-	-
+533	3	seedling	No-State	-	soil
+533	4	seedling	No-State	soil	-
+533	5	seedling	No-State	-	-
+533	6	seedling	No-State	-	-
+533	7	seedling	No-State	-	-
+533	1	sapling	No-State	-	-
+533	2	sapling	No-State	-	-
+533	3	sapling	No-State	-	-
+533	4	sapling	No-State	-	soil
+533	5	sapling	No-State	soil	soil
+533	6	sapling	No-State	soil	soil
+533	7	sapling	No-State	soil	-
+533	1	tree	No-State	-	-
+533	2	tree	No-State	-	soil
+533	3	tree	No-State	soil	soil
+533	4	tree	No-State	soil	soil
+533	5	tree	No-State	soil	soil
+533	6	tree	No-State	soil	soil
+533	7	tree	No-State	soil	-
+534	1	seed	No-State	?	?
+534	2	seed	No-State	?	-
+534	3	seed	No-State	-	-
+534	4	seed	No-State	-	-
+534	5	seed	No-State	-	-
+534	6	seed	No-State	-	-
+534	7	seed	No-State	-	-
+534	1	small tree ; tree	No-State	-	-
+534	2	small tree ; tree	No-State	-	?
+534	3	small tree ; tree	No-State	?	?
+534	4	small tree ; tree	No-State	?	?
+534	5	small tree ; tree	No-State	?	?
+534	6	small tree ; tree	No-State	?	?
+534	7	small tree ; tree	No-State	?	-
+534	1	fruit	No-State	-	-
+534	2	fruit	No-State	-	-
+534	3	fruit	No-State	-	-
+534	4	fruit	No-State	-	tree
+534	5	fruit	No-State	tree	tree
+534	6	fruit	No-State	tree	tree
+534	7	fruit	No-State	tree	tree
+534	1	flowers	No-State	-	-
+534	2	flowers	No-State	-	-
+534	3	flowers	No-State	-	-
+534	4	flowers	No-State	-	-
+534	5	flowers	No-State	-	tree
+534	6	flowers	No-State	tree	tree
+534	7	flowers	No-State	tree	?
+582	1	warm, moist air	No-State	south	north
+582	2	warm, moist air	No-State	north	north
+582	3	warm, moist air	No-State	north	north
+582	4	warm, moist air	No-State	north	north
+582	5	warm, moist air	No-State	north	north
+582	6	warm, moist air	No-State	north	south to north
+582	7	warm, moist air	No-State	south to north	north
+582	8	warm, moist air	No-State	north	?
+582	1	cool, dry air	No-State	?	north
+582	2	cool, dry air	No-State	north	south
+582	3	cool, dry air	No-State	south	south
+582	4	cool, dry air	No-State	south	south
+582	5	cool, dry air	No-State	south	south
+582	6	cool, dry air	No-State	south	south
+582	7	cool, dry air	No-State	south	south
+582	8	cool, dry air	No-State	south	south
+582	1	air masses ; masses	No-State	?	?
+582	2	air masses ; masses	No-State	?	?
+582	3	air masses ; masses	No-State	?	?
+582	4	air masses ; masses	No-State	?	?
+582	5	air masses ; masses	No-State	?	?
+582	6	air masses ; masses	No-State	?	?
+582	7	air masses ; masses	No-State	?	?
+582	8	air masses ; masses	No-State	?	?
+582	1	wind	No-State	-	-
+582	2	wind	No-State	-	-
+582	3	wind	No-State	-	-
+582	4	wind	No-State	-	-
+582	5	wind	No-State	-	?
+582	6	wind	No-State	?	updraft
+582	7	wind	No-State	updraft	updraft
+582	8	wind	No-State	updraft	?
+582	1	updraft	No-State	-	-
+582	2	updraft	No-State	-	-
+582	3	updraft	No-State	-	-
+582	4	updraft	No-State	-	-
+582	5	updraft	No-State	-	-
+582	6	updraft	No-State	-	?
+582	7	updraft	No-State	?	?
+582	8	updraft	No-State	?	?
+582	1	circular patterns	No-State	-	-
+582	2	circular patterns	No-State	-	-
+582	3	circular patterns	No-State	-	-
+582	4	circular patterns	No-State	-	-
+582	5	circular patterns	No-State	-	-
+582	6	circular patterns	No-State	-	-
+582	7	circular patterns	No-State	-	updraft
+582	8	circular patterns	No-State	updraft	updraft
+582	1	tornado	No-State	-	-
+582	2	tornado	No-State	-	-
+582	3	tornado	No-State	-	-
+582	4	tornado	No-State	-	-
+582	5	tornado	No-State	-	-
+582	6	tornado	No-State	-	-
+582	7	tornado	No-State	-	-
+582	8	tornado	No-State	-	?
+583	1	warm, humd low-presure air	No-State	?	?
+583	2	warm, humd low-presure air	No-State	?	?
+583	3	warm, humd low-presure air	No-State	?	?
+583	4	warm, humd low-presure air	No-State	?	?
+583	5	warm, humd low-presure air	No-State	?	?
+583	6	warm, humd low-presure air	No-State	?	ground
+583	1	updraft	No-State	-	-
+583	2	updraft	No-State	-	?
+583	3	updraft	No-State	?	?
+583	4	updraft	No-State	?	?
+583	5	updraft	No-State	?	?
+583	6	updraft	No-State	?	?
+583	1	dry, cold high-pressure air	No-State	-	-
+583	2	dry, cold high-pressure air	No-State	-	-
+583	3	dry, cold high-pressure air	No-State	-	?
+583	4	dry, cold high-pressure air	No-State	?	?
+583	5	dry, cold high-pressure air	No-State	?	?
+583	6	dry, cold high-pressure air	No-State	?	ground
+583	1	rotation	No-State	-	-
+583	2	rotation	No-State	-	-
+583	3	rotation	No-State	-	-
+583	4	rotation	No-State	-	air
+583	5	rotation	No-State	air	funnel
+583	6	rotation	No-State	funnel	?
+583	1	funnel; tornado	No-State	-	-
+583	2	funnel; tornado	No-State	-	-
+583	3	funnel; tornado	No-State	-	-
+583	4	funnel; tornado	No-State	-	-
+583	5	funnel; tornado	No-State	-	?
+583	6	funnel; tornado	No-State	?	ground
+600	1	air	No-State	?	?
+600	2	air	No-State	?	-
+600	3	air	No-State	-	-
+600	4	air	No-State	-	-
+600	5	air	No-State	-	-
+600	6	air	No-State	-	-
+600	1	petrol; fuel	No-State	?	-
+600	2	petrol; fuel	No-State	-	-
+600	3	petrol; fuel	No-State	-	-
+600	4	petrol; fuel	No-State	-	-
+600	5	petrol; fuel	No-State	-	-
+600	6	petrol; fuel	No-State	-	-
+600	1	energy	No-State	-	air
+600	2	energy	No-State	air	car engine
+600	3	energy	No-State	car engine	car engine
+600	4	energy	No-State	car engine	crankshaft
+600	5	energy	No-State	crankshaft	?
+600	6	energy	No-State	?	?
+600	1	hot gas	No-State	-	-
+600	2	hot gas	No-State	-	car engine
+600	3	hot gas	No-State	car engine	piston
+600	4	hot gas	No-State	piston	-
+600	5	hot gas	No-State	-	-
+600	6	hot gas	No-State	-	-
+653	1	seed	No-State	?	?
+653	2	seed	No-State	?	-
+653	3	seed	No-State	-	-
+653	4	seed	No-State	-	-
+653	5	seed	No-State	-	-
+653	6	seed	No-State	-	fruit
+653	1	seedling	No-State	-	-
+653	2	seedling	No-State	-	?
+653	3	seedling	No-State	?	-
+653	4	seedling	No-State	-	-
+653	5	seedling	No-State	-	-
+653	6	seedling	No-State	-	-
+653	1	tree	No-State	-	-
+653	2	tree	No-State	-	-
+653	3	tree	No-State	-	?
+653	4	tree	No-State	?	?
+653	5	tree	No-State	?	?
+653	6	tree	No-State	?	?
+653	1	flower	No-State	-	-
+653	2	flower	No-State	-	-
+653	3	flower	No-State	-	-
+653	4	flower	No-State	-	tree
+653	5	flower	No-State	tree	-
+653	6	flower	No-State	-	-
+653	1	fruit	No-State	-	-
+653	2	fruit	No-State	-	-
+653	3	fruit	No-State	-	-
+653	4	fruit	No-State	-	-
+653	5	fruit	No-State	-	tree
+653	6	fruit	No-State	tree	tree
+654	1	seedling	No-State	-	ground
+654	2	seedling	No-State	ground	ground
+654	3	seedling	No-State	ground	-
+654	4	seedling	No-State	-	-
+654	5	seedling	No-State	-	-
+654	6	seedling	No-State	-	-
+654	1	root system	No-State	-	-
+654	2	root system	No-State	-	ground
+654	3	root system	No-State	ground	ground
+654	4	root system	No-State	ground	ground
+654	5	root system	No-State	ground	ground
+654	6	root system	No-State	ground	ground
+654	1	tree	No-State	-	-
+654	2	tree	No-State	-	ground
+654	3	tree	No-State	ground	ground
+654	4	tree	No-State	ground	ground
+654	5	tree	No-State	ground	ground
+654	6	tree	No-State	ground	-
+654	1	material for new growth	No-State	-	-
+654	2	material for new growth	No-State	-	-
+654	3	material for new growth	No-State	-	-
+654	4	material for new growth	No-State	-	-
+654	5	material for new growth	No-State	-	-
+654	6	material for new growth	No-State	-	-
+659	1	nitrogen; nitrates	No-State	-	-
+659	2	nitrogen; nitrates	No-State	-	soil
+659	3	nitrogen; nitrates	No-State	soil	plant
+659	4	nitrogen; nitrates	No-State	plant	-
+659	5	nitrogen; nitrates	No-State	-	-
+659	6	nitrogen; nitrates	No-State	-	-
+659	1	ammonium	No-State	-	bacterium
+659	2	ammonium	No-State	bacterium	-
+659	3	ammonium	No-State	-	-
+659	4	ammonium	No-State	-	-
+659	5	ammonium	No-State	-	-
+659	6	ammonium	No-State	-	-
+659	1	plant	No-State	?	?
+659	2	plant	No-State	?	?
+659	3	plant	No-State	?	?
+659	4	plant	No-State	?	-
+659	5	plant	No-State	-	-
+659	6	plant	No-State	-	-
+659	1	extra nitrogen	No-State	soil	soil
+659	2	extra nitrogen	No-State	soil	soil
+659	3	extra nitrogen	No-State	soil	soil
+659	4	extra nitrogen	No-State	soil	soil
+659	5	extra nitrogen	No-State	soil	air
+659	6	extra nitrogen	No-State	air	air
+660	1	atmospheric nitrogen	No-State	soil	-
+660	2	atmospheric nitrogen	No-State	-	-
+660	3	atmospheric nitrogen	No-State	-	-
+660	4	atmospheric nitrogen	No-State	-	-
+660	5	atmospheric nitrogen	No-State	-	-
+660	6	atmospheric nitrogen	No-State	-	-
+660	7	atmospheric nitrogen	No-State	-	-
+660	8	atmospheric nitrogen	No-State	-	-
+660	9	atmospheric nitrogen	No-State	-	-
+660	1	organic nitrogen	No-State	-	soil
+660	2	organic nitrogen	No-State	soil	plant
+660	3	organic nitrogen	No-State	plant	plant and animal
+660	4	organic nitrogen	No-State	plant and animal	plant and animal
+660	5	organic nitrogen	No-State	plant and animal	plant
+660	6	organic nitrogen	No-State	plant	-
+660	7	organic nitrogen	No-State	-	-
+660	8	organic nitrogen	No-State	-	-
+660	9	organic nitrogen	No-State	-	-
+660	1	animals	No-State	?	?
+660	2	animals	No-State	?	?
+660	3	animals	No-State	?	?
+660	4	animals	No-State	?	-
+660	5	animals	No-State	-	-
+660	6	animals	No-State	-	-
+660	7	animals	No-State	-	-
+660	8	animals	No-State	-	-
+660	9	animals	No-State	-	-
+660	1	plants	No-State	?	soil
+660	2	plants	No-State	soil	soil
+660	3	plants	No-State	soil	?
+660	4	plants	No-State	?	-
+660	5	plants	No-State	-	-
+660	6	plants	No-State	-	-
+660	7	plants	No-State	-	-
+660	8	plants	No-State	-	-
+660	9	plants	No-State	-	-
+660	1	wastes	No-State	-	-
+660	2	wastes	No-State	-	-
+660	3	wastes	No-State	-	-
+660	4	wastes	No-State	-	animal
+660	5	wastes	No-State	animal	?
+660	6	wastes	No-State	?	?
+660	7	wastes	No-State	?	?
+660	8	wastes	No-State	?	-
+660	9	wastes	No-State	-	?
+660	1	ammonium	No-State	-	-
+660	2	ammonium	No-State	-	-
+660	3	ammonium	No-State	-	-
+660	4	ammonium	No-State	-	-
+660	5	ammonium	No-State	-	-
+660	6	ammonium	No-State	-	soil
+660	7	ammonium	No-State	soil	-
+660	8	ammonium	No-State	-	-
+660	9	ammonium	No-State	-	-
+660	1	nitrate	No-State	-	-
+660	2	nitrate	No-State	-	-
+660	3	nitrate	No-State	-	-
+660	4	nitrate	No-State	-	-
+660	5	nitrate	No-State	-	-
+660	6	nitrate	No-State	-	-
+660	7	nitrate	No-State	-	?
+660	8	nitrate	No-State	?	-
+660	9	nitrate	No-State	-	-
+660	1	nitrogen gas	No-State	-	-
+660	2	nitrogen gas	No-State	-	-
+660	3	nitrogen gas	No-State	-	-
+660	4	nitrogen gas	No-State	-	-
+660	5	nitrogen gas	No-State	-	-
+660	6	nitrogen gas	No-State	-	-
+660	7	nitrogen gas	No-State	-	-
+660	8	nitrogen gas	No-State	-	soil
+660	9	nitrogen gas	No-State	soil	atmosphere
+661	1	nitrogen	No-State	soil	-
+661	2	nitrogen	No-State	-	-
+661	3	nitrogen	No-State	-	-
+661	4	nitrogen	No-State	-	plant
+661	5	nitrogen	No-State	plant	-
+661	6	nitrogen	No-State	-	-
+661	7	nitrogen	No-State	-	-
+661	8	nitrogen	No-State	-	-
+661	9	nitrogen	No-State	-	-
+661	1	ammonium	No-State	-	bacterium
+661	2	ammonium	No-State	bacterium	-
+661	3	ammonium	No-State	-	-
+661	4	ammonium	No-State	-	-
+661	5	ammonium	No-State	-	-
+661	6	ammonium	No-State	-	-
+661	7	ammonium	No-State	-	-
+661	8	ammonium	No-State	-	-
+661	9	ammonium	No-State	-	-
+661	1	nitrates	No-State	-	-
+661	2	nitrates	No-State	-	soil
+661	3	nitrates	No-State	soil	plant
+661	4	nitrates	No-State	plant	soil
+661	5	nitrates	No-State	soil	plant
+661	6	nitrates	No-State	plant	plant
+661	7	nitrates	No-State	plant	plant
+661	8	nitrates	No-State	plant	plant
+661	9	nitrates	No-State	plant	-
+661	1	plant	No-State	?	?
+661	2	plant	No-State	?	?
+661	3	plant	No-State	?	?
+661	4	plant	No-State	?	soil
+661	5	plant	No-State	soil	?
+661	6	plant	No-State	?	?
+661	7	plant	No-State	?	-
+661	8	plant	No-State	-	-
+661	9	plant	No-State	-	-
+661	1	animal	No-State	?	?
+661	2	animal	No-State	?	?
+661	3	animal	No-State	?	?
+661	4	animal	No-State	?	?
+661	5	animal	No-State	?	?
+661	6	animal	No-State	?	?
+661	7	animal	No-State	?	-
+661	8	animal	No-State	-	-
+661	9	animal	No-State	-	-
+695	1	water	No-State	river or lake or the ocean	-
+695	2	water	No-State	-	-
+695	3	water	No-State	-	river or lake or ocean
+695	4	water	No-State	river or lake or ocean	river or lake or ocean
+695	5	water	No-State	river or lake or ocean	-
+695	6	water	No-State	-	-
+695	7	water	No-State	-	-
+695	1	vapor; steam; water vapor	No-State	-	river, lake or ocean
+695	2	vapor; steam; water vapor	No-State	river, lake or ocean	air
+695	3	vapor; steam; water vapor	No-State	air	-
+695	4	vapor; steam; water vapor	No-State	-	-
+695	5	vapor; steam; water vapor	No-State	-	-
+695	6	vapor; steam; water vapor	No-State	-	-
+695	7	vapor; steam; water vapor	No-State	-	-
+695	1	clouds	No-State	-	-
+695	2	clouds	No-State	-	-
+695	3	clouds	No-State	-	air
+695	4	clouds	No-State	air	air
+695	5	clouds	No-State	air	air
+695	6	clouds	No-State	air	air
+695	7	clouds	No-State	air	air
+695	1	rain	No-State	-	-
+695	2	rain	No-State	-	-
+695	3	rain	No-State	-	-
+695	4	rain	No-State	-	air
+695	5	rain	No-State	air	earth
+695	6	rain	No-State	earth	earth
+695	7	rain	No-State	earth	ocean, lake, or river
+695	1	hail	No-State	-	-
+695	2	hail	No-State	-	-
+695	3	hail	No-State	-	-
+695	4	hail	No-State	-	-
+695	5	hail	No-State	-	earth
+695	6	hail	No-State	earth	earth
+695	7	hail	No-State	earth	-
+695	1	sleet	No-State	-	-
+695	2	sleet	No-State	-	-
+695	3	sleet	No-State	-	-
+695	4	sleet	No-State	-	-
+695	5	sleet	No-State	-	earth
+695	6	sleet	No-State	earth	earth
+695	7	sleet	No-State	earth	-
+695	1	snow	No-State	-	-
+695	2	snow	No-State	-	-
+695	3	snow	No-State	-	-
+695	4	snow	No-State	-	-
+695	5	snow	No-State	-	earth
+695	6	snow	No-State	earth	-
+695	7	snow	No-State	-	-
+696	1	water vapor	No-State	-	air
+696	2	water vapor	No-State	air	-
+696	3	water vapor	No-State	-	-
+696	4	water vapor	No-State	-	-
+696	5	water vapor	No-State	-	-
+696	6	water vapor	No-State	-	-
+696	1	water droplets	No-State	-	-
+696	2	water droplets	No-State	-	air
+696	3	water droplets	No-State	air	cloud
+696	4	water droplets	No-State	cloud	cloud
+696	5	water droplets	No-State	cloud	cloud
+696	6	water droplets	No-State	cloud	-
+696	1	cloud	No-State	-	?
+696	2	cloud	No-State	?	?
+696	3	cloud	No-State	?	?
+696	4	cloud	No-State	?	?
+696	5	cloud	No-State	?	?
+696	6	cloud	No-State	?	?
+696	1	rain	No-State	-	-
+696	2	rain	No-State	-	-
+696	3	rain	No-State	-	-
+696	4	rain	No-State	-	-
+696	5	rain	No-State	-	-
+696	6	rain	No-State	-	?
+697	1	water	No-State	body of water	body of water
+697	2	water	No-State	body of water	-
+697	3	water	No-State	-	-
+697	4	water	No-State	-	-
+697	5	water	No-State	-	-
+697	1	clouds	No-State	-	-
+697	2	clouds	No-State	-	?
+697	3	clouds	No-State	?	?
+697	4	clouds	No-State	?	?
+697	5	clouds	No-State	?	?
+697	1	rain	No-State	-	-
+697	2	rain	No-State	-	-
+697	3	rain	No-State	-	-
+697	4	rain	No-State	-	-
+697	5	rain	No-State	-	area below the cloud
+1031	1	plant or animal	No-State	?	-
+1031	2	plant or animal	No-State	-	-
+1031	3	plant or animal	No-State	-	-
+1031	4	plant or animal	No-State	-	-
+1031	5	plant or animal	No-State	-	-
+1031	1	bones	No-State	-	mud or soil
+1031	2	bones	No-State	mud or soil	mud or soil
+1031	3	bones	No-State	mud or soil	sediment
+1031	4	bones	No-State	sediment	sediment
+1031	5	bones	No-State	sediment	-
+1031	1	sediment	No-State	-	-
+1031	2	sediment	No-State	-	-
+1031	3	sediment	No-State	-	mud or soil
+1031	4	sediment	No-State	mud or soil	-
+1031	5	sediment	No-State	-	-
+1031	1	rock	No-State	-	-
+1031	2	rock	No-State	-	-
+1031	3	rock	No-State	-	-
+1031	4	rock	No-State	-	soil
+1031	5	rock	No-State	soil	-
+1031	1	fossil	No-State	-	-
+1031	2	fossil	No-State	-	-
+1031	3	fossil	No-State	-	-
+1031	4	fossil	No-State	-	-
+1031	5	fossil	No-State	-	mud or soil
+1032	1	animals	No-State	?	-
+1032	2	animals	No-State	-	-
+1032	3	animals	No-State	-	-
+1032	4	animals	No-State	-	-
+1032	5	animals	No-State	-	-
+1032	6	animals	No-State	-	-
+1032	1	plants	No-State	?	-
+1032	2	plants	No-State	-	-
+1032	3	plants	No-State	-	-
+1032	4	plants	No-State	-	-
+1032	5	plants	No-State	-	-
+1032	6	plants	No-State	-	-
+1032	1	bones and hard tissues ; remains	No-State	-	-
+1032	2	bones and hard tissues ; remains	No-State	-	mud
+1032	3	bones and hard tissues ; remains	No-State	mud	mud
+1032	4	bones and hard tissues ; remains	No-State	mud	mud
+1032	5	bones and hard tissues ; remains	No-State	mud	mud
+1032	6	bones and hard tissues ; remains	No-State	mud	-
+1032	1	sediment	No-State	-	-
+1032	2	sediment	No-State	-	-
+1032	3	sediment	No-State	-	-
+1032	4	sediment	No-State	-	-
+1032	5	sediment	No-State	-	remain
+1032	6	sediment	No-State	remain	-
+1032	1	rock	No-State	-	-
+1032	2	rock	No-State	-	-
+1032	3	rock	No-State	-	-
+1032	4	rock	No-State	-	-
+1032	5	rock	No-State	-	-
+1032	6	rock	No-State	-	wet environment
+1033	1	animal	No-State	?	-
+1033	2	animal	No-State	-	-
+1033	3	animal	No-State	-	-
+1033	4	animal	No-State	-	-
+1033	5	animal	No-State	-	-
+1033	6	animal	No-State	-	-
+1033	1	skeleton	No-State	?	?
+1033	2	skeleton	No-State	?	?
+1033	3	skeleton	No-State	?	mud
+1033	4	skeleton	No-State	mud	rock
+1033	5	skeleton	No-State	rock	-
+1033	6	skeleton	No-State	-	-
+1033	1	rock	No-State	-	-
+1033	2	rock	No-State	-	-
+1033	3	rock	No-State	-	-
+1033	4	rock	No-State	-	?
+1033	5	rock	No-State	?	?
+1033	6	rock	No-State	?	?
+1033	1	mold	No-State	-	-
+1033	2	mold	No-State	-	-
+1033	3	mold	No-State	-	-
+1033	4	mold	No-State	-	-
+1033	5	mold	No-State	-	-
+1033	6	mold	No-State	-	mud
+1145	1	hydrogen fuel	No-State	star	star
+1145	2	hydrogen fuel	No-State	star	-
+1145	3	hydrogen fuel	No-State	-	-
+1145	4	hydrogen fuel	No-State	-	-
+1145	5	hydrogen fuel	No-State	-	-
+1145	1	hydrogen atoms	No-State	-	?
+1145	2	hydrogen atoms	No-State	?	star
+1145	3	hydrogen atoms	No-State	star	-
+1145	4	hydrogen atoms	No-State	-	-
+1145	5	hydrogen atoms	No-State	-	-
+1145	1	helium atoms	No-State	-	-
+1145	2	helium atoms	No-State	-	-
+1145	3	helium atoms	No-State	-	red giant star
+1145	4	helium atoms	No-State	red giant star	?
+1145	5	helium atoms	No-State	?	red giant star
+1145	1	red giant star	No-State	-	?
+1145	2	red giant star	No-State	?	?
+1145	3	red giant star	No-State	?	?
+1145	4	red giant star	No-State	?	?
+1145	5	red giant star	No-State	?	?
+1146	1	star	No-State	space	space
+1146	2	star	No-State	space	space
+1146	3	star	No-State	space	space
+1146	4	star	No-State	space	space
+1146	5	star	No-State	space	space
+1146	6	star	No-State	space	space
+1146	7	star	No-State	space	space
+1146	8	star	No-State	space	space
+1146	9	star	No-State	space	space
+1146	10	star	No-State	space	space
+1146	1	hydrogen fuel	No-State	star	star
+1146	2	hydrogen fuel	No-State	star	-
+1146	3	hydrogen fuel	No-State	-	-
+1146	4	hydrogen fuel	No-State	-	-
+1146	5	hydrogen fuel	No-State	-	-
+1146	6	hydrogen fuel	No-State	-	-
+1146	7	hydrogen fuel	No-State	-	-
+1146	8	hydrogen fuel	No-State	-	-
+1146	9	hydrogen fuel	No-State	-	-
+1146	10	hydrogen fuel	No-State	-	-
+1146	1	hydrogen	No-State	star	star
+1146	2	hydrogen	No-State	star	star
+1146	3	hydrogen	No-State	star	-
+1146	4	hydrogen	No-State	-	-
+1146	5	hydrogen	No-State	-	-
+1146	6	hydrogen	No-State	-	-
+1146	7	hydrogen	No-State	-	-
+1146	8	hydrogen	No-State	-	-
+1146	9	hydrogen	No-State	-	-
+1146	10	hydrogen	No-State	-	-
+1146	1	helium	No-State	-	-
+1146	2	helium	No-State	-	-
+1146	3	helium	No-State	-	star
+1146	4	helium	No-State	star	space
+1146	5	helium	No-State	space	space
+1146	6	helium	No-State	space	star
+1146	7	helium	No-State	star	-
+1146	8	helium	No-State	-	-
+1146	9	helium	No-State	-	-
+1146	10	helium	No-State	-	-
+1146	1	energy	No-State	-	-
+1146	2	energy	No-State	-	-
+1146	3	energy	No-State	-	?
+1146	4	energy	No-State	?	-
+1146	5	energy	No-State	-	-
+1146	6	energy	No-State	-	-
+1146	7	energy	No-State	-	-
+1146	8	energy	No-State	-	-
+1146	9	energy	No-State	-	-
+1146	10	energy	No-State	-	-
+1146	1	carbon atoms	No-State	-	-
+1146	2	carbon atoms	No-State	-	-
+1146	3	carbon atoms	No-State	-	-
+1146	4	carbon atoms	No-State	-	-
+1146	5	carbon atoms	No-State	-	-
+1146	6	carbon atoms	No-State	-	-
+1146	7	carbon atoms	No-State	-	star
+1146	8	carbon atoms	No-State	star	star
+1146	9	carbon atoms	No-State	star	?
+1146	10	carbon atoms	No-State	?	?
+1146	1	red giant star	No-State	-	-
+1146	2	red giant star	No-State	-	-
+1146	3	red giant star	No-State	-	-
+1146	4	red giant star	No-State	-	-
+1146	5	red giant star	No-State	-	-
+1146	6	red giant star	No-State	-	-
+1146	7	red giant star	No-State	-	-
+1146	8	red giant star	No-State	-	-
+1146	9	red giant star	No-State	-	-
+1146	10	red giant star	No-State	-	space
+1147	1	hydrogen atoms	No-State	star	-
+1147	2	hydrogen atoms	No-State	-	-
+1147	3	hydrogen atoms	No-State	-	-
+1147	4	hydrogen atoms	No-State	-	-
+1147	5	hydrogen atoms	No-State	-	-
+1147	6	hydrogen atoms	No-State	-	-
+1147	1	helium atoms	No-State	-	star
+1147	2	helium atoms	No-State	star	star
+1147	3	helium atoms	No-State	star	star
+1147	4	helium atoms	No-State	star	-
+1147	5	helium atoms	No-State	-	-
+1147	6	helium atoms	No-State	-	-
+1147	1	hydrogen	No-State	star	star
+1147	2	hydrogen	No-State	star	-
+1147	3	hydrogen	No-State	-	-
+1147	4	hydrogen	No-State	-	-
+1147	5	hydrogen	No-State	-	-
+1147	6	hydrogen	No-State	-	-
+1147	1	helium	No-State	-	star
+1147	2	helium	No-State	star	star
+1147	3	helium	No-State	star	star
+1147	4	helium	No-State	star	-
+1147	5	helium	No-State	-	-
+1147	6	helium	No-State	-	-
+1147	1	star	No-State	?	?
+1147	2	star	No-State	?	?
+1147	3	star	No-State	?	?
+1147	4	star	No-State	?	?
+1147	5	star	No-State	?	?
+1147	6	star	No-State	?	?
+1147	1	carbon atoms	No-State	-	-
+1147	2	carbon atoms	No-State	-	-
+1147	3	carbon atoms	No-State	-	-
+1147	4	carbon atoms	No-State	-	star
+1147	5	carbon atoms	No-State	star	star
+1147	6	carbon atoms	No-State	star	star
+1147	1	red giant star	No-State	-	-
+1147	2	red giant star	No-State	-	-
+1147	3	red giant star	No-State	-	-
+1147	4	red giant star	No-State	-	-
+1147	5	red giant star	No-State	-	-
+1147	6	red giant star	No-State	-	?
+1188	1	comet	No-State	outer space	outer space
+1188	2	comet	No-State	outer space	planet
+1188	3	comet	No-State	planet	atmosphere
+1188	4	comet	No-State	atmosphere	planet
+1188	5	comet	No-State	planet	-
+1188	1	hole; crater	No-State	-	-
+1188	2	hole; crater	No-State	-	-
+1188	3	hole; crater	No-State	-	-
+1188	4	hole; crater	No-State	-	-
+1188	5	hole; crater	No-State	-	planet
+1189	1	chunks of rock	No-State	?	meteorite
+1189	2	chunks of rock	No-State	meteorite	atmosphere
+1189	3	chunks of rock	No-State	atmosphere	?
+1189	4	chunks of rock	No-State	?	earth
+1189	5	chunks of rock	No-State	earth	earth
+1189	6	chunks of rock	No-State	earth	earth
+1189	1	crater	No-State	-	-
+1189	2	crater	No-State	-	-
+1189	3	crater	No-State	-	-
+1189	4	crater	No-State	-	-
+1189	5	crater	No-State	-	earth
+1189	6	crater	No-State	earth	earth
+1190	1	oxygenated blood	No-State	-	-
+1190	2	oxygenated blood	No-State	-	-
+1190	3	oxygenated blood	No-State	-	-
+1190	4	oxygenated blood	No-State	-	-
+1190	5	oxygenated blood	No-State	-	-
+1190	6	oxygenated blood	No-State	-	?
+1190	7	oxygenated blood	No-State	?	left atrium
+1190	8	oxygenated blood	No-State	left atrium	left atrium
+1190	9	oxygenated blood	No-State	left atrium	?
+1190	10	oxygenated blood	No-State	?	?
+1190	1	deoxygenated blood	No-State	-	-
+1190	2	deoxygenated blood	No-State	-	-
+1190	3	deoxygenated blood	No-State	-	-
+1190	4	deoxygenated blood	No-State	-	-
+1190	5	deoxygenated blood	No-State	-	-
+1190	6	deoxygenated blood	No-State	-	-
+1190	7	deoxygenated blood	No-State	-	left atrium
+1190	8	deoxygenated blood	No-State	left atrium	?
+1190	9	deoxygenated blood	No-State	?	body
+1190	10	deoxygenated blood	No-State	body	heart
+1190	1	oxygen	No-State	?	?
+1190	2	oxygen	No-State	?	?
+1190	3	oxygen	No-State	?	?
+1190	4	oxygen	No-State	?	?
+1190	5	oxygen	No-State	?	?
+1190	6	oxygen	No-State	?	blood
+1190	7	oxygen	No-State	blood	left atrium
+1190	8	oxygen	No-State	left atrium	blood
+1190	9	oxygen	No-State	blood	blood
+1190	10	oxygen	No-State	blood	blood
+1240	1	Air	No-State	?	evaporator's coil
+1240	2	Air	No-State	evaporator's coil	evaporator's coil
+1240	3	Air	No-State	evaporator's coil	evaporator's coil
+1240	4	Air	No-State	evaporator's coil	?
+1240	5	Air	No-State	?	?
+1240	6	Air	No-State	?	?
+1240	7	Air	No-State	?	?
+1240	8	Air	No-State	?	?
+1240	1	Heat	No-State	?	?
+1240	2	Heat	No-State	?	refrigerant
+1240	3	Heat	No-State	refrigerant	?
+1240	4	Heat	No-State	?	?
+1240	5	Heat	No-State	?	?
+1240	6	Heat	No-State	?	?
+1240	7	Heat	No-State	?	?
+1240	8	Heat	No-State	?	?
+1240	1	Refrigerent Liquid	No-State	?	?
+1240	2	Refrigerent Liquid	No-State	?	coil
+1240	3	Refrigerent Liquid	No-State	coil	-
+1240	4	Refrigerent Liquid	No-State	-	-
+1240	5	Refrigerent Liquid	No-State	-	-
+1240	6	Refrigerent Liquid	No-State	-	-
+1240	7	Refrigerent Liquid	No-State	-	-
+1240	8	Refrigerent Liquid	No-State	-	evaporator
+1240	1	Refrigerent Gas	No-State	?	?
+1240	2	Refrigerent Gas	No-State	?	coil
+1240	3	Refrigerent Gas	No-State	coil	?
+1240	4	Refrigerent Gas	No-State	?	?
+1240	5	Refrigerent Gas	No-State	?	-
+1240	6	Refrigerent Gas	No-State	-	-
+1240	7	Refrigerent Gas	No-State	-	-
+1240	8	Refrigerent Gas	No-State	-	-
+1240	1	Liquid	No-State	?	?
+1240	2	Liquid	No-State	?	evaporator
+1240	3	Liquid	No-State	evaporator	-
+1240	4	Liquid	No-State	-	-
+1240	5	Liquid	No-State	-	-
+1240	6	Liquid	No-State	-	condenser
+1240	7	Liquid	No-State	condenser	condenser
+1240	8	Liquid	No-State	condenser	evaporator
+725	1	plant; animal	No-State	water environment	-
+725	2	plant; animal	No-State	-	-
+725	3	plant; animal	No-State	-	-
+725	4	plant; animal	No-State	-	-
+725	5	plant; animal	No-State	-	-
+725	6	plant; animal	No-State	-	-
+725	1	soft tissues	No-State	plant or animal	mud and silt
+725	2	soft tissues	No-State	mud and silt	-
+725	3	soft tissues	No-State	-	-
+725	4	soft tissues	No-State	-	-
+725	5	soft tissues	No-State	-	-
+725	6	soft tissues	No-State	-	-
+725	1	sediment	No-State	-	-
+725	2	sediment	No-State	-	-
+725	3	sediment	No-State	-	-
+725	4	sediment	No-State	-	-
+725	5	sediment	No-State	-	-
+725	6	sediment	No-State	-	-
+725	1	rock	No-State	-	-
+725	2	rock	No-State	-	-
+725	3	rock	No-State	-	watery environment
+725	4	rock	No-State	watery environment	watery environment
+725	5	rock	No-State	watery environment	?
+725	6	rock	No-State	?	watery environment
+725	1	bones	No-State	-	-
+725	2	bones	No-State	-	?
+725	3	bones	No-State	?	?
+725	4	bones	No-State	?	?
+725	5	bones	No-State	?	-
+725	6	bones	No-State	-	-
+725	1	minerals	No-State	-	-
+725	2	minerals	No-State	-	-
+725	3	minerals	No-State	-	-
+725	4	minerals	No-State	-	rock
+725	5	minerals	No-State	rock	rock
+725	6	minerals	No-State	rock	rock
+725	1	stone replica; fossil	No-State	-	-
+725	2	stone replica; fossil	No-State	-	-
+725	3	stone replica; fossil	No-State	-	-
+725	4	stone replica; fossil	No-State	-	-
+725	5	stone replica; fossil	No-State	-	-
+725	6	stone replica; fossil	No-State	-	watery environment
+726	1	animal	No-State	?	?
+726	2	animal	No-State	?	?
+726	3	animal	No-State	?	-
+726	4	animal	No-State	-	-
+726	5	animal	No-State	-	-
+726	6	animal	No-State	-	-
+726	7	animal	No-State	-	-
+726	8	animal	No-State	-	-
+726	9	animal	No-State	-	-
+726	10	animal	No-State	-	-
+726	1	animal's skeleton	No-State	?	?
+726	2	animal's skeleton	No-State	?	?
+726	3	animal's skeleton	No-State	?	?
+726	4	animal's skeleton	No-State	?	bottom of an ocean
+726	5	animal's skeleton	No-State	bottom of an ocean	bottom of an ocean
+726	6	animal's skeleton	No-State	bottom of an ocean	bottom of an ocean
+726	7	animal's skeleton	No-State	bottom of an ocean	bottom of an ocean
+726	8	animal's skeleton	No-State	bottom of an ocean	-
+726	9	animal's skeleton	No-State	-	-
+726	10	animal's skeleton	No-State	-	-
+726	1	mud; sand	No-State	?	?
+726	2	mud; sand	No-State	?	?
+726	3	mud; sand	No-State	?	?
+726	4	mud; sand	No-State	?	ocean
+726	5	mud; sand	No-State	ocean	bottom of an ocean
+726	6	mud; sand	No-State	bottom of an ocean	skeleton
+726	7	mud; sand	No-State	skeleton	skeleton
+726	8	mud; sand	No-State	skeleton	-
+726	9	mud; sand	No-State	-	-
+726	10	mud; sand	No-State	-	-
+726	1	rock	No-State	-	-
+726	2	rock	No-State	-	-
+726	3	rock	No-State	-	-
+726	4	rock	No-State	-	-
+726	5	rock	No-State	-	-
+726	6	rock	No-State	-	-
+726	7	rock	No-State	-	-
+726	8	rock	No-State	-	bottom of an ocean
+726	9	rock	No-State	bottom of an ocean	bottom of an ocean
+726	10	rock	No-State	bottom of an ocean	bottom of an ocean
+726	1	hole	No-State	-	-
+726	2	hole	No-State	-	-
+726	3	hole	No-State	-	-
+726	4	hole	No-State	-	-
+726	5	hole	No-State	-	-
+726	6	hole	No-State	-	-
+726	7	hole	No-State	-	-
+726	8	hole	No-State	-	-
+726	9	hole	No-State	-	-
+726	10	hole	No-State	-	rock
+727	1	animal	No-State	?	-
+727	2	animal	No-State	-	-
+727	3	animal	No-State	-	-
+727	4	animal	No-State	-	-
+727	5	animal	No-State	-	-
+727	6	animal	No-State	-	-
+727	7	animal	No-State	-	-
+727	8	animal	No-State	-	-
+727	9	animal	No-State	-	-
+727	10	animal	No-State	-	-
+727	1	soft tissues	No-State	animal	animal
+727	2	soft tissues	No-State	animal	water environment
+727	3	soft tissues	No-State	water environment	-
+727	4	soft tissues	No-State	-	-
+727	5	soft tissues	No-State	-	-
+727	6	soft tissues	No-State	-	-
+727	7	soft tissues	No-State	-	-
+727	8	soft tissues	No-State	-	-
+727	9	soft tissues	No-State	-	-
+727	10	soft tissues	No-State	-	-
+727	1	bones	No-State	-	-
+727	2	bones	No-State	-	-
+727	3	bones	No-State	-	-
+727	4	bones	No-State	-	watery environment
+727	5	bones	No-State	watery environment	watery environment
+727	6	bones	No-State	watery environment	watery environment
+727	7	bones	No-State	watery environment	-
+727	8	bones	No-State	-	?
+727	9	bones	No-State	?	-
+727	10	bones	No-State	-	-
+727	1	mud; silt	No-State	?	-
+727	2	mud; silt	No-State	-	-
+727	3	mud; silt	No-State	-	-
+727	4	mud; silt	No-State	-	bone
+727	5	mud; silt	No-State	bone	bone
+727	6	mud; silt	No-State	bone	-
+727	7	mud; silt	No-State	-	-
+727	8	mud; silt	No-State	-	-
+727	9	mud; silt	No-State	-	-
+727	10	mud; silt	No-State	-	-
+727	1	rock	No-State	-	-
+727	2	rock	No-State	-	-
+727	3	rock	No-State	-	-
+727	4	rock	No-State	-	-
+727	5	rock	No-State	-	-
+727	6	rock	No-State	-	water environment
+727	7	rock	No-State	water environment	watery environment
+727	8	rock	No-State	watery environment	watery environment
+727	9	rock	No-State	watery environment	watery environment
+727	10	rock	No-State	watery environment	watery environment
+727	1	minerals	No-State	-	-
+727	2	minerals	No-State	-	-
+727	3	minerals	No-State	-	-
+727	4	minerals	No-State	-	-
+727	5	minerals	No-State	-	-
+727	6	minerals	No-State	-	-
+727	7	minerals	No-State	-	-
+727	8	minerals	No-State	-	rock
+727	9	minerals	No-State	rock	rock
+727	10	minerals	No-State	rock	rock
+727	1	fossil	No-State	-	-
+727	2	fossil	No-State	-	-
+727	3	fossil	No-State	-	-
+727	4	fossil	No-State	-	-
+727	5	fossil	No-State	-	-
+727	6	fossil	No-State	-	-
+727	7	fossil	No-State	-	-
+727	8	fossil	No-State	-	-
+727	9	fossil	No-State	-	-
+727	10	fossil	No-State	-	watery environment
+791	1	DC electricity	No-State	-	-
+791	2	DC electricity	No-State	-	-
+791	3	DC electricity	No-State	-	?
+791	4	DC electricity	No-State	?	-
+791	5	DC electricity	No-State	-	-
+791	6	DC electricity	No-State	-	-
+791	1	AC electricity	No-State	-	-
+791	2	AC electricity	No-State	-	-
+791	3	AC electricity	No-State	-	-
+791	4	AC electricity	No-State	-	inverter
+791	5	AC electricity	No-State	inverter	home
+791	6	AC electricity	No-State	home	home
+896	1	oxygen-depleted blood ; blood	No-State	?	heart
+896	2	oxygen-depleted blood ; blood	No-State	heart	heart
+896	3	oxygen-depleted blood ; blood	No-State	heart	right ventricle
+896	4	oxygen-depleted blood ; blood	No-State	right ventricle	right ventricle
+896	5	oxygen-depleted blood ; blood	No-State	right ventricle	right ventricle
+896	6	oxygen-depleted blood ; blood	No-State	right ventricle	?
+896	7	oxygen-depleted blood ; blood	No-State	?	?
+896	8	oxygen-depleted blood ; blood	No-State	?	left atrium
+896	9	oxygen-depleted blood ; blood	No-State	left atrium	body
+896	1	oxygenated blood ; blood	No-State	-	-
+896	2	oxygenated blood ; blood	No-State	-	-
+896	3	oxygenated blood ; blood	No-State	-	-
+896	4	oxygenated blood ; blood	No-State	-	-
+896	5	oxygenated blood ; blood	No-State	-	-
+896	6	oxygenated blood ; blood	No-State	-	-
+896	7	oxygenated blood ; blood	No-State	-	lung
+896	8	oxygenated blood ; blood	No-State	lung	left atrium
+896	9	oxygenated blood ; blood	No-State	left atrium	body
+903	1	visible light; light	No-State	?	lens
+903	2	visible light; light	No-State	lens	retina
+903	3	visible light; light	No-State	retina	photoreceptor cell
+903	4	visible light; light	No-State	photoreceptor cell	-
+903	5	visible light; light	No-State	-	-
+903	1	chemical energy	No-State	-	-
+903	2	chemical energy	No-State	-	-
+903	3	chemical energy	No-State	-	-
+903	4	chemical energy	No-State	-	photoreceptor cell
+903	5	chemical energy	No-State	photoreceptor cell	?
+903	1	image	No-State	-	-
+903	2	image	No-State	-	-
+903	3	image	No-State	-	-
+903	4	image	No-State	-	-
+903	5	image	No-State	-	brain
+904	1	light	No-State	?	-
+904	2	light	No-State	-	-
+904	3	light	No-State	-	-
+904	4	light	No-State	-	-
+904	5	light	No-State	-	-
+904	1	small image	No-State	-	cornea and lens
+904	2	small image	No-State	cornea and lens	retina
+904	3	small image	No-State	retina	-
+904	4	small image	No-State	-	-
+904	5	small image	No-State	-	-
+904	1	retina's rods and cones	No-State	?	?
+904	2	retina's rods and cones	No-State	?	retina
+904	3	retina's rods and cones	No-State	retina	?
+904	4	retina's rods and cones	No-State	?	?
+904	5	retina's rods and cones	No-State	?	?
+904	1	electrical pulses	No-State	-	-
+904	2	electrical pulses	No-State	-	-
+904	3	electrical pulses	No-State	-	optic nerve
+904	4	electrical pulses	No-State	optic nerve	optic canal
+904	5	electrical pulses	No-State	optic canal	lateral geniculate nucleus
+927	1	rain	No-State	?	-
+927	2	rain	No-State	-	-
+927	3	rain	No-State	-	-
+927	4	rain	No-State	-	-
+927	5	rain	No-State	-	-
+927	6	rain	No-State	-	-
+927	1	rain water; water	No-State	?	?
+927	2	rain water; water	No-State	?	ground
+927	3	rain water; water	No-State	ground	ground
+927	4	rain water; water	No-State	ground	soil
+927	5	rain water; water	No-State	soil	soil
+927	6	rain water; water	No-State	soil	soil
+927	1	land	No-State	?	?
+927	2	land	No-State	?	?
+927	3	land	No-State	?	?
+927	4	land	No-State	?	?
+927	5	land	No-State	?	?
+927	6	land	No-State	?	-
+927	1	plants	No-State	?	?
+927	2	plants	No-State	?	?
+927	3	plants	No-State	?	?
+927	4	plants	No-State	?	?
+927	5	plants	No-State	?	soil
+927	6	plants	No-State	soil	-
+927	1	trees	No-State	land	land
+927	2	trees	No-State	land	land
+927	3	trees	No-State	land	land
+927	4	trees	No-State	land	?
+927	5	trees	No-State	?	ground
+927	6	trees	No-State	ground	-
+932	1	water	No-State	?	rock
+932	2	water	No-State	rock	rock
+932	3	water	No-State	rock	rock
+932	4	water	No-State	rock	rock
+932	5	water	No-State	rock	rock
+932	6	water	No-State	rock	?
+932	1	rocks	No-State	?	?
+932	2	rocks	No-State	?	?
+932	3	rocks	No-State	?	?
+932	4	rocks	No-State	?	?
+932	5	rocks	No-State	?	?
+932	6	rocks	No-State	?	-
+932	1	chemicals	No-State	-	water
+932	2	chemicals	No-State	water	water
+932	3	chemicals	No-State	water	rock
+932	4	chemicals	No-State	rock	-
+932	5	chemicals	No-State	-	-
+932	6	chemicals	No-State	-	-
+932	1	oxygen	No-State	air	air
+932	2	oxygen	No-State	air	air
+932	3	oxygen	No-State	air	air
+932	4	oxygen	No-State	air	air
+932	5	oxygen	No-State	air	air
+932	6	oxygen	No-State	air	?
+933	1	water	No-State	?	carbon dioxide
+933	2	water	No-State	carbon dioxide	carbon dioxide
+933	3	water	No-State	carbon dioxide	mineral based material
+933	4	water	No-State	mineral based material	mineral based material
+933	5	water	No-State	mineral based material	mineral based material
+933	1	carbon dioxide	No-State	?	water
+933	2	carbon dioxide	No-State	water	-
+933	3	carbon dioxide	No-State	-	-
+933	4	carbon dioxide	No-State	-	-
+933	5	carbon dioxide	No-State	-	-
+933	1	mineral based material	No-State	?	?
+933	2	mineral based material	No-State	?	?
+933	3	mineral based material	No-State	?	?
+933	4	mineral based material	No-State	?	?
+933	5	mineral based material	No-State	?	rock
+933	1	rock	No-State	?	?
+933	2	rock	No-State	?	?
+933	3	rock	No-State	?	?
+933	4	rock	No-State	?	?
+933	5	rock	No-State	?	?

@@ -1,0 +1,42 @@
+device: cuda | n_gpu: 1
+Total # of dev/test points: 175/236
+gold_sens: prior
+pred_sens: prior
+The performance on dev set: 
+ Accuracy: 72.9236%
+Precision: 59.6388%
+   Recall: 66.4516%
+       F1: 62.8408%
+              precision    recall  f1-score   support
+
+       prior       0.93      0.88      0.90       273
+      create       0.73      0.78      0.75        85
+       exist       0.72      0.68      0.70       451
+        move       0.56      0.64      0.59       157
+     destroy       0.52      0.59      0.55        68
+        post       0.73      0.74      0.73       170
+
+    accuracy                           0.73      1204
+   macro avg       0.70      0.72      0.71      1204
+weighted avg       0.74      0.73      0.73      1204
+
+gold_sens: exist
+pred_sens: exist
+The performance on test set: 
+ Accuracy: 71.685%
+Precision: 56.702%
+   Recall: 62.594%
+       F1: 59.436%
+              precision    recall  f1-score   support
+
+       prior       0.86      0.88      0.87       412
+      create       0.73      0.77      0.75       128
+       exist       0.68      0.64      0.66       513
+        move       0.45      0.48      0.47       152
+     destroy       0.53      0.65      0.59       121
+        post       0.78      0.74      0.76       348
+
+    accuracy                           0.72      1674
+   macro avg       0.67      0.69      0.68      1674
+weighted avg       0.72      0.72      0.72      1674
+

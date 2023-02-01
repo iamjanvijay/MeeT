@@ -1,0 +1,83 @@
+device: cuda | n_gpu: 1
+Total # of train/dev/test points: 1504/175/236
+Epoch: 0
+Train loss: 0.7055446916935096
+gold_sens: none
+pred_sens: none
+The performance on dev set: 
+Stemmed-EM: 64.830%
+        EM: 63.959%
+Stemmed-F1: 65.257%
+        F1: 64.822%
+Saved checkpoint at: ./logs/propara/train/location/ckpts/best.ckpt
+gold_sens: unknown
+pred_sens: unknown
+The performance on test set: 
+Stemmed-EM: 66.178%
+        EM: 66.073%
+Stemmed-F1: 67.334%
+        F1: 67.247%
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 16, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/propara/train/location', 'random_seed': 1234, 'learning_rate': 0.0001, 'test-Stemmed-EM': 0.6617801047120419, 'test-EM': 0.6607329842931937, 'test-Stemmed-F1': 0.6733387351450182, 'test-F1': 0.672466134795978, 'dev-Stemmed-EM': 0.6482958665699783, 'dev-EM': 0.6395939086294417, 'dev-Stemmed-F1': 0.6525743292240754, 'dev-F1': 0.6482233502538071, 'best_epoch': 0}
+Epoch: 1
+Train loss: 0.29542791412708996
+gold_sens: none
+pred_sens: none
+The performance on dev set: 
+Stemmed-EM: 67.730%
+        EM: 66.715%
+Stemmed-F1: 68.477%
+        F1: 67.970%
+Saved checkpoint at: ./logs/propara/train/location/ckpts/best.ckpt
+gold_sens: unknown
+pred_sens: unknown
+The performance on test set: 
+Stemmed-EM: 65.654%
+        EM: 65.445%
+Stemmed-F1: 67.273%
+        F1: 67.108%
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 16, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/propara/train/location', 'random_seed': 1234, 'learning_rate': 0.0001, 'test-Stemmed-EM': 0.6565445026178011, 'test-EM': 0.6544502617801047, 'test-Stemmed-F1': 0.6727337322363508, 'test-F1': 0.6710757915731743, 'dev-Stemmed-EM': 0.6773023930384336, 'dev-EM': 0.6671501087744742, 'dev-Stemmed-F1': 0.6847715736040608, 'dev-F1': 0.6796954314720811, 'best_epoch': 1}
+Epoch: 2
+Train loss: 0.20391776505983222
+gold_sens: none
+pred_sens: none
+The performance on dev set: 
+Stemmed-EM: 69.833%
+        EM: 68.745%
+Stemmed-F1: 70.552%
+        F1: 70.008%
+Saved checkpoint at: ./logs/propara/train/location/ckpts/best.ckpt
+gold_sens: unknown
+pred_sens: unknown
+The performance on test set: 
+Stemmed-EM: 68.743%
+        EM: 68.534%
+Stemmed-F1: 69.825%
+        F1: 69.590%
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 16, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/propara/train/location', 'random_seed': 1234, 'learning_rate': 0.0001, 'test-Stemmed-EM': 0.687434554973822, 'test-EM': 0.6853403141361256, 'test-Stemmed-F1': 0.6982541193535964, 'test-F1': 0.6958980984111879, 'dev-Stemmed-EM': 0.6983321247280638, 'dev-EM': 0.6874546773023931, 'dev-Stemmed-F1': 0.7055233260817017, 'dev-F1': 0.7000846023688663, 'best_epoch': 2}
+Epoch: 3
+Train loss: 0.1427919918809631
+gold_sens: none
+pred_sens: none
+The performance on dev set: 
+Stemmed-EM: 69.688%
+        EM: 69.036%
+Stemmed-F1: 70.319%
+        F1: 69.993%
+Epoch: 4
+Train loss: 0.11367700112113764
+gold_sens: none
+pred_sens: object
+The performance on dev set: 
+Stemmed-EM: 70.848%
+        EM: 70.051%
+Stemmed-F1: 71.565%
+        F1: 71.146%
+Saved checkpoint at: ./logs/propara/train/location/ckpts/best.ckpt
+gold_sens: unknown
+pred_sens: unknown
+The performance on test set: 
+Stemmed-EM: 67.068%
+        EM: 66.806%
+Stemmed-F1: 68.253%
+        F1: 68.077%
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 16, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/propara/train/location', 'random_seed': 1234, 'learning_rate': 0.0001, 'test-Stemmed-EM': 0.6706806282722513, 'test-EM': 0.6680628272251309, 'test-Stemmed-F1': 0.6825330341560708, 'test-F1': 0.6807703814510098, 'dev-Stemmed-EM': 0.7084844089920233, 'dev-EM': 0.700507614213198, 'dev-Stemmed-F1': 0.7156548913981836, 'dev-F1': 0.7114593045339964, 'best_epoch': 4}

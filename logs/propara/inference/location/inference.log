@@ -1,0 +1,16 @@
+device: cuda | n_gpu: 1
+Total # of dev/test points: 175/236
+gold_sens: none
+pred_sens: object
+The performance on dev set: 
+Stemmed-EM: 70.848%
+        EM: 70.051%
+Stemmed-F1: 71.565%
+        F1: 71.146%
+gold_sens: unknown
+pred_sens: unknown
+The performance on test set: 
+Stemmed-EM: 67.068%
+        EM: 66.806%
+Stemmed-F1: 68.253%
+        F1: 68.077%

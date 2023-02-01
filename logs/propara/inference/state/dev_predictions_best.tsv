@@ -1,0 +1,1204 @@
+4	1	plants	DESTROY	destroy	?
+4	2	plants	NONE	post	?
+4	3	plants	NONE	post	?
+4	4	plants	NONE	post	?
+4	5	plants	NONE	post	?
+4	6	plants	NONE	post	?
+4	7	plants	NONE	post	?
+4	8	plants	NONE	post	?
+4	9	plants	NONE	post	?
+4	10	plants	NONE	post	?
+4	1	bacteria	NONE	exist	?
+4	2	bacteria	MOVE	move	?
+4	3	bacteria	MOVE	move	?
+4	4	bacteria	NONE	exist	?
+4	5	bacteria	NONE	exist	?
+4	6	bacteria	NONE	exist	?
+4	7	bacteria	NONE	exist	?
+4	8	bacteria	NONE	exist	?
+4	9	bacteria	NONE	exist	?
+4	10	bacteria	NONE	exist	?
+4	1	sediment	NONE	exist	?
+4	2	sediment	MOVE	move	?
+4	3	sediment	NONE	exist	?
+4	4	sediment	MOVE	move	?
+4	5	sediment	NONE	exist	?
+4	6	sediment	NONE	exist	?
+4	7	sediment	NONE	exist	?
+4	8	sediment	NONE	exist	?
+4	9	sediment	NONE	exist	?
+4	10	sediment	DESTROY	destroy	?
+4	1	oil	NONE	prior	?
+4	2	oil	NONE	prior	?
+4	3	oil	NONE	prior	?
+4	4	oil	NONE	prior	?
+4	5	oil	NONE	prior	?
+4	6	oil	NONE	prior	?
+4	7	oil	NONE	prior	?
+4	8	oil	NONE	prior	?
+4	9	oil	NONE	prior	?
+4	10	oil	CREATE	create	?
+5	1	algae	DESTROY	destroy	?
+5	2	algae	NONE	post	?
+5	3	algae	NONE	post	?
+5	4	algae	NONE	post	?
+5	5	algae	NONE	post	?
+5	6	algae	NONE	post	?
+5	7	algae	NONE	post	?
+5	8	algae	NONE	post	?
+5	9	algae	NONE	post	?
+5	1	plankton	DESTROY	destroy	?
+5	2	plankton	NONE	post	?
+5	3	plankton	NONE	post	?
+5	4	plankton	NONE	post	?
+5	5	plankton	NONE	post	?
+5	6	plankton	NONE	post	?
+5	7	plankton	NONE	post	?
+5	8	plankton	NONE	post	?
+5	9	plankton	NONE	post	?
+5	1	sediment	CREATE	create	?
+5	2	sediment	MOVE	move	?
+5	3	sediment	DESTROY	destroy	?
+5	4	sediment	NONE	exist	?
+5	5	sediment	DESTROY	destroy	?
+5	6	sediment	NONE	post	?
+5	7	sediment	NONE	post	?
+5	8	sediment	NONE	post	?
+5	9	sediment	NONE	post	?
+5	1	material	NONE	exist	?
+5	2	material	NONE	exist	?
+5	3	material	NONE	exist	?
+5	4	material	NONE	exist	?
+5	5	material	NONE	exist	?
+5	6	material	NONE	exist	?
+5	7	material	DESTROY	destroy	?
+5	8	material	NONE	post	?
+5	9	material	NONE	post	?
+5	1	oil	NONE	prior	?
+5	2	oil	NONE	prior	?
+5	3	oil	NONE	prior	?
+5	4	oil	NONE	prior	?
+5	5	oil	NONE	prior	?
+5	6	oil	NONE	prior	?
+5	7	oil	NONE	prior	?
+5	8	oil	CREATE	create	?
+5	9	oil	MOVE	move	?
+272	1	fuel	DESTROY	destroy	?
+272	2	fuel	DESTROY	destroy	?
+272	3	fuel	NONE	post	?
+272	4	fuel	NONE	post	?
+272	5	fuel	NONE	post	?
+272	6	fuel	NONE	post	?
+272	1	mechanical energy	CREATE	create	?
+272	2	mechanical energy	DESTROY	destroy	?
+272	3	mechanical energy	NONE	post	?
+272	4	mechanical energy	NONE	post	?
+272	5	mechanical energy	NONE	post	?
+272	6	mechanical energy	NONE	post	?
+272	1	electrical energy	NONE	prior	?
+272	2	electrical energy	CREATE	create	?
+272	3	electrical energy	NONE	exist	?
+272	4	electrical energy	NONE	exist	?
+272	5	electrical energy	NONE	exist	?
+272	6	electrical energy	NONE	exist	?
+272	1	magnet	NONE	exist	?
+272	2	magnet	NONE	exist	?
+272	3	magnet	MOVE	move	?
+272	4	magnet	NONE	exist	?
+272	5	magnet	NONE	exist	?
+272	6	magnet	NONE	exist	?
+272	1	flow of electrons ; electricity	NONE	prior	?
+272	2	flow of electrons ; electricity	CREATE	create	?
+272	3	flow of electrons ; electricity	NONE	exist	?
+272	4	flow of electrons ; electricity	MOVE	move	?
+272	5	flow of electrons ; electricity	MOVE	move	?
+272	6	flow of electrons ; electricity	MOVE	move	?
+349	1	sound ; sound waves	CREATE	create	?
+349	2	sound ; sound waves	NONE	exist	?
+349	3	sound ; sound waves	MOVE	move	?
+349	4	sound ; sound waves	MOVE	move	?
+349	5	sound ; sound waves	MOVE	move	?
+349	6	sound ; sound waves	NONE	exist	?
+349	7	sound ; sound waves	MOVE	move	?
+349	1	echoes	NONE	prior	?
+349	2	echoes	NONE	prior	?
+349	3	echoes	NONE	prior	?
+349	4	echoes	NONE	prior	?
+349	5	echoes	NONE	prior	?
+349	6	echoes	NONE	prior	?
+349	7	echoes	CREATE	create	?
+375	1	electricity	MOVE	move	?
+375	2	electricity	NONE	exist	?
+375	3	electricity	MOVE	move	?
+375	4	electricity	MOVE	move	?
+375	5	electricity	NONE	exist	?
+375	1	light	NONE	prior	?
+375	2	light	CREATE	create	?
+375	3	light	DESTROY	destroy	?
+375	4	light	NONE	post	?
+375	5	light	NONE	post	?
+375	1	heat	NONE	prior	?
+375	2	heat	NONE	prior	?
+375	3	heat	CREATE	create	?
+375	4	heat	NONE	exist	?
+375	5	heat	NONE	exist	?
+375	1	motion	NONE	prior	?
+375	2	motion	NONE	prior	?
+375	3	motion	NONE	prior	?
+375	4	motion	CREATE	create	?
+375	5	motion	DESTROY	destroy	?
+375	1	motion energy	NONE	prior	?
+375	2	motion energy	NONE	prior	?
+375	3	motion energy	NONE	prior	?
+375	4	motion energy	CREATE	create	?
+375	5	motion energy	DESTROY	destroy	?
+388	1	waters;water	MOVE	move	?
+388	2	waters;water	MOVE	move	?
+388	3	waters;water	MOVE	move	?
+388	4	waters;water	NONE	exist	?
+388	5	waters;water	NONE	exist	?
+388	6	waters;water	MOVE	move	?
+388	1	turbines	NONE	exist	?
+388	2	turbines	NONE	exist	?
+388	3	turbines	NONE	exist	?
+388	4	turbines	NONE	exist	?
+388	5	turbines	NONE	exist	?
+388	6	turbines	NONE	exist	?
+388	1	generators	NONE	exist	?
+388	2	generators	NONE	exist	?
+388	3	generators	NONE	exist	?
+388	4	generators	NONE	exist	?
+388	5	generators	NONE	exist	?
+388	6	generators	NONE	exist	?
+388	1	electricity	NONE	prior	?
+388	2	electricity	NONE	prior	?
+388	3	electricity	NONE	prior	?
+388	4	electricity	NONE	prior	?
+388	5	electricity	CREATE	create	?
+388	6	electricity	MOVE	move	?
+390	1	reservoir	CREATE	create	?
+390	2	reservoir	NONE	exist	?
+390	3	reservoir	NONE	exist	?
+390	4	reservoir	NONE	exist	?
+390	5	reservoir	NONE	exist	?
+390	6	reservoir	NONE	exist	?
+390	7	reservoir	NONE	exist	?
+390	1	water	NONE	exist	?
+390	2	water	MOVE	move	?
+390	3	water	MOVE	move	?
+390	4	water	NONE	exist	?
+390	5	water	DESTROY	destroy	?
+390	6	water	NONE	post	?
+390	7	water	NONE	post	?
+390	1	turbine	NONE	exist	?
+390	2	turbine	NONE	exist	?
+390	3	turbine	NONE	exist	?
+390	4	turbine	NONE	exist	?
+390	5	turbine	NONE	exist	?
+390	6	turbine	NONE	exist	?
+390	7	turbine	NONE	exist	?
+390	1	generator	NONE	exist	?
+390	2	generator	NONE	exist	?
+390	3	generator	NONE	exist	?
+390	4	generator	NONE	exist	?
+390	5	generator	NONE	exist	?
+390	6	generator	NONE	exist	?
+390	7	generator	NONE	exist	?
+390	1	water's energy	NONE	exist	?
+390	2	water's energy	CREATE	create	?
+390	3	water's energy	NONE	exist	?
+390	4	water's energy	NONE	exist	?
+390	5	water's energy	DESTROY	destroy	?
+390	6	water's energy	NONE	post	?
+390	7	water's energy	NONE	post	?
+390	1	electrical energy	NONE	prior	?
+390	2	electrical energy	NONE	prior	?
+390	3	electrical energy	NONE	prior	?
+390	4	electrical energy	NONE	prior	?
+390	5	electrical energy	CREATE	create	?
+390	6	electrical energy	DESTROY	destroy	?
+390	7	electrical energy	NONE	post	?
+390	1	high voltage ; electricity	NONE	prior	?
+390	2	high voltage ; electricity	NONE	prior	?
+390	3	high voltage ; electricity	NONE	prior	?
+390	4	high voltage ; electricity	NONE	prior	?
+390	5	high voltage ; electricity	NONE	prior	?
+390	6	high voltage ; electricity	CREATE	create	?
+390	7	high voltage ; electricity	MOVE	move	?
+394	1	fuel	DESTROY	destroy	?
+394	2	fuel	NONE	post	?
+394	3	fuel	NONE	post	?
+394	4	fuel	NONE	post	?
+394	5	fuel	NONE	post	?
+394	6	fuel	NONE	post	?
+394	7	fuel	NONE	post	?
+394	1	heat	CREATE	create	?
+394	2	heat	DESTROY	destroy	?
+394	3	heat	NONE	post	?
+394	4	heat	NONE	post	?
+394	5	heat	NONE	post	?
+394	6	heat	NONE	post	?
+394	7	heat	NONE	post	?
+394	1	water	NONE	exist	?
+394	2	water	DESTROY	destroy	?
+394	3	water	NONE	post	?
+394	4	water	NONE	post	?
+394	5	water	NONE	post	?
+394	6	water	NONE	post	?
+394	7	water	NONE	post	?
+394	1	steam	NONE	prior	?
+394	2	steam	CREATE	create	?
+394	3	steam	MOVE	move	?
+394	4	steam	NONE	exist	?
+394	5	steam	NONE	exist	?
+394	6	steam	NONE	exist	?
+394	7	steam	NONE	exist	?
+394	1	turbine	NONE	exist	?
+394	2	turbine	NONE	exist	?
+394	3	turbine	NONE	exist	?
+394	4	turbine	NONE	exist	?
+394	5	turbine	NONE	exist	?
+394	6	turbine	NONE	exist	?
+394	7	turbine	NONE	exist	?
+394	1	generator	NONE	exist	?
+394	2	generator	NONE	exist	?
+394	3	generator	NONE	exist	?
+394	4	generator	NONE	exist	?
+394	5	generator	NONE	exist	?
+394	6	generator	NONE	exist	?
+394	7	generator	NONE	exist	?
+394	1	electricity	NONE	prior	?
+394	2	electricity	NONE	prior	?
+394	3	electricity	NONE	prior	?
+394	4	electricity	NONE	prior	?
+394	5	electricity	CREATE	create	?
+394	6	electricity	MOVE	move	?
+394	7	electricity	NONE	exist	?
+394	1	voltage	NONE	prior	?
+394	2	voltage	NONE	prior	?
+394	3	voltage	NONE	prior	?
+394	4	voltage	NONE	prior	?
+394	5	voltage	NONE	prior	?
+394	6	voltage	NONE	prior	?
+394	7	voltage	CREATE	create	?
+396	1	uranium fuel	MOVE	move	?
+396	2	uranium fuel	DESTROY	destroy	?
+396	3	uranium fuel	NONE	post	?
+396	4	uranium fuel	NONE	post	?
+396	5	uranium fuel	NONE	post	?
+396	6	uranium fuel	NONE	post	?
+396	1	uranium atoms	NONE	exist	?
+396	2	uranium atoms	DESTROY	destroy	?
+396	3	uranium atoms	NONE	post	?
+396	4	uranium atoms	NONE	post	?
+396	5	uranium atoms	NONE	post	?
+396	6	uranium atoms	NONE	post	?
+396	1	heat	NONE	prior	?
+396	2	heat	CREATE	create	?
+396	3	heat	DESTROY	destroy	?
+396	4	heat	NONE	post	?
+396	5	heat	NONE	post	?
+396	6	heat	NONE	post	?
+396	1	water	NONE	exist	?
+396	2	water	NONE	exist	?
+396	3	water	DESTROY	destroy	?
+396	4	water	NONE	post	?
+396	5	water	NONE	post	?
+396	6	water	NONE	post	?
+396	1	steam	NONE	prior	?
+396	2	steam	NONE	prior	?
+396	3	steam	CREATE	create	?
+396	4	steam	MOVE	move	?
+396	5	steam	NONE	exist	?
+396	6	steam	NONE	exist	?
+396	1	electricity	NONE	prior	?
+396	2	electricity	NONE	prior	?
+396	3	electricity	NONE	prior	?
+396	4	electricity	NONE	prior	?
+396	5	electricity	NONE	prior	?
+396	6	electricity	CREATE	create	?
+430	1	trash	CREATE	create	?
+430	2	trash	MOVE	move	?
+430	3	trash	DESTROY	destroy	?
+430	4	trash	MOVE	move	?
+430	5	trash	MOVE	move	?
+430	6	trash	MOVE	move	?
+430	7	trash	MOVE	move	?
+430	8	trash	MOVE	move	?
+430	9	trash	NONE	exist	?
+430	10	trash	MOVE	move	?
+430	1	truck	NONE	exist	?
+430	2	truck	NONE	exist	?
+430	3	truck	NONE	exist	?
+430	4	truck	NONE	exist	?
+430	5	truck	NONE	exist	?
+430	6	truck	MOVE	move	?
+430	7	truck	MOVE	move	?
+430	8	truck	NONE	exist	?
+430	9	truck	NONE	exist	?
+430	10	truck	NONE	exist	?
+430	1	Recycling	NONE	prior	?
+430	2	Recycling	NONE	prior	?
+430	3	Recycling	CREATE	create	?
+430	4	Recycling	NONE	exist	?
+430	5	Recycling	NONE	exist	?
+430	6	Recycling	NONE	exist	?
+430	7	Recycling	NONE	exist	?
+430	8	Recycling	NONE	exist	?
+430	9	Recycling	NONE	exist	?
+430	10	Recycling	NONE	exist	?
+431	1	trash	MOVE	move	?
+431	2	trash	MOVE	move	?
+431	3	trash	MOVE	move	?
+431	4	trash	MOVE	move	?
+431	5	trash	MOVE	move	?
+431	1	trash truck	NONE	exist	?
+431	2	trash truck	NONE	exist	?
+431	3	trash truck	MOVE	move	?
+431	4	trash truck	MOVE	move	?
+431	5	trash truck	NONE	exist	?
+431	1	trashbags	NONE	exist	?
+431	2	trashbags	MOVE	move	?
+431	3	trashbags	MOVE	move	?
+431	4	trashbags	NONE	exist	?
+431	5	trashbags	NONE	exist	?
+432	1	garbage	MOVE	move	?
+432	2	garbage	MOVE	move	?
+432	3	garbage	MOVE	move	?
+432	4	garbage	NONE	exist	?
+432	5	garbage	MOVE	move	?
+432	6	garbage	MOVE	move	?
+432	1	garbage truck	NONE	exist	?
+432	2	garbage truck	MOVE	move	?
+432	3	garbage truck	MOVE	move	?
+432	4	garbage truck	NONE	exist	?
+432	5	garbage truck	NONE	exist	?
+432	6	garbage truck	NONE	exist	?
+432	1	trash	MOVE	move	?
+432	2	trash	MOVE	move	?
+432	3	trash	MOVE	move	?
+432	4	trash	NONE	exist	?
+432	5	trash	NONE	exist	?
+432	6	trash	MOVE	move	?
+432	1	recycling	NONE	prior	?
+432	2	recycling	NONE	prior	?
+432	3	recycling	NONE	prior	?
+432	4	recycling	NONE	prior	?
+432	5	recycling	CREATE	create	?
+432	6	recycling	NONE	exist	?
+445	1	magma	MOVE	move	?
+445	2	magma	DESTROY	destroy	?
+445	3	magma	NONE	post	?
+445	4	magma	NONE	post	?
+445	5	magma	NONE	post	?
+445	6	magma	NONE	post	?
+445	7	magma	NONE	post	?
+445	1	rock	NONE	prior	?
+445	2	rock	CREATE	create	?
+445	3	rock	NONE	exist	?
+445	4	rock	NONE	exist	?
+445	5	rock	NONE	exist	?
+445	6	rock	NONE	exist	?
+445	7	rock	NONE	exist	?
+445	1	sedimentary rock	NONE	prior	?
+445	2	sedimentary rock	NONE	prior	?
+445	3	sedimentary rock	NONE	prior	?
+445	4	sedimentary rock	CREATE	create	?
+445	5	sedimentary rock	NONE	exist	?
+445	6	sedimentary rock	NONE	exist	?
+445	7	sedimentary rock	NONE	exist	?
+445	1	third kind of rock	NONE	prior	?
+445	2	third kind of rock	NONE	prior	?
+445	3	third kind of rock	NONE	prior	?
+445	4	third kind of rock	NONE	prior	?
+445	5	third kind of rock	NONE	prior	?
+445	6	third kind of rock	CREATE	create	?
+445	7	third kind of rock	NONE	exist	?
+446	1	magma	MOVE	move	?
+446	2	magma	NONE	exist	?
+446	3	magma	DESTROY	destroy	?
+446	4	magma	NONE	post	?
+446	5	magma	NONE	post	?
+446	6	magma	NONE	post	?
+446	1	crystals	NONE	prior	?
+446	2	crystals	NONE	prior	?
+446	3	crystals	CREATE	create	?
+446	4	crystals	MOVE	move	?
+446	5	crystals	MOVE	move	?
+446	6	crystals	MOVE	move	?
+446	1	igneous rocks	NONE	prior	?
+446	2	igneous rocks	NONE	prior	?
+446	3	igneous rocks	CREATE	create	?
+446	4	igneous rocks	DESTROY	destroy	?
+446	5	igneous rocks	NONE	post	?
+446	6	igneous rocks	NONE	post	?
+446	1	sedimentary rocks	NONE	prior	?
+446	2	sedimentary rocks	NONE	prior	?
+446	3	sedimentary rocks	NONE	prior	?
+446	4	sedimentary rocks	CREATE	create	?
+446	5	sedimentary rocks	DESTROY	destroy	?
+446	6	sedimentary rocks	NONE	post	?
+446	1	metamorphic rock	NONE	prior	?
+446	2	metamorphic rock	NONE	prior	?
+446	3	metamorphic rock	NONE	prior	?
+446	4	metamorphic rock	NONE	prior	?
+446	5	metamorphic rock	CREATE	create	?
+446	6	metamorphic rock	DESTROY	destroy	?
+509	1	chemical energy	NONE	prior	?
+509	2	chemical energy	NONE	exist	?
+509	3	chemical energy	NONE	prior	?
+509	4	chemical energy	CREATE	create	?
+509	5	chemical energy	DESTROY	destroy	?
+509	6	chemical energy	NONE	post	?
+509	7	chemical energy	NONE	post	?
+509	8	chemical energy	NONE	post	?
+509	9	chemical energy	NONE	post	?
+509	10	chemical energy	NONE	post	?
+509	1	explosion	NONE	prior	?
+509	2	explosion	NONE	prior	?
+509	3	explosion	NONE	prior	?
+509	4	explosion	CREATE	create	?
+509	5	explosion	NONE	exist	?
+509	6	explosion	NONE	exist	?
+509	7	explosion	NONE	post	?
+509	8	explosion	NONE	exist	?
+509	9	explosion	NONE	post	?
+509	10	explosion	NONE	exist	?
+509	1	fuel ; spent fuel	MOVE	move	?
+509	2	fuel ; spent fuel	NONE	exist	?
+509	3	fuel ; spent fuel	NONE	exist	?
+509	4	fuel ; spent fuel	DESTROY	destroy	?
+509	5	fuel ; spent fuel	DESTROY	destroy	?
+509	6	fuel ; spent fuel	NONE	post	?
+509	7	fuel ; spent fuel	NONE	exist	?
+509	8	fuel ; spent fuel	DESTROY	destroy	?
+509	9	fuel ; spent fuel	DESTROY	destroy	?
+509	10	fuel ; spent fuel	NONE	post	?
+509	1	new fuel	NONE	prior	?
+509	2	new fuel	NONE	prior	?
+509	3	new fuel	NONE	prior	?
+509	4	new fuel	NONE	prior	?
+509	5	new fuel	NONE	prior	?
+509	6	new fuel	NONE	prior	?
+509	7	new fuel	NONE	prior	?
+509	8	new fuel	NONE	prior	?
+509	9	new fuel	CREATE	create	?
+509	10	new fuel	NONE	exist	?
+509	1	thermal energy	NONE	prior	?
+509	2	thermal energy	NONE	prior	?
+509	3	thermal energy	NONE	prior	?
+509	4	thermal energy	NONE	prior	?
+509	5	thermal energy	CREATE	create	?
+509	6	thermal energy	NONE	exist	?
+509	7	thermal energy	NONE	exist	?
+509	8	thermal energy	NONE	exist	?
+509	9	thermal energy	NONE	exist	?
+509	10	thermal energy	NONE	exist	?
+509	1	piston	NONE	exist	?
+509	2	piston	NONE	exist	?
+509	3	piston	NONE	exist	?
+509	4	piston	NONE	exist	?
+509	5	piston	NONE	exist	?
+509	6	piston	NONE	exist	?
+509	7	piston	NONE	exist	?
+509	8	piston	NONE	exist	?
+509	9	piston	NONE	exist	?
+509	10	piston	NONE	exist	?
+514	1	glacier	NONE	prior	?
+514	2	glacier	NONE	prior	?
+514	3	glacier	NONE	prior	?
+514	4	glacier	NONE	prior	?
+514	5	glacier	NONE	prior	?
+514	6	glacier	CREATE	create	?
+514	7	glacier	NONE	exist	?
+514	1	snow	MOVE	move	?
+514	2	snow	NONE	exist	?
+514	3	snow	NONE	exist	?
+514	4	snow	DESTROY	destroy	?
+514	5	snow	NONE	post	?
+514	6	snow	NONE	post	?
+514	7	snow	NONE	post	?
+514	1	mass	NONE	exist	?
+514	2	mass	NONE	exist	?
+514	3	mass	NONE	exist	?
+514	4	mass	NONE	exist	?
+514	5	mass	NONE	exist	?
+514	6	mass	DESTROY	destroy	?
+514	7	mass	NONE	post	?
+542	1	waste	CREATE	create	?
+542	2	waste	NONE	exist	?
+542	3	waste	NONE	exist	?
+542	4	waste	MOVE	move	?
+542	5	waste	MOVE	move	?
+542	6	waste	DESTROY	destroy	?
+542	7	waste	NONE	post	?
+542	1	blood	NONE	exist	?
+542	2	blood	MOVE	move	?
+542	3	blood	NONE	exist	?
+542	4	blood	NONE	exist	?
+542	5	blood	MOVE	move	?
+542	6	blood	NONE	exist	?
+542	7	blood	NONE	exist	?
+542	1	cleaned blood	CREATE	create	?
+542	2	cleaned blood	NONE	prior	?
+542	3	cleaned blood	NONE	prior	?
+542	4	cleaned blood	CREATE	create	?
+542	5	cleaned blood	MOVE	move	?
+542	6	cleaned blood	NONE	exist	?
+542	7	cleaned blood	NONE	exist	?
+542	1	filtered waste	CREATE	create	?
+542	2	filtered waste	NONE	exist	?
+542	3	filtered waste	NONE	exist	?
+542	4	filtered waste	NONE	exist	?
+542	5	filtered waste	NONE	exist	?
+542	6	filtered waste	DESTROY	destroy	?
+542	7	filtered waste	NONE	post	?
+542	1	urine	NONE	prior	?
+542	2	urine	NONE	prior	?
+542	3	urine	NONE	prior	?
+542	4	urine	NONE	prior	?
+542	5	urine	NONE	prior	?
+542	6	urine	CREATE	create	?
+542	7	urine	MOVE	move	?
+543	1	blood	MOVE	move	?
+543	2	blood	NONE	exist	?
+543	3	blood	MOVE	move	?
+543	4	blood	NONE	exist	?
+543	5	blood	NONE	exist	?
+543	6	blood	NONE	exist	?
+543	7	blood	MOVE	move	?
+543	1	waste	NONE	exist	?
+543	2	waste	CREATE	create	?
+543	3	waste	MOVE	move	?
+543	4	waste	DESTROY	destroy	?
+543	5	waste	NONE	post	?
+543	6	waste	NONE	post	?
+543	7	waste	NONE	post	?
+543	1	urine	NONE	prior	?
+543	2	urine	NONE	prior	?
+543	3	urine	NONE	prior	?
+543	4	urine	CREATE	create	?
+543	5	urine	MOVE	move	?
+543	6	urine	MOVE	move	?
+543	7	urine	NONE	exist	?
+543	1	filtered blood	NONE	prior	?
+543	2	filtered blood	CREATE	create	?
+543	3	filtered blood	CREATE	create	?
+543	4	filtered blood	NONE	exist	?
+543	5	filtered blood	NONE	exist	?
+543	6	filtered blood	NONE	exist	?
+543	7	filtered blood	MOVE	move	?
+544	1	fluids and liquids ; fluid ; nutrients	MOVE	move	?
+544	2	fluids and liquids ; fluid ; nutrients	DESTROY	destroy	?
+544	3	fluids and liquids ; fluid ; nutrients	NONE	exist	?
+544	4	fluids and liquids ; fluid ; nutrients	NONE	exist	?
+544	5	fluids and liquids ; fluid ; nutrients	NONE	post	?
+544	6	fluids and liquids ; fluid ; nutrients	DESTROY	destroy	?
+544	1	toxins	NONE	exist	?
+544	2	toxins	NONE	exist	?
+544	3	toxins	DESTROY	destroy	?
+544	4	toxins	NONE	post	?
+544	5	toxins	NONE	post	?
+544	6	toxins	NONE	post	?
+544	1	urine	NONE	prior	?
+544	2	urine	NONE	prior	?
+544	3	urine	NONE	prior	?
+544	4	urine	CREATE	create	?
+544	5	urine	MOVE	move	?
+544	6	urine	NONE	exist	?
+608	1	fuel	MOVE	move	?
+608	2	fuel	NONE	exist	?
+608	3	fuel	NONE	exist	?
+608	4	fuel	NONE	exist	?
+608	5	fuel	NONE	exist	?
+608	6	fuel	NONE	exist	?
+608	7	fuel	MOVE	move	?
+608	8	fuel	NONE	exist	?
+608	9	fuel	NONE	exist	?
+608	1	air	MOVE	move	?
+608	2	air	MOVE	move	?
+608	3	air	MOVE	move	?
+608	4	air	NONE	exist	?
+608	5	air	NONE	exist	?
+608	6	air	MOVE	move	?
+608	7	air	MOVE	move	?
+608	8	air	NONE	exist	?
+608	9	air	NONE	exist	?
+608	1	piston	NONE	exist	?
+608	2	piston	NONE	exist	?
+608	3	piston	NONE	exist	?
+608	4	piston	NONE	exist	?
+608	5	piston	NONE	exist	?
+608	6	piston	NONE	exist	?
+608	7	piston	NONE	exist	?
+608	8	piston	MOVE	move	?
+608	9	piston	NONE	exist	?
+608	1	spark	NONE	prior	?
+608	2	spark	NONE	prior	?
+608	3	spark	NONE	prior	?
+608	4	spark	CREATE	create	?
+608	5	spark	NONE	exist	?
+608	6	spark	NONE	exist	?
+608	7	spark	NONE	exist	?
+608	8	spark	NONE	exist	?
+608	9	spark	NONE	exist	?
+608	1	explosion	NONE	prior	?
+608	2	explosion	NONE	prior	?
+608	3	explosion	NONE	prior	?
+608	4	explosion	NONE	prior	?
+608	5	explosion	CREATE	create	?
+608	6	explosion	NONE	exist	?
+608	7	explosion	NONE	exist	?
+608	8	explosion	NONE	post	?
+608	9	explosion	NONE	post	?
+609	1	piston	NONE	exist	?
+609	2	piston	NONE	exist	?
+609	3	piston	NONE	exist	?
+609	4	piston	NONE	exist	?
+609	5	piston	NONE	exist	?
+609	6	piston	NONE	exist	?
+609	1	air	MOVE	move	?
+609	2	air	DESTROY	destroy	?
+609	3	air	DESTROY	destroy	?
+609	4	air	NONE	post	?
+609	5	air	NONE	post	?
+609	6	air	NONE	exist	?
+609	1	gasoline	NONE	exist	?
+609	2	gasoline	NONE	exist	?
+609	3	gasoline	NONE	exist	?
+609	4	gasoline	DESTROY	destroy	?
+609	5	gasoline	DESTROY	destroy	?
+609	6	gasoline	NONE	exist	?
+609	1	spark	NONE	prior	?
+609	2	spark	NONE	prior	?
+609	3	spark	NONE	prior	?
+609	4	spark	CREATE	create	?
+609	5	spark	NONE	exist	?
+609	6	spark	NONE	exist	?
+609	1	explosion	NONE	prior	?
+609	2	explosion	NONE	prior	?
+609	3	explosion	CREATE	create	?
+609	4	explosion	NONE	exist	?
+609	5	explosion	NONE	exist	?
+609	6	explosion	NONE	exist	?
+609	1	exhaust	NONE	prior	?
+609	2	exhaust	NONE	prior	?
+609	3	exhaust	NONE	prior	?
+609	4	exhaust	NONE	prior	?
+609	5	exhaust	NONE	prior	?
+609	6	exhaust	CREATE	create	?
+610	1	fuel	DESTROY	destroy	?
+610	2	fuel	NONE	post	?
+610	3	fuel	NONE	post	?
+610	4	fuel	NONE	post	?
+610	5	fuel	NONE	post	?
+610	6	fuel	NONE	post	?
+610	7	fuel	NONE	post	?
+610	8	fuel	NONE	post	?
+610	1	air	NONE	prior	?
+610	2	air	NONE	exist	?
+610	3	air	MOVE	move	?
+610	4	air	MOVE	move	?
+610	5	air	MOVE	move	?
+610	6	air	NONE	exist	?
+610	7	air	NONE	exist	?
+610	8	air	MOVE	move	?
+610	1	spark	NONE	exist	?
+610	2	spark	NONE	exist	?
+610	3	spark	NONE	exist	?
+610	4	spark	NONE	exist	?
+610	5	spark	CREATE	create	?
+610	6	spark	NONE	exist	?
+610	7	spark	NONE	exist	?
+610	8	spark	NONE	exist	?
+610	1	pressure	NONE	prior	?
+610	2	pressure	NONE	prior	?
+610	3	pressure	NONE	prior	?
+610	4	pressure	NONE	prior	?
+610	5	pressure	CREATE	create	?
+610	6	pressure	MOVE	move	?
+610	7	pressure	NONE	exist	?
+610	8	pressure	NONE	exist	?
+629	1	trash	MOVE	move	?
+629	2	trash	NONE	exist	?
+629	3	trash	NONE	exist	?
+629	4	trash	NONE	exist	?
+629	5	trash	NONE	exist	?
+629	6	trash	MOVE	move	?
+629	7	trash	MOVE	move	?
+629	1	plastic bag	NONE	exist	?
+629	2	plastic bag	MOVE	move	?
+629	3	plastic bag	NONE	exist	?
+629	4	plastic bag	NONE	exist	?
+629	5	plastic bag	MOVE	move	?
+629	6	plastic bag	NONE	exist	?
+629	7	plastic bag	NONE	exist	?
+629	1	garbage can	NONE	exist	?
+629	2	garbage can	NONE	exist	?
+629	3	garbage can	MOVE	move	?
+629	4	garbage can	NONE	exist	?
+629	5	garbage can	NONE	exist	?
+629	6	garbage can	NONE	exist	?
+629	7	garbage can	NONE	exist	?
+629	1	garbage truck; truck	NONE	exist	?
+629	2	garbage truck; truck	NONE	exist	?
+629	3	garbage truck; truck	NONE	exist	?
+629	4	garbage truck; truck	MOVE	move	?
+629	5	garbage truck; truck	NONE	exist	?
+629	6	garbage truck; truck	MOVE	move	?
+629	7	garbage truck; truck	MOVE	move	?
+630	1	trash	MOVE	move	?
+630	2	trash	MOVE	move	?
+630	3	trash	MOVE	move	?
+630	4	trash	MOVE	move	?
+630	5	trash	MOVE	move	?
+630	6	trash	MOVE	move	?
+630	1	truck	NONE	exist	?
+630	2	truck	NONE	exist	?
+630	3	truck	NONE	exist	?
+630	4	truck	MOVE	move	?
+630	5	truck	NONE	exist	?
+630	6	truck	NONE	exist	?
+631	1	trash	MOVE	move	?
+631	2	trash	MOVE	move	?
+631	3	trash	MOVE	move	?
+631	4	trash	MOVE	move	?
+631	5	trash	MOVE	move	?
+631	6	trash	MOVE	move	?
+631	7	trash	MOVE	move	?
+631	1	bags	NONE	exist	?
+631	2	bags	MOVE	move	?
+631	3	bags	NONE	exist	?
+631	4	bags	NONE	exist	?
+631	5	bags	NONE	exist	?
+631	6	bags	NONE	exist	?
+631	7	bags	NONE	exist	?
+631	1	trashcan	NONE	exist	?
+631	2	trashcan	NONE	exist	?
+631	3	trashcan	MOVE	move	?
+631	4	trashcan	MOVE	move	?
+631	5	trashcan	NONE	exist	?
+631	6	trashcan	NONE	exist	?
+631	7	trashcan	NONE	exist	?
+631	1	trash truck; truck	NONE	exist	?
+631	2	trash truck; truck	NONE	exist	?
+631	3	trash truck; truck	NONE	exist	?
+631	4	trash truck; truck	MOVE	move	?
+631	5	trash truck; truck	NONE	exist	?
+631	6	trash truck; truck	NONE	exist	?
+631	7	trash truck; truck	NONE	exist	?
+632	1	electricity	MOVE	move	?
+632	2	electricity	NONE	exist	?
+632	3	electricity	NONE	exist	?
+632	4	electricity	NONE	exist	?
+632	5	electricity	NONE	exist	?
+632	6	electricity	NONE	exist	?
+632	1	heat	NONE	prior	?
+632	2	heat	NONE	prior	?
+632	3	heat	NONE	prior	?
+632	4	heat	CREATE	create	?
+632	5	heat	NONE	post	?
+632	6	heat	NONE	post	?
+632	1	light	NONE	prior	?
+632	2	light	NONE	prior	?
+632	3	light	NONE	prior	?
+632	4	light	NONE	prior	?
+632	5	light	NONE	prior	?
+632	6	light	CREATE	create	?
+634	1	electricity; energy	MOVE	move	?
+634	2	electricity; energy	MOVE	move	?
+634	3	electricity; energy	MOVE	move	?
+634	4	electricity; energy	NONE	exist	?
+634	5	electricity; energy	NONE	exist	?
+634	6	electricity; energy	NONE	exist	?
+634	1	visual signals	NONE	prior	?
+634	2	visual signals	NONE	prior	?
+634	3	visual signals	NONE	prior	?
+634	4	visual signals	NONE	prior	?
+634	5	visual signals	CREATE	create	?
+634	6	visual signals	NONE	exist	?
+634	1	computations	NONE	prior	?
+634	2	computations	NONE	prior	?
+634	3	computations	NONE	prior	?
+634	4	computations	NONE	prior	?
+634	5	computations	NONE	prior	?
+634	6	computations	CREATE	create	?
+1002	1	dirty laundry	MOVE	move	?
+1002	2	dirty laundry	NONE	exist	?
+1002	3	dirty laundry	NONE	exist	?
+1002	4	dirty laundry	NONE	exist	?
+1002	5	dirty laundry	NONE	exist	?
+1002	1	laundry detergent	NONE	exist	?
+1002	2	laundry detergent	MOVE	move	?
+1002	3	laundry detergent	NONE	exist	?
+1002	4	laundry detergent	NONE	exist	?
+1002	5	laundry detergent	NONE	exist	?
+1007	1	plant ; material	DESTROY	destroy	?
+1007	2	plant ; material	NONE	exist	?
+1007	3	plant ; material	DESTROY	destroy	?
+1007	4	plant ; material	NONE	post	?
+1007	5	plant ; material	NONE	post	?
+1007	6	plant ; material	NONE	post	?
+1007	1	microbes	NONE	prior	?
+1007	2	microbes	CREATE	create	?
+1007	3	microbes	MOVE	move	?
+1007	4	microbes	NONE	exist	?
+1007	5	microbes	NONE	exist	?
+1007	6	microbes	NONE	exist	?
+1008	1	bacteria	NONE	exist	?
+1008	2	bacteria	MOVE	move	?
+1008	3	bacteria	MOVE	move	?
+1008	4	bacteria	NONE	exist	?
+1008	5	bacteria	NONE	exist	?
+1008	1	enzymes	NONE	prior	?
+1008	2	enzymes	NONE	prior	?
+1008	3	enzymes	CREATE	create	?
+1008	4	enzymes	NONE	exist	?
+1008	5	enzymes	NONE	exist	?
+1008	1	plant cells	DESTROY	destroy	?
+1008	2	plant cells	NONE	exist	?
+1008	3	plant cells	MOVE	move	?
+1008	4	plant cells	DESTROY	destroy	?
+1008	5	plant cells	NONE	post	?
+1008	1	components	NONE	prior	?
+1008	2	components	NONE	prior	?
+1008	3	components	NONE	prior	?
+1008	4	components	CREATE	create	?
+1008	5	components	MOVE	move	?
+1112	1	carbon dioxide	NONE	exist	?
+1112	2	carbon dioxide	MOVE	move	?
+1112	3	carbon dioxide	MOVE	move	?
+1112	4	carbon dioxide	NONE	exist	?
+1112	5	carbon dioxide	NONE	exist	?
+1112	1	rain	NONE	exist	?
+1112	2	rain	NONE	exist	?
+1112	3	rain	MOVE	move	?
+1112	4	rain	NONE	post	?
+1112	5	rain	NONE	post	?
+1112	1	acid	NONE	prior	?
+1112	2	acid	NONE	prior	?
+1112	3	acid	CREATE	create	?
+1112	4	acid	NONE	exist	?
+1112	5	acid	NONE	exist	?
+1112	1	limestone	DESTROY	destroy	?
+1112	2	limestone	NONE	exist	?
+1112	3	limestone	NONE	exist	?
+1112	4	limestone	DESTROY	destroy	?
+1112	5	limestone	NONE	exist	?
+1112	1	caves	CREATE	create	?
+1112	2	caves	NONE	exist	?
+1112	3	caves	NONE	exist	?
+1112	4	caves	NONE	exist	?
+1112	5	caves	NONE	exist	?
+1113	1	rainwater	NONE	exist	?
+1113	2	rainwater	MOVE	move	?
+1113	3	rainwater	MOVE	move	?
+1113	4	rainwater	NONE	exist	?
+1113	5	rainwater	NONE	exist	?
+1113	6	rainwater	NONE	exist	?
+1113	1	carbon dioxide	MOVE	move	?
+1113	2	carbon dioxide	MOVE	move	?
+1113	3	carbon dioxide	MOVE	move	?
+1113	4	carbon dioxide	DESTROY	destroy	?
+1113	5	carbon dioxide	NONE	exist	?
+1113	6	carbon dioxide	NONE	exist	?
+1113	1	water	NONE	exist	?
+1113	2	water	MOVE	move	?
+1113	3	water	MOVE	move	?
+1113	4	water	DESTROY	destroy	?
+1113	5	water	NONE	exist	?
+1113	6	water	NONE	exist	?
+1113	1	weak acid	NONE	prior	?
+1113	2	weak acid	NONE	prior	?
+1113	3	weak acid	NONE	prior	?
+1113	4	weak acid	CREATE	create	?
+1113	5	weak acid	NONE	exist	?
+1113	6	weak acid	NONE	exist	?
+1113	1	limestone	NONE	exist	?
+1113	2	limestone	NONE	exist	?
+1113	3	limestone	NONE	exist	?
+1113	4	limestone	NONE	exist	?
+1113	5	limestone	DESTROY	destroy	?
+1113	6	limestone	NONE	post	?
+1113	1	caves	NONE	prior	?
+1113	2	caves	NONE	prior	?
+1113	3	caves	NONE	prior	?
+1113	4	caves	NONE	prior	?
+1113	5	caves	NONE	prior	?
+1113	6	caves	CREATE	create	?
+1114	1	rainwater; water	MOVE	move	?
+1114	2	rainwater; water	MOVE	move	?
+1114	3	rainwater; water	MOVE	move	?
+1114	4	rainwater; water	MOVE	move	?
+1114	5	rainwater; water	MOVE	move	?
+1114	6	rainwater; water	MOVE	move	?
+1114	7	rainwater; water	MOVE	move	?
+1114	1	bedrock	NONE	exist	?
+1114	2	bedrock	NONE	exist	?
+1114	3	bedrock	NONE	exist	?
+1114	4	bedrock	DESTROY	destroy	?
+1114	5	bedrock	DESTROY	destroy	?
+1114	6	bedrock	NONE	post	?
+1114	7	bedrock	NONE	post	?
+1114	1	funnels	NONE	prior	?
+1114	2	funnels	NONE	prior	?
+1114	3	funnels	NONE	prior	?
+1114	4	funnels	NONE	prior	?
+1114	5	funnels	CREATE	create	?
+1114	6	funnels	NONE	exist	?
+1114	7	funnels	DESTROY	destroy	?
+1114	1	caves	NONE	prior	?
+1114	2	caves	NONE	prior	?
+1114	3	caves	NONE	prior	?
+1114	4	caves	NONE	prior	?
+1114	5	caves	NONE	prior	?
+1114	6	caves	NONE	prior	?
+1114	7	caves	CREATE	create	?
+1197	1	food	MOVE	move	?
+1197	2	food	NONE	exist	?
+1197	3	food	MOVE	move	?
+1197	4	food	DESTROY	destroy	?
+1197	5	food	MOVE	move	?
+1197	6	food	NONE	exist	?
+1197	7	food	NONE	exist	?
+1197	8	food	NONE	exist	?
+1197	9	food	NONE	exist	?
+1197	1	broken down food	NONE	prior	?
+1197	2	broken down food	NONE	prior	?
+1197	3	broken down food	NONE	prior	?
+1197	4	broken down food	CREATE	create	?
+1197	5	broken down food	MOVE	move	?
+1197	6	broken down food	NONE	exist	?
+1197	7	broken down food	NONE	exist	?
+1197	8	broken down food	NONE	post	?
+1197	9	broken down food	NONE	post	?
+1197	1	sugar	NONE	prior	?
+1197	2	sugar	NONE	prior	?
+1197	3	sugar	NONE	prior	?
+1197	4	sugar	NONE	prior	?
+1197	5	sugar	NONE	prior	?
+1197	6	sugar	NONE	prior	?
+1197	7	sugar	CREATE	create	?
+1197	8	sugar	MOVE	move	?
+1197	9	sugar	NONE	exist	?
+1197	1	energy	NONE	prior	?
+1197	2	energy	NONE	prior	?
+1197	3	energy	NONE	prior	?
+1197	4	energy	NONE	prior	?
+1197	5	energy	NONE	prior	?
+1197	6	energy	NONE	prior	?
+1197	7	energy	NONE	prior	?
+1197	8	energy	NONE	prior	?
+1197	9	energy	CREATE	create	?
+1226	1	Food	MOVE	move	?
+1226	2	Food	NONE	exist	?
+1226	3	Food	DESTROY	destroy	?
+1226	4	Food	NONE	post	?
+1226	5	Food	NONE	post	?
+1226	6	Food	NONE	post	?
+1226	1	Enyzmes	NONE	prior	?
+1226	2	Enyzmes	CREATE	create	?
+1226	3	Enyzmes	NONE	exist	?
+1226	4	Enyzmes	NONE	exist	?
+1226	5	Enyzmes	NONE	exist	?
+1226	6	Enyzmes	NONE	exist	?
+1226	1	Fat	NONE	exist	?
+1226	2	Fat	NONE	exist	?
+1226	3	Fat	DESTROY	destroy	?
+1226	4	Fat	NONE	post	?
+1226	5	Fat	NONE	post	?
+1226	6	Fat	NONE	post	?
+1226	1	Carbohydrates	NONE	exist	?
+1226	2	Carbohydrates	NONE	exist	?
+1226	3	Carbohydrates	NONE	exist	?
+1226	4	Carbohydrates	DESTROY	destroy	?
+1226	5	Carbohydrates	NONE	exist	?
+1226	6	Carbohydrates	MOVE	move	?
+1259	1	Thread	NONE	prior	?
+1259	2	Thread	CREATE	create	?
+1259	3	Thread	NONE	exist	?
+1259	4	Thread	DESTROY	destroy	?
+1259	5	Thread	NONE	exist	?
+1259	1	Web	NONE	prior	?
+1259	2	Web	NONE	prior	?
+1259	3	Web	NONE	prior	?
+1259	4	Web	CREATE	create	?
+1259	5	Web	NONE	exist	?
+1303	1	food	MOVE	move	?
+1303	2	food	NONE	exist	?
+1303	3	food	NONE	exist	?
+1303	4	food	NONE	exist	?
+1303	5	food	NONE	exist	?
+1303	1	milk	MOVE	move	?
+1303	2	milk	NONE	exist	?
+1303	3	milk	NONE	exist	?
+1303	4	milk	NONE	exist	?
+1303	5	milk	NONE	post	?
+1303	1	microbes	NONE	exist	?
+1303	2	microbes	NONE	exist	?
+1303	3	microbes	DESTROY	destroy	?
+1303	4	microbes	NONE	post	?
+1303	5	microbes	NONE	post	?
+708	1	rock	NONE	exist	?
+708	2	rock	NONE	exist	?
+708	3	rock	NONE	exist	?
+708	4	rock	NONE	exist	?
+708	5	rock	NONE	exist	?
+708	6	rock	NONE	exist	?
+708	7	rock	NONE	exist	?
+708	8	rock	NONE	exist	?
+708	9	rock	NONE	exist	?
+708	10	rock	MOVE	move	?
+708	1	sediment	NONE	prior	?
+708	2	sediment	NONE	prior	?
+708	3	sediment	CREATE	create	?
+708	4	sediment	MOVE	move	?
+708	5	sediment	DESTROY	destroy	?
+708	6	sediment	NONE	post	?
+708	7	sediment	NONE	post	?
+708	8	sediment	NONE	post	?
+708	9	sediment	NONE	post	?
+708	10	sediment	NONE	post	?
+708	1	metamorphic rock	NONE	prior	?
+708	2	metamorphic rock	NONE	prior	?
+708	3	metamorphic rock	NONE	prior	?
+708	4	metamorphic rock	NONE	prior	?
+708	5	metamorphic rock	NONE	prior	?
+708	6	metamorphic rock	CREATE	create	?
+708	7	metamorphic rock	MOVE	move	?
+708	8	metamorphic rock	DESTROY	destroy	?
+708	9	metamorphic rock	NONE	post	?
+708	10	metamorphic rock	NONE	post	?
+708	1	melted rock	NONE	prior	?
+708	2	melted rock	NONE	prior	?
+708	3	melted rock	NONE	prior	?
+708	4	melted rock	NONE	prior	?
+708	5	melted rock	CREATE	create	?
+708	6	melted rock	NONE	exist	?
+708	7	melted rock	NONE	exist	?
+708	8	melted rock	MOVE	move	?
+708	9	melted rock	DESTROY	destroy	?
+708	10	melted rock	DESTROY	destroy	?
+716	1	blood	MOVE	move	?
+716	2	blood	NONE	exist	?
+716	3	blood	NONE	exist	?
+716	4	blood	NONE	exist	?
+716	5	blood	NONE	exist	?
+716	6	blood	MOVE	move	?
+716	1	waste	MOVE	move	?
+716	2	waste	NONE	exist	?
+716	3	waste	NONE	exist	?
+716	4	waste	DESTROY	destroy	?
+716	5	waste	NONE	exist	?
+716	6	waste	NONE	exist	?
+716	1	kidney	NONE	exist	?
+716	2	kidney	NONE	exist	?
+716	3	kidney	NONE	exist	?
+716	4	kidney	NONE	exist	?
+716	5	kidney	NONE	exist	?
+716	6	kidney	NONE	exist	?
+716	1	urine	NONE	prior	?
+716	2	urine	NONE	prior	?
+716	3	urine	NONE	prior	?
+716	4	urine	CREATE	create	?
+716	5	urine	MOVE	move	?
+716	6	urine	NONE	exist	?
+716	1	cleaned blood	NONE	prior	?
+716	2	cleaned blood	NONE	prior	?
+716	3	cleaned blood	CREATE	create	?
+716	4	cleaned blood	NONE	exist	?
+716	5	cleaned blood	NONE	exist	?
+716	6	cleaned blood	MOVE	move	?
+758	1	gas; fuel source	MOVE	move	?
+758	2	gas; fuel source	DESTROY	destroy	?
+758	3	gas; fuel source	NONE	post	?
+758	4	gas; fuel source	NONE	post	?
+758	5	gas; fuel source	NONE	post	?
+758	6	gas; fuel source	NONE	post	?
+758	1	mechanical energy	NONE	exist	?
+758	2	mechanical energy	CREATE	create	?
+758	3	mechanical energy	DESTROY	destroy	?
+758	4	mechanical energy	NONE	post	?
+758	5	mechanical energy	NONE	post	?
+758	6	mechanical energy	NONE	post	?
+758	1	electrical energy; electrons	NONE	prior	?
+758	2	electrical energy; electrons	NONE	prior	?
+758	3	electrical energy; electrons	CREATE	create	?
+758	4	electrical energy; electrons	MOVE	move	?
+758	5	electrical energy; electrons	MOVE	move	?
+758	6	electrical energy; electrons	MOVE	move	?
+825	1	uranium ; uranium atoms	NONE	exist	?
+825	2	uranium ; uranium atoms	MOVE	move	?
+825	3	uranium ; uranium atoms	MOVE	move	?
+825	4	uranium ; uranium atoms	DESTROY	destroy	?
+825	5	uranium ; uranium atoms	NONE	post	?
+825	6	uranium ; uranium atoms	NONE	post	?
+825	7	uranium ; uranium atoms	NONE	post	?
+825	8	uranium ; uranium atoms	NONE	post	?
+825	9	uranium ; uranium atoms	NONE	post	?
+825	10	uranium ; uranium atoms	NONE	post	?
+825	1	heat energy	NONE	prior	?
+825	2	heat energy	NONE	prior	?
+825	3	heat energy	NONE	prior	?
+825	4	heat energy	NONE	prior	?
+825	5	heat energy	CREATE	create	?
+825	6	heat energy	DESTROY	destroy	?
+825	7	heat energy	NONE	post	?
+825	8	heat energy	NONE	post	?
+825	9	heat energy	NONE	post	?
+825	10	heat energy	NONE	post	?
+825	1	water	NONE	exist	?
+825	2	water	NONE	exist	?
+825	3	water	NONE	exist	?
+825	4	water	NONE	exist	?
+825	5	water	NONE	exist	?
+825	6	water	DESTROY	destroy	?
+825	7	water	NONE	post	?
+825	8	water	NONE	post	?
+825	9	water	NONE	post	?
+825	10	water	NONE	post	?
+825	1	steam	NONE	prior	?
+825	2	steam	NONE	prior	?
+825	3	steam	NONE	prior	?
+825	4	steam	NONE	prior	?
+825	5	steam	NONE	prior	?
+825	6	steam	CREATE	create	?
+825	7	steam	MOVE	move	?
+825	8	steam	MOVE	move	?
+825	9	steam	NONE	exist	?
+825	10	steam	DESTROY	destroy	?
+825	1	electricity	NONE	prior	?
+825	2	electricity	NONE	prior	?
+825	3	electricity	NONE	prior	?
+825	4	electricity	NONE	prior	?
+825	5	electricity	NONE	prior	?
+825	6	electricity	NONE	prior	?
+825	7	electricity	NONE	prior	?
+825	8	electricity	NONE	prior	?
+825	9	electricity	CREATE	create	?
+825	10	electricity	MOVE	move	?
+826	1	heat	CREATE	create	?
+826	2	heat	DESTROY	destroy	?
+826	3	heat	NONE	post	?
+826	4	heat	NONE	post	?
+826	5	heat	NONE	post	?
+826	1	steam	NONE	prior	?
+826	2	steam	CREATE	create	?
+826	3	steam	MOVE	move	?
+826	4	steam	NONE	exist	?
+826	5	steam	NONE	exist	?
+826	1	electricity	NONE	prior	?
+826	2	electricity	NONE	prior	?
+826	3	electricity	NONE	prior	?
+826	4	electricity	CREATE	create	?
+826	5	electricity	MOVE	move	?
+1260	1	silk	NONE	prior	?
+1260	2	silk	CREATE	create	?
+1260	3	silk	MOVE	move	?
+1260	4	silk	MOVE	move	?
+1260	5	silk	NONE	exist	?
+1260	1	web	NONE	prior	?
+1260	2	web	NONE	prior	?
+1260	3	web	NONE	prior	?
+1260	4	web	NONE	prior	?
+1260	5	web	CREATE	create	?

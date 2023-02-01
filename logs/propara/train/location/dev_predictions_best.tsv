@@ -1,0 +1,1204 @@
+4	1	plants	No-State	?	-
+4	2	plants	No-State	-	-
+4	3	plants	No-State	-	-
+4	4	plants	No-State	-	-
+4	5	plants	No-State	-	-
+4	6	plants	No-State	-	-
+4	7	plants	No-State	-	-
+4	8	plants	No-State	-	-
+4	9	plants	No-State	-	-
+4	10	plants	No-State	-	-
+4	1	bacteria	No-State	?	?
+4	2	bacteria	No-State	?	sediment
+4	3	bacteria	No-State	sediment	sediment
+4	4	bacteria	No-State	sediment	sediment
+4	5	bacteria	No-State	sediment	sediment
+4	6	bacteria	No-State	sediment	sediment
+4	7	bacteria	No-State	sediment	sediment
+4	8	bacteria	No-State	sediment	sediment
+4	9	bacteria	No-State	sediment	sediment
+4	10	bacteria	No-State	sediment	sediment
+4	1	sediment	No-State	?	?
+4	2	sediment	No-State	?	?
+4	3	sediment	No-State	?	?
+4	4	sediment	No-State	?	top of the original sediment
+4	5	sediment	No-State	top of the original sediment	top of the original sediment
+4	6	sediment	No-State	top of the original sediment	top of the original sediment
+4	7	sediment	No-State	top of the original sediment	top of the original sediment
+4	8	sediment	No-State	top of the original sediment	top of the original sediment
+4	9	sediment	No-State	top of the original sediment	buried area
+4	10	sediment	No-State	buried area	-
+4	1	oil	No-State	-	-
+4	2	oil	No-State	-	-
+4	3	oil	No-State	-	-
+4	4	oil	No-State	-	-
+4	5	oil	No-State	-	-
+4	6	oil	No-State	-	-
+4	7	oil	No-State	-	-
+4	8	oil	No-State	-	-
+4	9	oil	No-State	-	-
+4	10	oil	No-State	-	buried area
+5	1	algae	No-State	?	-
+5	2	algae	No-State	-	-
+5	3	algae	No-State	-	-
+5	4	algae	No-State	-	-
+5	5	algae	No-State	-	-
+5	6	algae	No-State	-	-
+5	7	algae	No-State	-	-
+5	8	algae	No-State	-	-
+5	9	algae	No-State	-	-
+5	1	plankton	No-State	?	-
+5	2	plankton	No-State	-	-
+5	3	plankton	No-State	-	-
+5	4	plankton	No-State	-	-
+5	5	plankton	No-State	-	-
+5	6	plankton	No-State	-	-
+5	7	plankton	No-State	-	-
+5	8	plankton	No-State	-	-
+5	9	plankton	No-State	-	-
+5	1	sediment	No-State	-	-
+5	2	sediment	No-State	-	seafloor
+5	3	sediment	No-State	seafloor	seafloor
+5	4	sediment	No-State	seafloor	seafloor
+5	5	sediment	No-State	seafloor	seafloor
+5	6	sediment	No-State	seafloor	seafloor
+5	7	sediment	No-State	seafloor	-
+5	8	sediment	No-State	-	-
+5	9	sediment	No-State	-	-
+5	1	material	No-State	-	-
+5	2	material	No-State	-	seafloor
+5	3	material	No-State	seafloor	seafloor
+5	4	material	No-State	seafloor	seafloor
+5	5	material	No-State	seafloor	seafloor
+5	6	material	No-State	seafloor	seafloor
+5	7	material	No-State	seafloor	-
+5	8	material	No-State	-	-
+5	9	material	No-State	-	-
+5	1	oil	No-State	-	-
+5	2	oil	No-State	-	-
+5	3	oil	No-State	-	-
+5	4	oil	No-State	-	-
+5	5	oil	No-State	-	-
+5	6	oil	No-State	-	-
+5	7	oil	No-State	-	-
+5	8	oil	No-State	-	seafloor
+5	9	oil	No-State	seafloor	rock
+272	1	fuel	No-State	?	generator
+272	2	fuel	No-State	generator	-
+272	3	fuel	No-State	-	-
+272	4	fuel	No-State	-	-
+272	5	fuel	No-State	-	-
+272	6	fuel	No-State	-	-
+272	1	mechanical energy	No-State	?	generator
+272	2	mechanical energy	No-State	generator	-
+272	3	mechanical energy	No-State	-	-
+272	4	mechanical energy	No-State	-	-
+272	5	mechanical energy	No-State	-	-
+272	6	mechanical energy	No-State	-	-
+272	1	electrical energy	No-State	-	-
+272	2	electrical energy	No-State	-	generator
+272	3	electrical energy	No-State	generator	generator
+272	4	electrical energy	No-State	generator	generator
+272	5	electrical energy	No-State	generator	generator
+272	6	electrical energy	No-State	generator	?
+272	1	magnet	No-State	?	?
+272	2	magnet	No-State	?	?
+272	3	magnet	No-State	?	wire
+272	4	magnet	No-State	wire	wire
+272	5	magnet	No-State	wire	wire
+272	6	magnet	No-State	wire	wire
+272	1	flow of electrons ; electricity	No-State	-	-
+272	2	flow of electrons ; electricity	No-State	-	?
+272	3	flow of electrons ; electricity	No-State	?	?
+272	4	flow of electrons ; electricity	No-State	?	generator
+272	5	flow of electrons ; electricity	No-State	generator	wire
+272	6	flow of electrons ; electricity	No-State	wire	?
+349	1	sound ; sound waves	No-State	-	?
+349	2	sound ; sound waves	No-State	?	?
+349	3	sound ; sound waves	No-State	?	object
+349	4	sound ; sound waves	No-State	object	object
+349	5	sound ; sound waves	No-State	object	object
+349	6	sound ; sound waves	No-State	object	object
+349	7	sound ; sound waves	No-State	object	-
+349	1	echoes	No-State	-	-
+349	2	echoes	No-State	-	-
+349	3	echoes	No-State	-	-
+349	4	echoes	No-State	-	-
+349	5	echoes	No-State	-	-
+349	6	echoes	No-State	-	-
+349	7	echoes	No-State	-	object
+375	1	electricity	No-State	?	computer
+375	2	electricity	No-State	computer	computer
+375	3	electricity	No-State	computer	computer
+375	4	electricity	No-State	computer	?
+375	5	electricity	No-State	?	-
+375	1	light	No-State	-	-
+375	2	light	No-State	-	computer
+375	3	light	No-State	computer	-
+375	4	light	No-State	-	-
+375	5	light	No-State	-	-
+375	1	heat	No-State	-	-
+375	2	heat	No-State	-	-
+375	3	heat	No-State	-	computer
+375	4	heat	No-State	computer	computer
+375	5	heat	No-State	computer	computer
+375	1	motion	No-State	-	-
+375	2	motion	No-State	-	-
+375	3	motion	No-State	-	-
+375	4	motion	No-State	-	hard drive, dvd drive or fan
+375	5	motion	No-State	hard drive, dvd drive or fan	-
+375	1	motion energy	No-State	-	-
+375	2	motion energy	No-State	-	-
+375	3	motion energy	No-State	-	-
+375	4	motion energy	No-State	-	hard drive, dvd drive or fan
+375	5	motion energy	No-State	hard drive, dvd drive or fan	-
+388	1	waters;water	No-State	?	?
+388	2	waters;water	No-State	?	dam
+388	3	waters;water	No-State	dam	turbine
+388	4	waters;water	No-State	turbine	?
+388	5	waters;water	No-State	?	?
+388	6	waters;water	No-State	?	bottom
+388	1	turbines	No-State	power plant	power plant
+388	2	turbines	No-State	power plant	power plant
+388	3	turbines	No-State	power plant	power plant
+388	4	turbines	No-State	power plant	power plant
+388	5	turbines	No-State	power plant	power plant
+388	6	turbines	No-State	power plant	power plant
+388	1	generators	No-State	power plant	power plant
+388	2	generators	No-State	power plant	power plant
+388	3	generators	No-State	power plant	power plant
+388	4	generators	No-State	power plant	power plant
+388	5	generators	No-State	power plant	power plant
+388	6	generators	No-State	power plant	power plant
+388	1	electricity	No-State	-	-
+388	2	electricity	No-State	-	-
+388	3	electricity	No-State	-	-
+388	4	electricity	No-State	-	-
+388	5	electricity	No-State	-	generator
+388	6	electricity	No-State	generator	generator
+390	1	reservoir	No-State	-	?
+390	2	reservoir	No-State	?	?
+390	3	reservoir	No-State	?	?
+390	4	reservoir	No-State	?	?
+390	5	reservoir	No-State	?	?
+390	6	reservoir	No-State	?	?
+390	7	reservoir	No-State	?	?
+390	1	water	No-State	?	?
+390	2	water	No-State	?	reservoir
+390	3	water	No-State	reservoir	turbine
+390	4	water	No-State	turbine	turbine
+390	5	water	No-State	turbine	-
+390	6	water	No-State	-	-
+390	7	water	No-State	-	-
+390	1	turbine	No-State	?	?
+390	2	turbine	No-State	?	?
+390	3	turbine	No-State	?	reservoir
+390	4	turbine	No-State	reservoir	reservoir
+390	5	turbine	No-State	reservoir	reservoir
+390	6	turbine	No-State	reservoir	reservoir
+390	7	turbine	No-State	reservoir	reservoir
+390	1	generator	No-State	?	?
+390	2	generator	No-State	?	?
+390	3	generator	No-State	?	?
+390	4	generator	No-State	?	reservoir
+390	5	generator	No-State	reservoir	reservoir
+390	6	generator	No-State	reservoir	?
+390	7	generator	No-State	?	?
+390	1	water's energy	No-State	-	-
+390	2	water's energy	No-State	-	?
+390	3	water's energy	No-State	?	-
+390	4	water's energy	No-State	-	?
+390	5	water's energy	No-State	?	-
+390	6	water's energy	No-State	-	-
+390	7	water's energy	No-State	-	-
+390	1	electrical energy	No-State	-	-
+390	2	electrical energy	No-State	-	-
+390	3	electrical energy	No-State	-	-
+390	4	electrical energy	No-State	-	-
+390	5	electrical energy	No-State	-	generator
+390	6	electrical energy	No-State	generator	-
+390	7	electrical energy	No-State	-	-
+390	1	high voltage ; electricity	No-State	-	-
+390	2	high voltage ; electricity	No-State	-	-
+390	3	high voltage ; electricity	No-State	-	-
+390	4	high voltage ; electricity	No-State	-	-
+390	5	high voltage ; electricity	No-State	-	-
+390	6	high voltage ; electricity	No-State	-	national grid
+390	7	high voltage ; electricity	No-State	national grid	power line
+394	1	fuel	No-State	?	-
+394	2	fuel	No-State	-	-
+394	3	fuel	No-State	-	-
+394	4	fuel	No-State	-	-
+394	5	fuel	No-State	-	-
+394	6	fuel	No-State	-	-
+394	7	fuel	No-State	-	-
+394	1	heat	No-State	-	fuel
+394	2	heat	No-State	fuel	-
+394	3	heat	No-State	-	-
+394	4	heat	No-State	-	-
+394	5	heat	No-State	-	-
+394	6	heat	No-State	-	-
+394	7	heat	No-State	-	-
+394	1	water	No-State	?	?
+394	2	water	No-State	?	-
+394	3	water	No-State	-	-
+394	4	water	No-State	-	-
+394	5	water	No-State	-	-
+394	6	water	No-State	-	-
+394	7	water	No-State	-	-
+394	1	steam	No-State	-	-
+394	2	steam	No-State	-	?
+394	3	steam	No-State	?	turbine
+394	4	steam	No-State	turbine	?
+394	5	steam	No-State	?	?
+394	6	steam	No-State	?	?
+394	7	steam	No-State	?	?
+394	1	turbine	No-State	?	?
+394	2	turbine	No-State	?	?
+394	3	turbine	No-State	?	power plant
+394	4	turbine	No-State	power plant	?
+394	5	turbine	No-State	?	?
+394	6	turbine	No-State	?	?
+394	7	turbine	No-State	?	?
+394	1	generator	No-State	?	?
+394	2	generator	No-State	?	?
+394	3	generator	No-State	?	?
+394	4	generator	No-State	?	?
+394	5	generator	No-State	?	?
+394	6	generator	No-State	?	?
+394	7	generator	No-State	?	?
+394	1	electricity	No-State	-	-
+394	2	electricity	No-State	-	-
+394	3	electricity	No-State	-	-
+394	4	electricity	No-State	-	-
+394	5	electricity	No-State	-	generator
+394	6	electricity	No-State	generator	transformer
+394	7	electricity	No-State	transformer	transformer
+394	1	voltage	No-State	-	-
+394	2	voltage	No-State	-	-
+394	3	voltage	No-State	-	-
+394	4	voltage	No-State	-	-
+394	5	voltage	No-State	-	-
+394	6	voltage	No-State	-	-
+394	7	voltage	No-State	-	transformer
+396	1	uranium fuel	No-State	?	nuclear reactor
+396	2	uranium fuel	No-State	nuclear reactor	-
+396	3	uranium fuel	No-State	-	-
+396	4	uranium fuel	No-State	-	-
+396	5	uranium fuel	No-State	-	-
+396	6	uranium fuel	No-State	-	-
+396	1	uranium atoms	No-State	nuclear reactor	nuclear reactor
+396	2	uranium atoms	No-State	nuclear reactor	-
+396	3	uranium atoms	No-State	-	-
+396	4	uranium atoms	No-State	-	-
+396	5	uranium atoms	No-State	-	-
+396	6	uranium atoms	No-State	-	-
+396	1	heat	No-State	-	-
+396	2	heat	No-State	-	nuclear reactor
+396	3	heat	No-State	nuclear reactor	-
+396	4	heat	No-State	-	-
+396	5	heat	No-State	-	-
+396	6	heat	No-State	-	-
+396	1	water	No-State	nuclear reactor	nuclear reactor
+396	2	water	No-State	nuclear reactor	nuclear reactor
+396	3	water	No-State	nuclear reactor	-
+396	4	water	No-State	-	-
+396	5	water	No-State	-	-
+396	6	water	No-State	-	-
+396	1	steam	No-State	-	-
+396	2	steam	No-State	-	-
+396	3	steam	No-State	-	nuclear reactor
+396	4	steam	No-State	nuclear reactor	turbine
+396	5	steam	No-State	turbine	turbine
+396	6	steam	No-State	turbine	?
+396	1	electricity	No-State	-	-
+396	2	electricity	No-State	-	-
+396	3	electricity	No-State	-	-
+396	4	electricity	No-State	-	-
+396	5	electricity	No-State	-	-
+396	6	electricity	No-State	-	generator
+430	1	trash	No-State	-	house
+430	2	trash	No-State	house	house
+430	3	trash	No-State	house	-
+430	4	trash	No-State	-	curbside
+430	5	trash	No-State	curbside	city
+430	6	trash	No-State	city	truck
+430	7	trash	No-State	truck	landfill
+430	8	trash	No-State	landfill	?
+430	9	trash	No-State	?	?
+430	10	trash	No-State	?	landfill
+430	1	truck	No-State	?	?
+430	2	truck	No-State	?	?
+430	3	truck	No-State	?	?
+430	4	truck	No-State	?	?
+430	5	truck	No-State	?	?
+430	6	truck	No-State	?	?
+430	7	truck	No-State	?	landfill
+430	8	truck	No-State	landfill	?
+430	9	truck	No-State	?	?
+430	10	truck	No-State	?	?
+430	1	Recycling	No-State	-	-
+430	2	Recycling	No-State	-	-
+430	3	Recycling	No-State	-	house
+430	4	Recycling	No-State	house	curbside
+430	5	Recycling	No-State	curbside	city
+430	6	Recycling	No-State	city	truck
+430	7	Recycling	No-State	truck	?
+430	8	Recycling	No-State	?	?
+430	9	Recycling	No-State	?	?
+430	10	Recycling	No-State	?	?
+431	1	trash	No-State	?	household trashbag
+431	2	trash	No-State	household trashbag	household trashbag
+431	3	trash	No-State	household trashbag	trash truck
+431	4	trash	No-State	trash truck	landfill
+431	5	trash	No-State	landfill	?
+431	1	trash truck	No-State	?	?
+431	2	trash truck	No-State	?	?
+431	3	trash truck	No-State	?	?
+431	4	trash truck	No-State	?	landfill
+431	5	trash truck	No-State	landfill	landfill
+431	1	trashbags	No-State	?	?
+431	2	trashbags	No-State	?	large outdoor trashcan
+431	3	trashbags	No-State	large outdoor trashcan	?
+431	4	trashbags	No-State	?	?
+431	5	trashbags	No-State	?	?
+432	1	garbage	No-State	?	large can or in bag outside of the house
+432	2	garbage	No-State	large can or in bag outside of the house	garbage truck
+432	3	garbage	No-State	garbage truck	sort center
+432	4	garbage	No-State	sort center	sort center
+432	5	garbage	No-State	sort center	sorting center
+432	6	garbage	No-State	sorting center	landfill
+432	1	garbage truck	No-State	?	?
+432	2	garbage truck	No-State	?	?
+432	3	garbage truck	No-State	?	sort center
+432	4	garbage truck	No-State	sort center	sort center
+432	5	garbage truck	No-State	sort center	sorting center
+432	6	garbage truck	No-State	sorting center	?
+432	1	trash	No-State	?	large can or in bag outside of the house
+432	2	trash	No-State	large can or in bag outside of the house	garbage truck
+432	3	trash	No-State	garbage truck	sort center
+432	4	trash	No-State	sort center	sorting center
+432	5	trash	No-State	sorting center	?
+432	6	trash	No-State	?	landfill
+432	1	recycling	No-State	-	-
+432	2	recycling	No-State	-	-
+432	3	recycling	No-State	-	-
+432	4	recycling	No-State	-	-
+432	5	recycling	No-State	-	sort center
+432	6	recycling	No-State	sort center	landfill
+445	1	magma	No-State	volcano	?
+445	2	magma	No-State	?	-
+445	3	magma	No-State	-	-
+445	4	magma	No-State	-	-
+445	5	magma	No-State	-	-
+445	6	magma	No-State	-	-
+445	7	magma	No-State	-	-
+445	1	rock	No-State	-	-
+445	2	rock	No-State	-	?
+445	3	rock	No-State	?	?
+445	4	rock	No-State	?	?
+445	5	rock	No-State	?	?
+445	6	rock	No-State	?	?
+445	7	rock	No-State	?	?
+445	1	sedimentary rock	No-State	-	-
+445	2	sedimentary rock	No-State	-	-
+445	3	sedimentary rock	No-State	-	-
+445	4	sedimentary rock	No-State	-	?
+445	5	sedimentary rock	No-State	?	?
+445	6	sedimentary rock	No-State	?	?
+445	7	sedimentary rock	No-State	?	?
+445	1	third kind of rock	No-State	-	-
+445	2	third kind of rock	No-State	-	-
+445	3	third kind of rock	No-State	-	-
+445	4	third kind of rock	No-State	-	-
+445	5	third kind of rock	No-State	-	-
+445	6	third kind of rock	No-State	-	?
+445	7	third kind of rock	No-State	?	?
+446	1	magma	No-State	volcano	?
+446	2	magma	No-State	?	?
+446	3	magma	No-State	?	-
+446	4	magma	No-State	-	-
+446	5	magma	No-State	-	-
+446	6	magma	No-State	-	volcano
+446	1	crystals	No-State	-	-
+446	2	crystals	No-State	-	-
+446	3	crystals	No-State	-	igneous rock
+446	4	crystals	No-State	igneous rock	sedimentary rock
+446	5	crystals	No-State	sedimentary rock	?
+446	6	crystals	No-State	?	?
+446	1	igneous rocks	No-State	-	-
+446	2	igneous rocks	No-State	-	-
+446	3	igneous rocks	No-State	-	?
+446	4	igneous rocks	No-State	?	-
+446	5	igneous rocks	No-State	-	-
+446	6	igneous rocks	No-State	-	-
+446	1	sedimentary rocks	No-State	-	-
+446	2	sedimentary rocks	No-State	-	-
+446	3	sedimentary rocks	No-State	-	-
+446	4	sedimentary rocks	No-State	-	?
+446	5	sedimentary rocks	No-State	?	?
+446	6	sedimentary rocks	No-State	?	?
+446	1	metamorphic rock	No-State	-	-
+446	2	metamorphic rock	No-State	-	-
+446	3	metamorphic rock	No-State	-	-
+446	4	metamorphic rock	No-State	-	-
+446	5	metamorphic rock	No-State	-	?
+446	6	metamorphic rock	No-State	?	-
+509	1	chemical energy	No-State	-	-
+509	2	chemical energy	No-State	-	-
+509	3	chemical energy	No-State	-	-
+509	4	chemical energy	No-State	-	chamber
+509	5	chemical energy	No-State	chamber	-
+509	6	chemical energy	No-State	-	-
+509	7	chemical energy	No-State	-	-
+509	8	chemical energy	No-State	-	-
+509	9	chemical energy	No-State	-	-
+509	10	chemical energy	No-State	-	-
+509	1	explosion	No-State	-	-
+509	2	explosion	No-State	-	-
+509	3	explosion	No-State	-	-
+509	4	explosion	No-State	-	chamber
+509	5	explosion	No-State	chamber	chamber
+509	6	explosion	No-State	chamber	chamber
+509	7	explosion	No-State	chamber	?
+509	8	explosion	No-State	?	?
+509	9	explosion	No-State	?	?
+509	10	explosion	No-State	?	?
+509	1	fuel ; spent fuel	No-State	?	chamber
+509	2	fuel ; spent fuel	No-State	chamber	chamber
+509	3	fuel ; spent fuel	No-State	chamber	chamber
+509	4	fuel ; spent fuel	No-State	chamber	-
+509	5	fuel ; spent fuel	No-State	-	-
+509	6	fuel ; spent fuel	No-State	-	chamber
+509	7	fuel ; spent fuel	No-State	chamber	chamber
+509	8	fuel ; spent fuel	No-State	chamber	?
+509	9	fuel ; spent fuel	No-State	?	-
+509	10	fuel ; spent fuel	No-State	-	-
+509	1	new fuel	No-State	-	chamber
+509	2	new fuel	No-State	chamber	chamber
+509	3	new fuel	No-State	chamber	-
+509	4	new fuel	No-State	-	-
+509	5	new fuel	No-State	-	-
+509	6	new fuel	No-State	-	-
+509	7	new fuel	No-State	-	-
+509	8	new fuel	No-State	-	-
+509	9	new fuel	No-State	-	chamber
+509	10	new fuel	No-State	chamber	chamber
+509	1	thermal energy	No-State	-	-
+509	2	thermal energy	No-State	-	-
+509	3	thermal energy	No-State	-	-
+509	4	thermal energy	No-State	-	-
+509	5	thermal energy	No-State	-	chamber
+509	6	thermal energy	No-State	chamber	chamber
+509	7	thermal energy	No-State	chamber	chamber
+509	8	thermal energy	No-State	chamber	?
+509	9	thermal energy	No-State	?	?
+509	10	thermal energy	No-State	?	?
+509	1	piston	No-State	?	?
+509	2	piston	No-State	?	chamber
+509	3	piston	No-State	chamber	chamber
+509	4	piston	No-State	chamber	chamber
+509	5	piston	No-State	chamber	chamber
+509	6	piston	No-State	chamber	chamber
+509	7	piston	No-State	chamber	chamber
+509	8	piston	No-State	chamber	chamber
+509	9	piston	No-State	chamber	chamber
+509	10	piston	No-State	chamber	?
+514	1	glacier	No-State	-	-
+514	2	glacier	No-State	-	-
+514	3	glacier	No-State	-	-
+514	4	glacier	No-State	-	-
+514	5	glacier	No-State	-	-
+514	6	glacier	No-State	-	area
+514	7	glacier	No-State	area	area
+514	1	snow	No-State	-	area
+514	2	snow	No-State	area	area
+514	3	snow	No-State	area	area
+514	4	snow	No-State	area	-
+514	5	snow	No-State	-	-
+514	6	snow	No-State	-	-
+514	7	snow	No-State	-	-
+514	1	mass	No-State	-	-
+514	2	mass	No-State	-	area
+514	3	mass	No-State	area	area
+514	4	mass	No-State	area	area
+514	5	mass	No-State	area	area
+514	6	mass	No-State	area	-
+514	7	mass	No-State	-	-
+542	1	waste	No-State	-	blood
+542	2	waste	No-State	blood	blood
+542	3	waste	No-State	blood	blood
+542	4	waste	No-State	blood	kidney
+542	5	waste	No-State	kidney	kidney
+542	6	waste	No-State	kidney	-
+542	7	waste	No-State	-	-
+542	1	blood	No-State	?	?
+542	2	blood	No-State	?	kidney
+542	3	blood	No-State	kidney	kidney
+542	4	blood	No-State	kidney	kidney
+542	5	blood	No-State	kidney	?
+542	6	blood	No-State	?	?
+542	7	blood	No-State	?	?
+542	1	cleaned blood	No-State	-	-
+542	2	cleaned blood	No-State	-	-
+542	3	cleaned blood	No-State	-	-
+542	4	cleaned blood	No-State	-	-
+542	5	cleaned blood	No-State	-	?
+542	6	cleaned blood	No-State	?	?
+542	7	cleaned blood	No-State	?	?
+542	1	filtered waste	No-State	-	blood
+542	2	filtered waste	No-State	blood	blood
+542	3	filtered waste	No-State	blood	blood
+542	4	filtered waste	No-State	blood	kidney
+542	5	filtered waste	No-State	kidney	kidney
+542	6	filtered waste	No-State	kidney	-
+542	7	filtered waste	No-State	-	-
+542	1	urine	No-State	-	-
+542	2	urine	No-State	-	-
+542	3	urine	No-State	-	-
+542	4	urine	No-State	-	-
+542	5	urine	No-State	-	-
+542	6	urine	No-State	-	kidney
+542	7	urine	No-State	kidney	bladder
+543	1	blood	No-State	renal artery	kidney
+543	2	blood	No-State	kidney	kidney
+543	3	blood	No-State	kidney	kidney
+543	4	blood	No-State	kidney	kidney
+543	5	blood	No-State	kidney	kidney
+543	6	blood	No-State	kidney	kidney
+543	7	blood	No-State	kidney	body
+543	1	waste	No-State	blood	blood
+543	2	waste	No-State	blood	blood
+543	3	waste	No-State	blood	kidney
+543	4	waste	No-State	kidney	-
+543	5	waste	No-State	-	-
+543	6	waste	No-State	-	-
+543	7	waste	No-State	-	-
+543	1	urine	No-State	-	-
+543	2	urine	No-State	-	-
+543	3	urine	No-State	-	-
+543	4	urine	No-State	-	kidney
+543	5	urine	No-State	kidney	bladder
+543	6	urine	No-State	bladder	bladder
+543	7	urine	No-State	bladder	bladder
+543	1	filtered blood	No-State	-	-
+543	2	filtered blood	No-State	-	kidney
+543	3	filtered blood	No-State	kidney	kidney
+543	4	filtered blood	No-State	kidney	kidney
+543	5	filtered blood	No-State	kidney	kidney
+543	6	filtered blood	No-State	kidney	kidney
+543	7	filtered blood	No-State	kidney	body
+544	1	fluids and liquids ; fluid ; nutrients	No-State	?	body
+544	2	fluids and liquids ; fluid ; nutrients	No-State	body	-
+544	3	fluids and liquids ; fluid ; nutrients	No-State	-	-
+544	4	fluids and liquids ; fluid ; nutrients	No-State	-	-
+544	5	fluids and liquids ; fluid ; nutrients	No-State	-	-
+544	6	fluids and liquids ; fluid ; nutrients	No-State	-	body
+544	1	toxins	No-State	fluid	fluid
+544	2	toxins	No-State	fluid	fluid
+544	3	toxins	No-State	fluid	-
+544	4	toxins	No-State	-	-
+544	5	toxins	No-State	-	-
+544	6	toxins	No-State	-	-
+544	1	urine	No-State	-	-
+544	2	urine	No-State	-	-
+544	3	urine	No-State	-	-
+544	4	urine	No-State	-	body
+544	5	urine	No-State	body	body
+544	6	urine	No-State	body	body
+608	1	fuel	No-State	carburetor or fuel injector	engine
+608	2	fuel	No-State	engine	engine
+608	3	fuel	No-State	engine	engine
+608	4	fuel	No-State	engine	engine
+608	5	fuel	No-State	engine	engine
+608	6	fuel	No-State	engine	engine
+608	7	fuel	No-State	engine	engine
+608	8	fuel	No-State	engine	engine
+608	9	fuel	No-State	engine	-
+608	1	air	No-State	?	?
+608	2	air	No-State	?	engine
+608	3	air	No-State	engine	engine
+608	4	air	No-State	engine	engine
+608	5	air	No-State	engine	engine
+608	6	air	No-State	engine	engine
+608	7	air	No-State	engine	engine
+608	8	air	No-State	engine	engine
+608	9	air	No-State	engine	?
+608	1	piston	No-State	?	?
+608	2	piston	No-State	?	engine
+608	3	piston	No-State	engine	engine
+608	4	piston	No-State	engine	engine
+608	5	piston	No-State	engine	engine
+608	6	piston	No-State	engine	engine
+608	7	piston	No-State	engine	engine
+608	8	piston	No-State	engine	engine
+608	9	piston	No-State	engine	-
+608	1	spark	No-State	-	-
+608	2	spark	No-State	-	-
+608	3	spark	No-State	-	-
+608	4	spark	No-State	-	bottom stroke of the piston
+608	5	spark	No-State	bottom stroke of the piston	bottom stroke of the piston
+608	6	spark	No-State	bottom stroke of the piston	bottom stroke of the piston
+608	7	spark	No-State	bottom stroke of the piston	bottom stroke of the piston
+608	8	spark	No-State	bottom stroke of the piston	bottom stroke of the piston
+608	9	spark	No-State	bottom stroke of the piston	bottom stroke of the piston
+608	1	explosion	No-State	-	-
+608	2	explosion	No-State	-	-
+608	3	explosion	No-State	-	-
+608	4	explosion	No-State	-	-
+608	5	explosion	No-State	-	engine
+608	6	explosion	No-State	engine	engine
+608	7	explosion	No-State	engine	engine
+608	8	explosion	No-State	engine	engine
+608	9	explosion	No-State	engine	-
+609	1	piston	No-State	top	top
+609	2	piston	No-State	top	top
+609	3	piston	No-State	top	top
+609	4	piston	No-State	top	top of its stroke
+609	5	piston	No-State	top of its stroke	top of its stroke
+609	6	piston	No-State	top of its stroke	bottom of its stroke
+609	1	air	No-State	?	cylinder
+609	2	air	No-State	cylinder	cylinder
+609	3	air	No-State	cylinder	-
+609	4	air	No-State	-	-
+609	5	air	No-State	-	cylinder
+609	6	air	No-State	cylinder	?
+609	1	gasoline	No-State	?	cylinder
+609	2	gasoline	No-State	cylinder	cylinder
+609	3	gasoline	No-State	cylinder	cylinder
+609	4	gasoline	No-State	cylinder	cylinder
+609	5	gasoline	No-State	cylinder	-
+609	6	gasoline	No-State	-	-
+609	1	spark	No-State	-	-
+609	2	spark	No-State	-	-
+609	3	spark	No-State	-	-
+609	4	spark	No-State	-	cylinder
+609	5	spark	No-State	cylinder	cylinder
+609	6	spark	No-State	cylinder	cylinder
+609	1	explosion	No-State	-	-
+609	2	explosion	No-State	-	-
+609	3	explosion	No-State	-	cylinder
+609	4	explosion	No-State	cylinder	?
+609	5	explosion	No-State	?	?
+609	6	explosion	No-State	?	?
+609	1	exhaust	No-State	-	-
+609	2	exhaust	No-State	-	-
+609	3	exhaust	No-State	-	-
+609	4	exhaust	No-State	-	-
+609	5	exhaust	No-State	-	-
+609	6	exhaust	No-State	-	tailpipe
+610	1	fuel	No-State	combustion chamber	-
+610	2	fuel	No-State	-	-
+610	3	fuel	No-State	-	-
+610	4	fuel	No-State	-	-
+610	5	fuel	No-State	-	-
+610	6	fuel	No-State	-	-
+610	7	fuel	No-State	-	-
+610	8	fuel	No-State	-	-
+610	1	air	No-State	?	?
+610	2	air	No-State	?	?
+610	3	air	No-State	?	cylinder
+610	4	air	No-State	cylinder	cylinder
+610	5	air	No-State	cylinder	cylinder
+610	6	air	No-State	cylinder	cylinder
+610	7	air	No-State	cylinder	cylinder
+610	8	air	No-State	cylinder	?
+610	1	spark	No-State	-	-
+610	2	spark	No-State	-	-
+610	3	spark	No-State	-	-
+610	4	spark	No-State	-	-
+610	5	spark	No-State	-	cylinder
+610	6	spark	No-State	cylinder	cylinder
+610	7	spark	No-State	cylinder	cylinder
+610	8	spark	No-State	cylinder	cylinder
+610	1	pressure	No-State	-	-
+610	2	pressure	No-State	-	-
+610	3	pressure	No-State	-	-
+610	4	pressure	No-State	-	-
+610	5	pressure	No-State	-	-
+610	6	pressure	No-State	-	piston
+610	7	pressure	No-State	piston	?
+610	8	pressure	No-State	?	?
+629	1	trash	No-State	?	plastic bag
+629	2	trash	No-State	plastic bag	plastic bag
+629	3	trash	No-State	plastic bag	plastic bag
+629	4	trash	No-State	plastic bag	plastic bag
+629	5	trash	No-State	plastic bag	plastic bag
+629	6	trash	No-State	plastic bag	plastic bag
+629	7	trash	No-State	plastic bag	landfill
+629	1	plastic bag	No-State	?	?
+629	2	plastic bag	No-State	?	garbage can
+629	3	plastic bag	No-State	garbage can	garbage can
+629	4	plastic bag	No-State	garbage can	garbage can
+629	5	plastic bag	No-State	garbage can	truck
+629	6	plastic bag	No-State	truck	truck
+629	7	plastic bag	No-State	truck	truck
+629	1	garbage can	No-State	?	?
+629	2	garbage can	No-State	?	?
+629	3	garbage can	No-State	?	outside
+629	4	garbage can	No-State	outside	outside
+629	5	garbage can	No-State	outside	outside
+629	6	garbage can	No-State	outside	outside
+629	7	garbage can	No-State	outside	outside
+629	1	garbage truck; truck	No-State	?	?
+629	2	garbage truck; truck	No-State	?	?
+629	3	garbage truck; truck	No-State	?	?
+629	4	garbage truck; truck	No-State	?	house
+629	5	garbage truck; truck	No-State	house	house
+629	6	garbage truck; truck	No-State	house	landfill
+629	7	garbage truck; truck	No-State	landfill	?
+630	1	trash	No-State	?	garbage container
+630	2	trash	No-State	garbage container	centralized container for the house
+630	3	trash	No-State	centralized container for the house	sanitation company
+630	4	trash	No-State	sanitation company	truck
+630	5	trash	No-State	truck	truck
+630	6	trash	No-State	truck	landfill
+630	1	truck	No-State	?	?
+630	2	truck	No-State	?	?
+630	3	truck	No-State	?	?
+630	4	truck	No-State	?	city
+630	5	truck	No-State	city	landfill
+630	6	truck	No-State	landfill	landfill
+631	1	trash	No-State	?	?
+631	2	trash	No-State	?	bag
+631	3	trash	No-State	bag	bag
+631	4	trash	No-State	bag	trash truck
+631	5	trash	No-State	trash truck	truck
+631	6	trash	No-State	truck	landfill
+631	7	trash	No-State	landfill	landfill
+631	1	bags	No-State	?	?
+631	2	bags	No-State	?	trashcan
+631	3	bags	No-State	trashcan	trashcan
+631	4	bags	No-State	trashcan	trashcan
+631	5	bags	No-State	trashcan	trashcan
+631	6	bags	No-State	trashcan	?
+631	7	bags	No-State	?	?
+631	1	trashcan	No-State	?	?
+631	2	trashcan	No-State	?	?
+631	3	trashcan	No-State	?	curb
+631	4	trashcan	No-State	curb	curb
+631	5	trashcan	No-State	curb	curb
+631	6	trashcan	No-State	curb	curb
+631	7	trashcan	No-State	curb	curb
+631	1	trash truck; truck	No-State	?	?
+631	2	trash truck; truck	No-State	?	?
+631	3	trash truck; truck	No-State	?	?
+631	4	trash truck; truck	No-State	?	curb
+631	5	trash truck; truck	No-State	curb	curb
+631	6	trash truck; truck	No-State	curb	landfill
+631	7	trash truck; truck	No-State	landfill	landfill
+632	1	electricity	No-State	-	computer
+632	2	electricity	No-State	computer	computer
+632	3	electricity	No-State	computer	computer
+632	4	electricity	No-State	computer	computer
+632	5	electricity	No-State	computer	computer
+632	6	electricity	No-State	computer	?
+632	1	heat	No-State	-	-
+632	2	heat	No-State	-	-
+632	3	heat	No-State	-	-
+632	4	heat	No-State	-	?
+632	5	heat	No-State	?	?
+632	6	heat	No-State	?	?
+632	1	light	No-State	-	-
+632	2	light	No-State	-	-
+632	3	light	No-State	-	-
+632	4	light	No-State	-	-
+632	5	light	No-State	-	-
+632	6	light	No-State	-	computer
+634	1	electricity; energy	No-State	?	power supply unit
+634	2	electricity; energy	No-State	power supply unit	transistor
+634	3	electricity; energy	No-State	transistor	cpu
+634	4	electricity; energy	No-State	cpu	?
+634	5	electricity; energy	No-State	?	?
+634	6	electricity; energy	No-State	?	-
+634	1	visual signals	No-State	-	-
+634	2	visual signals	No-State	-	-
+634	3	visual signals	No-State	-	-
+634	4	visual signals	No-State	-	-
+634	5	visual signals	No-State	-	?
+634	6	visual signals	No-State	?	?
+634	1	computations	No-State	-	-
+634	2	computations	No-State	-	-
+634	3	computations	No-State	-	-
+634	4	computations	No-State	-	-
+634	5	computations	No-State	-	-
+634	6	computations	No-State	-	cpu
+1002	1	dirty laundry	No-State	?	washing machine
+1002	2	dirty laundry	No-State	washing machine	washing machine
+1002	3	dirty laundry	No-State	washing machine	washing machine
+1002	4	dirty laundry	No-State	washing machine	washing machine
+1002	5	dirty laundry	No-State	washing machine	washing machine
+1002	1	laundry detergent	No-State	?	?
+1002	2	laundry detergent	No-State	?	washing machine
+1002	3	laundry detergent	No-State	washing machine	washing machine
+1002	4	laundry detergent	No-State	washing machine	washing machine
+1002	5	laundry detergent	No-State	washing machine	washing machine
+1007	1	plant ; material	No-State	?	?
+1007	2	plant ; material	No-State	?	microbe
+1007	3	plant ; material	No-State	microbe	-
+1007	4	plant ; material	No-State	-	soil
+1007	5	plant ; material	No-State	soil	-
+1007	6	plant ; material	No-State	-	-
+1007	1	microbes	No-State	?	-
+1007	2	microbes	No-State	-	dead plant
+1007	3	microbes	No-State	dead plant	material
+1007	4	microbes	No-State	material	?
+1007	5	microbes	No-State	?	?
+1007	6	microbes	No-State	?	?
+1008	1	bacteria	No-State	ground	ground
+1008	2	bacteria	No-State	ground	plant material
+1008	3	bacteria	No-State	plant material	plant material
+1008	4	bacteria	No-State	plant material	plant material
+1008	5	bacteria	No-State	plant material	plant material
+1008	1	enzymes	No-State	-	-
+1008	2	enzymes	No-State	-	-
+1008	3	enzymes	No-State	-	plant material
+1008	4	enzymes	No-State	plant material	plant material
+1008	5	enzymes	No-State	plant material	-
+1008	1	plant cells	No-State	?	-
+1008	2	plant cells	No-State	-	plant material
+1008	3	plant cells	No-State	plant material	plant material
+1008	4	plant cells	No-State	plant material	-
+1008	5	plant cells	No-State	-	-
+1008	1	components	No-State	-	-
+1008	2	components	No-State	-	-
+1008	3	components	No-State	-	-
+1008	4	components	No-State	-	plant material
+1008	5	components	No-State	plant material	bacterium
+1112	1	carbon dioxide	No-State	air	air
+1112	2	carbon dioxide	No-State	air	rain
+1112	3	carbon dioxide	No-State	rain	-
+1112	4	carbon dioxide	No-State	-	-
+1112	5	carbon dioxide	No-State	-	-
+1112	1	rain	No-State	?	?
+1112	2	rain	No-State	?	?
+1112	3	rain	No-State	?	-
+1112	4	rain	No-State	-	-
+1112	5	rain	No-State	-	-
+1112	1	acid	No-State	-	-
+1112	2	acid	No-State	-	-
+1112	3	acid	No-State	-	soil
+1112	4	acid	No-State	soil	soil
+1112	5	acid	No-State	soil	soil
+1112	1	limestone	No-State	?	?
+1112	2	limestone	No-State	?	?
+1112	3	limestone	No-State	?	soil
+1112	4	limestone	No-State	soil	soil
+1112	5	limestone	No-State	soil	-
+1112	1	caves	No-State	-	?
+1112	2	caves	No-State	?	?
+1112	3	caves	No-State	?	soil
+1112	4	caves	No-State	soil	-
+1112	5	caves	No-State	-	soil
+1113	1	rainwater	No-State	?	?
+1113	2	rainwater	No-State	?	soil
+1113	3	rainwater	No-State	soil	soil
+1113	4	rainwater	No-State	soil	-
+1113	5	rainwater	No-State	-	-
+1113	6	rainwater	No-State	-	-
+1113	1	carbon dioxide	No-State	air	rainwater
+1113	2	carbon dioxide	No-State	rainwater	rainwater
+1113	3	carbon dioxide	No-State	rainwater	soil
+1113	4	carbon dioxide	No-State	soil	-
+1113	5	carbon dioxide	No-State	-	-
+1113	6	carbon dioxide	No-State	-	-
+1113	1	water	No-State	?	?
+1113	2	water	No-State	?	soil
+1113	3	water	No-State	soil	soil
+1113	4	water	No-State	soil	soil
+1113	5	water	No-State	soil	soil
+1113	6	water	No-State	soil	-
+1113	1	weak acid	No-State	-	-
+1113	2	weak acid	No-State	-	-
+1113	3	weak acid	No-State	-	-
+1113	4	weak acid	No-State	-	soil
+1113	5	weak acid	No-State	soil	soil
+1113	6	weak acid	No-State	soil	soil
+1113	1	limestone	No-State	?	?
+1113	2	limestone	No-State	?	?
+1113	3	limestone	No-State	?	soil
+1113	4	limestone	No-State	soil	soil
+1113	5	limestone	No-State	soil	soil
+1113	6	limestone	No-State	soil	-
+1113	1	caves	No-State	-	-
+1113	2	caves	No-State	-	-
+1113	3	caves	No-State	-	-
+1113	4	caves	No-State	-	-
+1113	5	caves	No-State	-	-
+1113	6	caves	No-State	-	soil
+1114	1	rainwater; water	No-State	?	soil
+1114	2	rainwater; water	No-State	soil	soil
+1114	3	rainwater; water	No-State	soil	bedrock
+1114	4	rainwater; water	No-State	bedrock	bedrock
+1114	5	rainwater; water	No-State	bedrock	bedrock
+1114	6	rainwater; water	No-State	bedrock	?
+1114	7	rainwater; water	No-State	?	bedrock
+1114	1	bedrock	No-State	?	?
+1114	2	bedrock	No-State	?	?
+1114	3	bedrock	No-State	?	soil
+1114	4	bedrock	No-State	soil	-
+1114	5	bedrock	No-State	-	-
+1114	6	bedrock	No-State	-	-
+1114	7	bedrock	No-State	-	-
+1114	1	funnels	No-State	-	-
+1114	2	funnels	No-State	-	-
+1114	3	funnels	No-State	-	-
+1114	4	funnels	No-State	-	-
+1114	5	funnels	No-State	-	bedrock
+1114	6	funnels	No-State	bedrock	bedrock
+1114	7	funnels	No-State	bedrock	-
+1114	1	caves	No-State	-	-
+1114	2	caves	No-State	-	-
+1114	3	caves	No-State	-	-
+1114	4	caves	No-State	-	-
+1114	5	caves	No-State	-	-
+1114	6	caves	No-State	-	-
+1114	7	caves	No-State	-	soil
+1197	1	food	No-State	?	mouth
+1197	2	food	No-State	mouth	mouth
+1197	3	food	No-State	mouth	stomach
+1197	4	food	No-State	stomach	stomach
+1197	5	food	No-State	stomach	small intestine
+1197	6	food	No-State	small intestine	small intestine
+1197	7	food	No-State	small intestine	-
+1197	8	food	No-State	-	-
+1197	9	food	No-State	-	-
+1197	1	broken down food	No-State	-	-
+1197	2	broken down food	No-State	-	-
+1197	3	broken down food	No-State	-	-
+1197	4	broken down food	No-State	-	stomach
+1197	5	broken down food	No-State	stomach	small intestine
+1197	6	broken down food	No-State	small intestine	small intestine
+1197	7	broken down food	No-State	small intestine	-
+1197	8	broken down food	No-State	-	-
+1197	9	broken down food	No-State	-	-
+1197	1	sugar	No-State	-	-
+1197	2	sugar	No-State	-	-
+1197	3	sugar	No-State	-	-
+1197	4	sugar	No-State	-	-
+1197	5	sugar	No-State	-	-
+1197	6	sugar	No-State	-	-
+1197	7	sugar	No-State	-	blood
+1197	8	sugar	No-State	blood	body
+1197	9	sugar	No-State	body	body
+1197	1	energy	No-State	-	-
+1197	2	energy	No-State	-	-
+1197	3	energy	No-State	-	-
+1197	4	energy	No-State	-	-
+1197	5	energy	No-State	-	-
+1197	6	energy	No-State	-	-
+1197	7	energy	No-State	-	-
+1197	8	energy	No-State	-	-
+1197	9	energy	No-State	-	muscle
+1226	1	Food	No-State	?	gut
+1226	2	Food	No-State	gut	gut
+1226	3	Food	No-State	gut	gut
+1226	4	Food	No-State	gut	gut
+1226	5	Food	No-State	gut	-
+1226	6	Food	No-State	-	-
+1226	1	Enyzmes	No-State	-	-
+1226	2	Enyzmes	No-State	-	pancreas
+1226	3	Enyzmes	No-State	pancreas	pancreas
+1226	4	Enyzmes	No-State	pancreas	pancreas
+1226	5	Enyzmes	No-State	pancreas	pancreas
+1226	6	Enyzmes	No-State	pancreas	pancreas
+1226	1	Fat	No-State	-	-
+1226	2	Fat	No-State	-	?
+1226	3	Fat	No-State	?	-
+1226	4	Fat	No-State	-	-
+1226	5	Fat	No-State	-	-
+1226	6	Fat	No-State	-	-
+1226	1	Carbohydrates	No-State	food	food
+1226	2	Carbohydrates	No-State	food	?
+1226	3	Carbohydrates	No-State	?	gut
+1226	4	Carbohydrates	No-State	gut	-
+1226	5	Carbohydrates	No-State	-	gut
+1226	6	Carbohydrates	No-State	gut	body
+1259	1	Thread	No-State	-	-
+1259	2	Thread	No-State	-	spider
+1259	3	Thread	No-State	spider	?
+1259	4	Thread	No-State	?	web
+1259	5	Thread	No-State	web	web
+1259	1	Web	No-State	-	-
+1259	2	Web	No-State	-	-
+1259	3	Web	No-State	-	-
+1259	4	Web	No-State	-	place for its web
+1259	5	Web	No-State	place for its web	place for its web
+1303	1	food	No-State	?	?
+1303	2	food	No-State	?	?
+1303	3	food	No-State	?	?
+1303	4	food	No-State	?	?
+1303	5	food	No-State	?	?
+1303	1	milk	No-State	?	?
+1303	2	milk	No-State	?	?
+1303	3	milk	No-State	?	?
+1303	4	milk	No-State	?	?
+1303	5	milk	No-State	?	?
+1303	1	microbes	No-State	food	food
+1303	2	microbes	No-State	food	food
+1303	3	microbes	No-State	food	-
+1303	4	microbes	No-State	-	-
+1303	5	microbes	No-State	-	-
+708	1	rock	No-State	?	?
+708	2	rock	No-State	?	?
+708	3	rock	No-State	?	?
+708	4	rock	No-State	?	?
+708	5	rock	No-State	?	?
+708	6	rock	No-State	?	?
+708	7	rock	No-State	?	?
+708	8	rock	No-State	?	?
+708	9	rock	No-State	?	surface
+708	10	rock	No-State	surface	surface
+708	1	sediment	No-State	-	-
+708	2	sediment	No-State	-	-
+708	3	sediment	No-State	-	?
+708	4	sediment	No-State	?	?
+708	5	sediment	No-State	?	-
+708	6	sediment	No-State	-	-
+708	7	sediment	No-State	-	-
+708	8	sediment	No-State	-	-
+708	9	sediment	No-State	-	-
+708	10	sediment	No-State	-	-
+708	1	metamorphic rock	No-State	-	-
+708	2	metamorphic rock	No-State	-	-
+708	3	metamorphic rock	No-State	-	-
+708	4	metamorphic rock	No-State	-	-
+708	5	metamorphic rock	No-State	-	-
+708	6	metamorphic rock	No-State	-	?
+708	7	metamorphic rock	No-State	?	?
+708	8	metamorphic rock	No-State	?	-
+708	9	metamorphic rock	No-State	-	-
+708	10	metamorphic rock	No-State	-	-
+708	1	melted rock	No-State	-	-
+708	2	melted rock	No-State	-	-
+708	3	melted rock	No-State	-	-
+708	4	melted rock	No-State	-	-
+708	5	melted rock	No-State	-	-
+708	6	melted rock	No-State	-	-
+708	7	melted rock	No-State	-	-
+708	8	melted rock	No-State	-	?
+708	9	melted rock	No-State	?	surface
+708	10	melted rock	No-State	surface	surface
+716	1	blood	No-State	body	kidney
+716	2	blood	No-State	kidney	kidney
+716	3	blood	No-State	kidney	kidney
+716	4	blood	No-State	kidney	kidney
+716	5	blood	No-State	kidney	kidney
+716	6	blood	No-State	kidney	body
+716	1	waste	No-State	blood	kidney
+716	2	waste	No-State	kidney	kidney
+716	3	waste	No-State	kidney	kidney
+716	4	waste	No-State	kidney	-
+716	5	waste	No-State	-	-
+716	6	waste	No-State	-	-
+716	1	kidney	No-State	body	?
+716	2	kidney	No-State	?	body
+716	3	kidney	No-State	body	body
+716	4	kidney	No-State	body	body
+716	5	kidney	No-State	body	?
+716	6	kidney	No-State	?	?
+716	1	urine	No-State	-	-
+716	2	urine	No-State	-	-
+716	3	urine	No-State	-	-
+716	4	urine	No-State	-	kidney
+716	5	urine	No-State	kidney	?
+716	6	urine	No-State	?	body
+716	1	cleaned blood	No-State	-	-
+716	2	cleaned blood	No-State	-	-
+716	3	cleaned blood	No-State	-	-
+716	4	cleaned blood	No-State	-	body
+716	5	cleaned blood	No-State	body	kidney
+716	6	cleaned blood	No-State	kidney	body
+758	1	gas; fuel source	No-State	?	?
+758	2	gas; fuel source	No-State	?	?
+758	3	gas; fuel source	No-State	?	-
+758	4	gas; fuel source	No-State	-	-
+758	5	gas; fuel source	No-State	-	-
+758	6	gas; fuel source	No-State	-	-
+758	1	mechanical energy	No-State	?	?
+758	2	mechanical energy	No-State	?	?
+758	3	mechanical energy	No-State	?	-
+758	4	mechanical energy	No-State	-	-
+758	5	mechanical energy	No-State	-	-
+758	6	mechanical energy	No-State	-	-
+758	1	electrical energy; electrons	No-State	-	-
+758	2	electrical energy; electrons	No-State	-	-
+758	3	electrical energy; electrons	No-State	-	alternator
+758	4	electrical energy; electrons	No-State	alternator	generator
+758	5	electrical energy; electrons	No-State	generator	outlet of the generator
+758	6	electrical energy; electrons	No-State	outlet of the generator	outlet of the generator
+825	1	uranium ; uranium atoms	No-State	underground	underground
+825	2	uranium ; uranium atoms	No-State	underground	?
+825	3	uranium ; uranium atoms	No-State	?	nuclear power plant
+825	4	uranium ; uranium atoms	No-State	nuclear power plant	-
+825	5	uranium ; uranium atoms	No-State	-	-
+825	6	uranium ; uranium atoms	No-State	-	-
+825	7	uranium ; uranium atoms	No-State	-	-
+825	8	uranium ; uranium atoms	No-State	-	-
+825	9	uranium ; uranium atoms	No-State	-	-
+825	10	uranium ; uranium atoms	No-State	-	-
+825	1	heat energy	No-State	-	-
+825	2	heat energy	No-State	-	-
+825	3	heat energy	No-State	-	-
+825	4	heat energy	No-State	-	-
+825	5	heat energy	No-State	-	nuclear power plant
+825	6	heat energy	No-State	nuclear power plant	-
+825	7	heat energy	No-State	-	-
+825	8	heat energy	No-State	-	-
+825	9	heat energy	No-State	-	-
+825	10	heat energy	No-State	-	-
+825	1	water	No-State	?	?
+825	2	water	No-State	?	?
+825	3	water	No-State	?	nuclear power plant
+825	4	water	No-State	nuclear power plant	nuclear power plant
+825	5	water	No-State	nuclear power plant	nuclear power plant
+825	6	water	No-State	nuclear power plant	-
+825	7	water	No-State	-	-
+825	8	water	No-State	-	-
+825	9	water	No-State	-	-
+825	10	water	No-State	-	nuclear power plant
+825	1	steam	No-State	-	-
+825	2	steam	No-State	-	-
+825	3	steam	No-State	-	-
+825	4	steam	No-State	-	-
+825	5	steam	No-State	-	-
+825	6	steam	No-State	-	nuclear reactor
+825	7	steam	No-State	nuclear reactor	turbine
+825	8	steam	No-State	turbine	turbine
+825	9	steam	No-State	turbine	nuclear reactor
+825	10	steam	No-State	nuclear reactor	-
+825	1	electricity	No-State	-	-
+825	2	electricity	No-State	-	-
+825	3	electricity	No-State	-	-
+825	4	electricity	No-State	-	-
+825	5	electricity	No-State	-	-
+825	6	electricity	No-State	-	-
+825	7	electricity	No-State	-	-
+825	8	electricity	No-State	-	-
+825	9	electricity	No-State	-	generator
+825	10	electricity	No-State	generator	generator
+826	1	heat	No-State	-	nuclear reactor
+826	2	heat	No-State	nuclear reactor	-
+826	3	heat	No-State	-	-
+826	4	heat	No-State	-	-
+826	5	heat	No-State	-	-
+826	1	steam	No-State	-	-
+826	2	steam	No-State	-	nuclear reactor
+826	3	steam	No-State	nuclear reactor	turbine
+826	4	steam	No-State	turbine	turbine
+826	5	steam	No-State	turbine	turbine
+826	1	electricity	No-State	-	-
+826	2	electricity	No-State	-	-
+826	3	electricity	No-State	-	-
+826	4	electricity	No-State	-	turbine
+826	5	electricity	No-State	turbine	?
+1260	1	silk	No-State	-	-
+1260	2	silk	No-State	-	spider
+1260	3	silk	No-State	spider	object
+1260	4	silk	No-State	object	object
+1260	5	silk	No-State	object	object
+1260	1	web	No-State	-	-
+1260	2	web	No-State	-	-
+1260	3	web	No-State	-	object
+1260	4	web	No-State	object	-
+1260	5	web	No-State	-	object
