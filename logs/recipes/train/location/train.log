@@ -1,0 +1,74 @@
+device: cuda | n_gpu: 1
+Total # of train/dev/test points: 5932/756/737
+Epoch: 0
+Train loss: 0.29624005982320334
+gold_sens: pan
+pred_sens: unknown
+The performance on dev set: 
+Stemmed-EM: 78.936%
+        EM: 78.936%
+Stemmed-F1: 78.936%
+        F1: 78.936%
+Saved checkpoint at: ./logs/recipes/train/location/ckpts/best.ckpt
+gold_sens: pan
+pred_sens: pan
+The performance on test set: 
+Stemmed-EM: 75.681%
+        EM: 75.681%
+Stemmed-F1: 75.681%
+        F1: 75.681%
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 8, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/recipes/train/location', 'random_seed': 1234, 'learning_rate': 0.0001, 'test-Stemmed-EM': 0.7568053415511042, 'test-EM': 0.7568053415511042, 'test-Stemmed-F1': 0.7568053415511042, 'test-F1': 0.7568053415511042, 'dev-Stemmed-EM': 0.7893584127802112, 'dev-EM': 0.7893584127802112, 'dev-Stemmed-F1': 0.7893584127802112, 'dev-F1': 0.7893584127802112, 'best_epoch': 0}
+Epoch: 1
+Train loss: 0.09373503865871192
+gold_sens: pan
+pred_sens: top
+The performance on dev set: 
+Stemmed-EM: 77.377%
+        EM: 77.377%
+Stemmed-F1: 77.377%
+        F1: 77.377%
+Epoch: 2
+Train loss: 0.056951049606818314
+gold_sens: pan
+pred_sens: top
+The performance on dev set: 
+Stemmed-EM: 78.665%
+        EM: 78.665%
+Stemmed-F1: 78.665%
+        F1: 78.665%
+Epoch: 3
+Train loss: 0.041032249361789154
+gold_sens: pan
+pred_sens: unknown
+The performance on dev set: 
+Stemmed-EM: 79.425%
+        EM: 79.425%
+Stemmed-F1: 79.425%
+        F1: 79.425%
+Saved checkpoint at: ./logs/recipes/train/location/ckpts/best.ckpt
+gold_sens: pan
+pred_sens: pan
+The performance on test set: 
+Stemmed-EM: 76.091%
+        EM: 76.091%
+Stemmed-F1: 76.091%
+        F1: 76.091%
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 8, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/recipes/train/location', 'random_seed': 1234, 'learning_rate': 0.0001, 'test-Stemmed-EM': 0.7609142270159219, 'test-EM': 0.7609142270159219, 'test-Stemmed-F1': 0.7609142270159219, 'test-F1': 0.7609142270159219, 'dev-Stemmed-EM': 0.7942540582324144, 'dev-EM': 0.7942540582324144, 'dev-Stemmed-F1': 0.7942540582324144, 'dev-F1': 0.7942540582324144, 'best_epoch': 3}
+Epoch: 4
+Train loss: 0.03219645645324495
+gold_sens: pan
+pred_sens: top
+The performance on dev set: 
+Stemmed-EM: 79.619%
+        EM: 79.619%
+Stemmed-F1: 79.619%
+        F1: 79.619%
+Saved checkpoint at: ./logs/recipes/train/location/ckpts/best.ckpt
+gold_sens: pan
+pred_sens: pan
+The performance on test set: 
+Stemmed-EM: 76.567%
+        EM: 76.567%
+Stemmed-F1: 76.567%
+        F1: 76.567%
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'n_sen': 10, 'batch_size': 8, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/recipes/train/location', 'random_seed': 1234, 'learning_rate': 0.0001, 'test-Stemmed-EM': 0.7656651258346173, 'test-EM': 0.7656651258346173, 'test-Stemmed-F1': 0.7656651258346173, 'test-F1': 0.7656651258346173, 'dev-Stemmed-EM': 0.796186549858284, 'dev-EM': 0.796186549858284, 'dev-Stemmed-F1': 0.796186549858284, 'dev-F1': 0.796186549858284, 'best_epoch': 4}

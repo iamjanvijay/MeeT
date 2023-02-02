@@ -1,0 +1,16 @@
+device: cuda | n_gpu: 1
+Total # of train/dev/test points: 756/737
+gold_sens: pan
+pred_sens: top
+The performance on dev set: 
+Stemmed-EM: 79.619%
+        EM: 79.619%
+Stemmed-F1: 79.619%
+        F1: 79.619%
+gold_sens: pan
+pred_sens: pan
+The performance on test set: 
+Stemmed-EM: 76.567%
+        EM: 76.567%
+Stemmed-F1: 76.567%
+        F1: 76.567%

@@ -1,0 +1,146 @@
+device: cuda | n_gpu: 1
+Total # of train/dev/test points: 5932/756/737
+Epoch: 0
+Train loss: 0.2765355757521898
+gold_sens: exist
+pred_sens: exist
+The performance on dev set: 
+ Accuracy: 83.072%
+Precision: 83.941%
+   Recall: 83.072%
+       F1: 83.064%
+              precision    recall  f1-score   support
+
+     outside       0.90      0.77      0.83      3735
+       exist       0.78      0.90      0.83      3271
+
+    accuracy                           0.83      7006
+   macro avg       0.84      0.83      0.83      7006
+weighted avg       0.84      0.83      0.83      7006
+
+Saved checkpoint at: ./logs/recipes/train/state/ckpts/best.ckpt
+gold_sens: exist
+pred_sens: exist
+The performance on test set: 
+ Accuracy: 83.392%
+Precision: 83.655%
+   Recall: 83.392%
+       F1: 83.397%
+              precision    recall  f1-score   support
+
+     outside       0.87      0.80      0.84      3686
+       exist       0.80      0.87      0.83      3365
+
+    accuracy                           0.83      7051
+   macro avg       0.84      0.84      0.83      7051
+weighted avg       0.84      0.83      0.83      7051
+
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'batch_size': 8, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/recipes/train/state', 'random_seed': 1234, 'learning_rate': 0.0001, 'accuracy_dev': 0.8307165286896946, 'precision_dev': 0.8394135420664621, 'recall_dev': 0.8307165286896946, 'f1_dev': 0.8306356151835208, 'accuracy_test': 0.8339242660615516, 'precision_test': 0.8365485480651221, 'recall_test': 0.8339242660615516, 'f1_test': 0.8339665245307748, 'best_epoch': 0}
+Epoch: 1
+Train loss: 0.1126064720736314
+gold_sens: exist
+pred_sens: exist
+The performance on dev set: 
+ Accuracy: 85.041%
+Precision: 86.427%
+   Recall: 85.041%
+       F1: 85.006%
+              precision    recall  f1-score   support
+
+     outside       0.93      0.77      0.85      3735
+       exist       0.78      0.94      0.85      3271
+
+    accuracy                           0.85      7006
+   macro avg       0.86      0.86      0.85      7006
+weighted avg       0.86      0.85      0.85      7006
+
+Saved checkpoint at: ./logs/recipes/train/state/ckpts/best.ckpt
+gold_sens: exist
+pred_sens: exist
+The performance on test set: 
+ Accuracy: 85.506%
+Precision: 86.001%
+   Recall: 85.506%
+       F1: 85.499%
+              precision    recall  f1-score   support
+
+     outside       0.90      0.81      0.85      3686
+       exist       0.81      0.91      0.86      3365
+
+    accuracy                           0.86      7051
+   macro avg       0.86      0.86      0.86      7051
+weighted avg       0.86      0.86      0.85      7051
+
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'batch_size': 8, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/recipes/train/state', 'random_seed': 1234, 'learning_rate': 0.0001, 'accuracy_dev': 0.8504139309163574, 'precision_dev': 0.8642702201110966, 'recall_dev': 0.8504139309163574, 'f1_dev': 0.850060425538307, 'accuracy_test': 0.8550560204226351, 'precision_test': 0.8600069330663098, 'recall_test': 0.8550560204226351, 'f1_test': 0.8549854853370268, 'best_epoch': 1}
+Epoch: 2
+Train loss: 0.0665453637102629
+gold_sens: exist
+pred_sens: exist
+The performance on dev set: 
+ Accuracy: 87.140%
+Precision: 87.483%
+   Recall: 87.140%
+       F1: 87.153%
+              precision    recall  f1-score   support
+
+     outside       0.91      0.84      0.87      3735
+       exist       0.83      0.91      0.87      3271
+
+    accuracy                           0.87      7006
+   macro avg       0.87      0.87      0.87      7006
+weighted avg       0.87      0.87      0.87      7006
+
+Saved checkpoint at: ./logs/recipes/train/state/ckpts/best.ckpt
+gold_sens: exist
+pred_sens: exist
+The performance on test set: 
+ Accuracy: 86.725%
+Precision: 86.878%
+   Recall: 86.725%
+       F1: 86.732%
+              precision    recall  f1-score   support
+
+     outside       0.89      0.85      0.87      3686
+       exist       0.84      0.89      0.86      3365
+
+    accuracy                           0.87      7051
+   macro avg       0.87      0.87      0.87      7051
+weighted avg       0.87      0.87      0.87      7051
+
+{'lm_model': 't5-large', 'tokeniser': 't5-large', 'epochs': 5, 'batch_size': 8, 'max_i_len': 512, 'max_o_len': 20, 'max_grad_norm': 1.0, 'output_dir': './logs/recipes/train/state', 'random_seed': 1234, 'learning_rate': 0.0001, 'accuracy_dev': 0.8713959463317157, 'precision_dev': 0.8748300233961857, 'recall_dev': 0.8713959463317157, 'f1_dev': 0.8715252796670546, 'accuracy_test': 0.8672528719330591, 'precision_test': 0.8687778094059135, 'recall_test': 0.8672528719330591, 'f1_test': 0.8673175068186697, 'best_epoch': 2}
+Epoch: 3
+Train loss: 0.04743801112119869
+gold_sens: exist
+pred_sens: exist
+The performance on dev set: 
+ Accuracy: 85.884%
+Precision: 87.045%
+   Recall: 85.884%
+       F1: 85.864%
+              precision    recall  f1-score   support
+
+     outside       0.94      0.79      0.86      3735
+       exist       0.80      0.94      0.86      3271
+
+    accuracy                           0.86      7006
+   macro avg       0.87      0.86      0.86      7006
+weighted avg       0.87      0.86      0.86      7006
+
+Epoch: 4
+Train loss: 0.036319735447703914
+gold_sens: exist
+pred_sens: exist
+The performance on dev set: 
+ Accuracy: 85.755%
+Precision: 87.074%
+   Recall: 85.755%
+       F1: 85.726%
+              precision    recall  f1-score   support
+
+     outside       0.94      0.78      0.85      3735
+       exist       0.79      0.94      0.86      3271
+
+    accuracy                           0.86      7006
+   macro avg       0.87      0.86      0.86      7006
+weighted avg       0.87      0.86      0.86      7006
+

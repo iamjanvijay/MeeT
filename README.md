@@ -6,7 +6,9 @@ Janvijay Singh, Fan Bai, Zhen Wang: [Entity Tracking via Effective Use of Multi-
 
 # ProPara Dataset
 
-# Train + Inference using MeeT
+We used the official dataset [split](https://docs.google.com/spreadsheets/d/1x5Ct8EmQs2hVKOYX7b2nS0AOoQi4iM7H9d9isXRDwgM/edit#gid=506891632) and evaluation [script](https://github.com/allenai/aristo-leaderboard/tree/master/propara).
+
+## Train + Inference using MeeT
 
 ```
 # clean the existing logs and saved predictions
@@ -26,8 +28,8 @@ python code/propara/train/location.py --batch_size 16 --learning_rate 1e-4 --epo
 ./eval/propara/merged_state_location_eval.sh logs/propara/train/state logs/propara/train/location;
 ```
 
-# Inference using MeeT
-We release our pre-trained checkpoints in this [Google Drive](https://drive.google.com/drive/folders/1a9SIgd2lYKjLuvisFpENUW1ZvcGeLAiq?usp=sharing). For inference only mode, download the state and location checkpoints and place them in respectively at `logs/propara/inference/state/ckpts` and `logs/propara/inference/location/ckpts` for state and location checkpoints respectively. 
+## Inference using MeeT
+We release our pre-trained checkpoints in this [Google Drive](https://drive.google.com/drive/folders/1lk82H1z2zjclE8ef9GHj95ABhxvIcmrc?usp=sharing). For inference only mode, download the state and location checkpoints and place them in respectively at `logs/propara/inference/state/ckpts` and `logs/propara/inference/location/ckpts` for state and location checkpoints respectively. 
 
 Ensure that the path to placed checkpoints should be `logs/propara/inference/state/ckpts/best.ckpt` and `logs/propara/inference/location/ckpts/best.ckpt`.
 
@@ -49,7 +51,7 @@ python code/propara/inference/location.py --batch_size 16 --tokeniser t5-large -
 ./eval/propara/merged_state_location_eval.sh logs/propara/inference/state logs/propara/inference/location;
 ```
 
-# Reproduced Results
+## Reproduced Results
 ```
 Best dev results:
 =================================================
@@ -84,7 +86,75 @@ Overall F1        0.731
 
 Evaluated 54 predictions against 54 answers.
 
-Saved final test predictions at: eval/propara/final_preds/dev_merged_state_and_location.tsv
+Saved final test predictions at: eval/propara/final_preds/test_merged_state_and_location.tsv
 ```
 
 # Recipes Dataset
+
+We used the dataset split and evaluation scheme as used by past works such as [KoAlA](https://doi.org/10.1145/3442381.3450126) [LEMon](https://arxiv.org/pdf/2201.08081v3.pdf). The dataset [split](https://drive.google.com/drive/folders/1w6yuxeDtXXluH9bnNFFuHpRN6ci4Haz4) and evluation [scripts](https://drive.google.com/drive/folders/1PYGLe7hSoCYfpKmpPumeTy6jmPyONGz4) were provided by KoAlA authors.
+
+## Train + Inference using MeeT
+
+```
+# clean the existing logs and saved predictions
+rm -rf logs/recipes/train/state/*
+rm -rf logs/recipes/train/location/*
+
+# setup a virtual environment - make sure to have exact versions of packages to ensure reproducibility
+python3 -m venv ../meet_venv
+source ../meet_venv/bin/activate
+pip install -r requirements.txt
+
+# train MeeT for state and location question
+python code/recipes/train/state.py --batch_size 8 --learning_rate 1e-4 --epochs 5 --tokeniser t5-large --lm_model t5-large --output_dir ./logs/recipes/train/state;
+python code/recipes/train/location.py --batch_size 8 --learning_rate 1e-4 --epochs 5 --tokeniser t5-large --lm_model t5-large --output_dir ./logs/recipes/train/location;
+
+# evaluation based on location-change
+./eval/recipes/loc_change_eval.sh data/recipes/dev.json logs/recipes/train/state/dev_predictions_best.tsv logs/recipes/train/location/dev_predictions_best.tsv
+./eval/recipes/loc_change_eval.sh data/recipes/test.json logs/recipes/train/state/test_predictions_best.tsv logs/recipes/train/location/test_predictions_best.tsv
+```
+
+## Inference using MeeT
+We release our pre-trained checkpoints in this [Google Drive](https://drive.google.com/drive/folders/1lk82H1z2zjclE8ef9GHj95ABhxvIcmrc?usp=sharing). For inference only mode, download the state and location checkpoints and place them in respectively at `logs/recipes/inference/state/ckpts` and `logs/recipes/inference/location/ckpts` for state and location checkpoints respectively. 
+
+Ensure that the path to placed checkpoints should be `logs/recipes/inference/state/ckpts/best.ckpt` and `logs/recipes/inference/location/ckpts/best.ckpt`.
+
+```
+# clean the existing logs and saved predictions
+rm -rf logs/recipes/inference/state/*
+rm -rf logs/recipes/inference/location/*
+
+# setup a virtual environment - make sure to have exact versions of packages to ensure reproducibility
+python3 -m venv ../meet_venv;
+source ../meet_venv/bin/activate;
+pip install -r requirements.txt;
+
+# inference using MeeT for state and location questions using pre-trained checkpoints
+python code/recipes/inference/state.py --batch_size 8 --tokeniser t5-large --lm_model logs/recipes/inference/state/ckpts/best.ckpt --output_dir ./logs/recipes/inference/state;
+python code/recipes/inference/location.py --batch_size 8 --tokeniser t5-large --lm_model logs/recipes/inference/location/ckpts/best.ckpt --output_dir ./logs/recipes/inference/location;
+
+# evaluation based on location-change
+./eval/recipes/loc_change_eval.sh data/recipes/dev.json logs/recipes/inference/state/dev_predictions_best.tsv logs/recipes/inference/location/dev_predictions_best.tsv
+./eval/recipes/loc_change_eval.sh data/recipes/test.json logs/recipes/inference/state/test_predictions_best.tsv logs/recipes/inference/location/test_predictions_best.tsv
+```
+
+## Reproduced Results
+```
+Reading ground-truth from: data/recipes/dev.json
+Reading state predictions from: logs/recipes/train/state/dev_predictions_best.tsv
+Reading location predictions from: logs/recipes/train/location/dev_predictions_best.tsv
+predicted location changes for 1#chicken: [{'step': 4, 'location': '?'}, {'step': 7, 'location': 'oven'}, {'step': 10, 'location': 'platter'}]
+gold location changes for 1#chicken: [{'step': 4, 'location': '?'}, {'step': 7, 'location': 'broiler'}, {'step': 10, 'location': 'bowl'}]
+756 instances evaluated.
+Total predictions: 1332, total answers: 1268, total correct predictions: 907
+Precision: 68.1, Recall: 71.5, F1: 69.8
+
+Reading ground-truth from: data/recipes/test.json
+Reading state predictions from: logs/recipes/train/state/test_predictions_best.tsv
+Reading location predictions from: logs/recipes/train/location/test_predictions_best.tsv
+predicted location changes for 110#tea bags: [{'step': 2, 'location': '?'}, {'step': 4, 'location': 'jar'}]
+gold location changes for 110#tea bags: [{'step': 2, 'location': '?'}, {'step': 4, 'location': 'jar'}]
+737 instances evaluated.
+Total predictions: 1355, total answers: 1280, total correct predictions: 870
+Precision: 64.2, Recall: 68.0, F1: 66.0
+```
