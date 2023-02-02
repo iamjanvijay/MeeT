@@ -70,7 +70,8 @@ Overall F1        0.741
 Evaluated 43 predictions against 43 answers.
 
 Saved final dev predictions at: eval/propara/final_preds/dev_merged_state_and_location.tsv
-Best test results:
+
+Corresponding test results:
 =================================================
 Question     Avg. Precision  Avg. Recall  Avg. F1
 -------------------------------------------------
@@ -140,6 +141,7 @@ python code/recipes/inference/location.py --batch_size 8 --tokeniser t5-large --
 
 ## Reproduced Results
 ```
+Best dev results:
 Reading ground-truth from: data/recipes/dev.json
 Reading state predictions from: logs/recipes/train/state/dev_predictions_best.tsv
 Reading location predictions from: logs/recipes/train/location/dev_predictions_best.tsv
@@ -149,6 +151,7 @@ gold location changes for 1#chicken: [{'step': 4, 'location': '?'}, {'step': 7, 
 Total predictions: 1332, total answers: 1268, total correct predictions: 907
 Precision: 68.1, Recall: 71.5, F1: 69.8
 
+Corresponding test results:
 Reading ground-truth from: data/recipes/test.json
 Reading state predictions from: logs/recipes/train/state/test_predictions_best.tsv
 Reading location predictions from: logs/recipes/train/location/test_predictions_best.tsv

@@ -38,7 +38,7 @@ print("Saved final dev predictions at:", "eval/propara/final_preds/dev_merged_st
 
 os.system(f'python eval/propara/post_processing_scripts/correct_state_preds_with_crf.py {imp_weight} {exp_weight} test {states_logs_folder};')
 os.system(f'python eval/propara/post_processing_scripts/merge_state_and_location_cgli_style.py {os.path.join(states_logs_folder, "test_predictions_best_post_crf.tsv")} {os.path.join(locations_logs_folder, "test_predictions_best.tsv")} eval/propara/final_preds/test_merged_state_and_location.tsv;')
-print("\nBest test results:")
+print("\nCorresponding test results:")
 main('eval/propara/golds/answers_test.tsv', 'eval/propara/final_preds/test_merged_state_and_location.tsv', None, None, None, only_return_f1=False)
 print("Saved final test predictions at:", "eval/propara/final_preds/test_merged_state_and_location.tsv")
 
