@@ -2,9 +2,7 @@
 
 <img src="images/meet_figure.png" height="520">
 
-This repo contains codes for the following paper:
-
-Janvijay Singh, Fan Bai, Zhen Wang: [Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding](https://arxiv.org/pdf/2210.06444.pdf), EACL 2023
+This repo contains codes for the following paper - Janvijay Singh, Fan Bai, Zhen Wang: [Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding](https://arxiv.org/pdf/2210.06444.pdf), EACL 2023.
 
 # ProPara Dataset
 
