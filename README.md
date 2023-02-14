@@ -1,5 +1,7 @@
 # MeeT
 
+![title](images/meet_figure.png)
+
 This repo contains codes for the following paper:
 
 Janvijay Singh, Fan Bai, Zhen Wang: [Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding](https://arxiv.org/pdf/2210.06444.pdf), EACL 2023
@@ -27,6 +29,8 @@ python code/propara/train/location.py --batch_size 16 --learning_rate 1e-4 --epo
 # CRF based post-processing and evaluation
 ./eval/propara/merged_state_location_eval.sh logs/propara/train/state logs/propara/train/location;
 ```
+
+Note that hyper-parameter selection, including the random seed, can have an impact on the model's performance. This could be due to the small size of the dev and test sets of ProPara and the domain gap between them. To mitigate this issue, we recommend using early stopping during training.
 
 ## Inference using MeeT
 We release our pre-trained checkpoints in this [Google Drive](https://drive.google.com/drive/folders/1lk82H1z2zjclE8ef9GHj95ABhxvIcmrc?usp=sharing). For inference only mode, download the state and location checkpoints and place them in respectively at `logs/propara/inference/state/ckpts` and `logs/propara/inference/location/ckpts` for state and location checkpoints respectively. 
@@ -160,4 +164,18 @@ gold location changes for 110#tea bags: [{'step': 2, 'location': '?'}, {'step': 
 737 instances evaluated.
 Total predictions: 1355, total answers: 1280, total correct predictions: 870
 Precision: 64.2, Recall: 68.0, F1: 66.0
+```
+
+## How to cite
+
+If you extend or use this work, please cite the relevant papers:
+```bibtex
+@inproceedings{ProcTextMeeT,
+    title = {Entity Tracking via Effective Use of Multi-Task Learning Model and Mention-guided Decoding},
+    author = {Singh, Janvijay and Bai, Fan and Wang, Zhen},
+    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume",
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2210.06444",
+}
 ```
