@@ -1,6 +1,6 @@
 # MeeT
 
-![title](images/meet_figure.png)
+<img src="images/meet_figure.png" height="520">
 
 This repo contains codes for the following paper:
 
